@@ -640,6 +640,10 @@ figcaption {
   margin-bottom: 20px;
 }
 
+.work-image.cc-work-2:hover {
+  opacity: 1;
+}
+
 .work-image.cc-work-4 {
   background-image: url('../images/portfolio-3---wide.svg');
   background-size: cover;
@@ -655,6 +659,10 @@ figcaption {
   width: 100%;
   height: auto;
   margin-bottom: 20px;
+}
+
+.work-image.cc-work-3:hover {
+  opacity: 1;
 }
 
 .project-name-link {
@@ -1067,9 +1075,12 @@ figcaption {
 .button-2 {
   z-index: 10;
   float: right;
-  border: 0px solid var(--white);
+  border: 5px solid var(--white);
+  background-image: url('../images/back-to-top.svg'), linear-gradient(to bottom, var(--primary-black), var(--primary-black));
+  opacity: 0;
+  -webkit-backdrop-filter: saturate(0%) blur(3px);
+  backdrop-filter: saturate(0%) blur(3px);
   cursor: pointer;
-  background-image: url('../images/more.svg'), linear-gradient(#000, #000);
   background-position: 0 0, 0 0;
   background-repeat: no-repeat, repeat;
   background-size: cover, auto;
@@ -1083,7 +1094,7 @@ figcaption {
   bottom: 5%;
   left: auto;
   right: 5%;
-  transform: translate(0)rotate(180deg);
+  transform: none;
 }
 
 .button-2:hover {
@@ -3230,7 +3241,7 @@ figcaption {
   background-image: none;
 }
 
-.div-block-29 {
+.loading-overlay {
   z-index: 1000;
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
@@ -3284,6 +3295,60 @@ figcaption {
   width: 100%;
   height: 0;
   position: absolute;
+}
+
+.old-download-btn {
+  z-index: 10;
+  float: right;
+  border: 2px solid var(--teal);
+  cursor: pointer;
+  background-image: url('../images/open-new-tab.svg'), linear-gradient(#000, #000);
+  background-position: 50%, 0 0;
+  background-repeat: no-repeat, repeat;
+  background-size: 50px, auto;
+  border-radius: 100px;
+  width: 5em;
+  height: 5em;
+  transition: box-shadow .2s cubic-bezier(0, 0, .345, .983);
+  display: block;
+  position: fixed;
+  top: auto;
+  bottom: 5%;
+  left: auto;
+  right: 5%;
+  transform: translate(0);
+}
+
+.old-download-btn:hover {
+  box-shadow: 0 0 5px 10px rgba(255, 255, 255, .2);
+}
+
+.btn__open-new-tab {
+  z-index: 10;
+  float: right;
+  border: 5px solid var(--white);
+  background-image: url('../images/open-new-tab.svg'), linear-gradient(to bottom, var(--primary-black), var(--primary-black));
+  -webkit-backdrop-filter: saturate(0%) blur(3px);
+  backdrop-filter: saturate(0%) blur(3px);
+  cursor: pointer;
+  background-position: 50%, 0 0;
+  background-repeat: no-repeat, repeat;
+  background-size: 50px, auto;
+  border-radius: 100px;
+  width: 5em;
+  height: 5em;
+  transition: box-shadow .2s cubic-bezier(0, 0, .345, .983);
+  display: block;
+  position: fixed;
+  top: auto;
+  bottom: 5%;
+  left: auto;
+  right: 5%;
+  transform: none;
+}
+
+.btn__open-new-tab:hover {
+  box-shadow: 0 0 5px 10px rgba(255, 255, 255, .2);
 }
 
 @media screen and (max-width: 991px) {
@@ -3946,6 +4011,10 @@ figcaption {
     font-weight: 400;
     line-height: 20px;
   }
+
+  .old-download-btn {
+    transform: none;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -4167,6 +4236,13 @@ figcaption {
 
   .project-title {
     margin-bottom: 20px;
+  }
+
+  .button-2:hover {
+    background-image: url('../images/back-to-top.svg'), linear-gradient(to bottom, var(--purple), var(--purple));
+    background-position: 0 0, 0 0;
+    background-repeat: no-repeat, repeat;
+    background-size: cover, auto;
   }
 
   .subtitle {
@@ -4668,6 +4744,13 @@ figcaption {
 
   .more-wrapper {
     width: 4em;
+  }
+
+  .btn__open-new-tab:hover {
+    background-image: url('../images/back-to-top.svg'), linear-gradient(to bottom, var(--purple), var(--purple));
+    background-position: 0 0, 0 0;
+    background-repeat: no-repeat, repeat;
+    background-size: cover, auto;
   }
 }
 
