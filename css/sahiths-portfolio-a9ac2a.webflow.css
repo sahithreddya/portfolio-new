@@ -4002,7 +4002,7 @@ figcaption {
   }
 
   .divider-dot {
-    line-height: 26px;
+    line-height: 13px;
     display: block;
   }
 
@@ -4711,7 +4711,7 @@ figcaption {
 
   .project-desc {
     font-size: var(--bb-body-tablet-fontsize);
-    font-weight: 400;
+    font-weight: 700;
     line-height: 22px;
   }
 
@@ -4724,10 +4724,15 @@ figcaption {
     padding: 15px;
   }
 
+  .flex-block-10 {
+    justify-content: center;
+    align-items: flex-start;
+  }
+
   .divider-dot {
     font-size: var(--bb-body-tablet-fontsize);
-    font-weight: 400;
-    line-height: 22px;
+    font-weight: 800;
+    line-height: 16px;
   }
 
   .divider-dot.tablet {
@@ -5178,21 +5183,7 @@ figcaption {
     margin-right: 0;
   }
 
-  .project-desc {
-    font-size: var(--bb-body-tablet-fontsize);
-    font-weight: 400;
-  }
-
-  .project-desc.tablet {
-    font-size: 12px;
-  }
-
-  .divider-dot {
-    font-size: var(--bb-body-tablet-fontsize);
-    font-weight: 400;
-  }
-
-  .divider-dot.tablet {
+  .project-desc.tablet, .divider-dot.tablet {
     font-size: 12px;
   }
 
