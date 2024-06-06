@@ -652,7 +652,7 @@ figcaption {
 .work-image.cc-work-3 {
   aspect-ratio: 16 / 9;
   background-image: url('../images/Beagle-Picture.png');
-  background-position: 50% 59%;
+  background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll;
@@ -662,6 +662,51 @@ figcaption {
 }
 
 .work-image.cc-work-3:hover {
+  opacity: 1;
+}
+
+.work-image.cc-work-4 {
+  aspect-ratio: 16 / 9;
+  background-image: url('../images/Beagle-Picture.png');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.work-image.cc-work-4:hover {
+  opacity: 1;
+}
+
+.work-image.work__htt-logo {
+  aspect-ratio: 16 / 9;
+  background-image: url('../images/Business-Card-Mockup.png');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.work-image.work__htt-logo:hover {
+  opacity: 1;
+}
+
+.work-image.work__engg-week {
+  aspect-ratio: 16 / 9;
+  background-image: url('../images/Shirts-Mockup.png');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.work-image.work__engg-week:hover {
   opacity: 1;
 }
 
@@ -1140,7 +1185,7 @@ figcaption {
   background-color: rgba(221, 221, 221, 0);
   height: auto;
   max-height: none;
-  display: none;
+  display: block;
   overflow: visible;
 }
 
@@ -3111,6 +3156,7 @@ figcaption {
   font-family: Airbnbcereal, sans-serif;
   font-size: 1em;
   font-weight: 800;
+  text-decoration: none;
   list-style-type: decimal;
 }
 
@@ -3285,6 +3331,10 @@ figcaption {
   top: 85px;
 }
 
+.progress-wrapper.work__htt-logo, .progress-wrapper.work__engg-week {
+  display: none;
+}
+
 .div-block-30 {
   background-color: #9d2a2a;
   border-radius: 50px;
@@ -3349,6 +3399,60 @@ figcaption {
 
 .btn__open-new-tab:hover {
   box-shadow: 0 0 5px 10px rgba(255, 255, 255, .2);
+}
+
+.work-page-desc {
+  opacity: 1;
+  color: var(--teal);
+  text-align: justify;
+  text-transform: uppercase;
+  font-family: Airbnbcereal, sans-serif;
+  font-size: 1.5em;
+  font-weight: 500;
+  text-decoration: none;
+  list-style-type: decimal;
+}
+
+.work-page-desc.cc-position-name {
+  color: gray;
+  font-family: Airbnbcereal, sans-serif;
+  font-size: var(--body-font);
+  margin-bottom: 0;
+  font-weight: 400;
+}
+
+.work-page-desc.list-item {
+  color: var(--body-grey);
+  margin-bottom: 0;
+  font-family: Airbnbcereal, sans-serif;
+  list-style-type: decimal;
+}
+
+.wrapper__work-desc {
+  grid-column-gap: 6px;
+  grid-row-gap: 6px;
+}
+
+.engg__content-flex, .htt-logo__content-flex {
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  background-color: var(--primary-black);
+  flex-direction: column;
+  grid-template: ". ."
+  / 1fr 2.5fr;
+  align-self: center;
+  max-width: 1080px;
+  margin: 10px auto 30px;
+  padding: 20px;
+  display: block;
+}
+
+.slider__engg-week, .slider__htt-logo {
+  background-color: rgba(221, 221, 221, 0);
+  height: auto;
+  max-height: none;
+  display: block;
+  overflow: visible;
 }
 
 @media screen and (max-width: 991px) {
@@ -3458,7 +3562,7 @@ figcaption {
     background-position: 50% 0;
   }
 
-  .work-image.cc-work-3 {
+  .work-image.cc-work-3, .work-image.cc-work-4, .work-image.work__htt-logo, .work-image.work__engg-week {
     background-position: 50% 85%;
   }
 
@@ -4014,6 +4118,37 @@ figcaption {
 
   .old-download-btn {
     transform: none;
+  }
+
+  .work-page-desc {
+    line-height: 26px;
+    display: block;
+  }
+
+  .work-page-desc.tablet {
+    font-size: var(--bb-body-fontsize);
+    font-weight: 400;
+    line-height: 20px;
+  }
+
+  .slide__htt-logo-1, .slide__engg-week-logo {
+    object-fit: contain;
+  }
+
+  .engg__content-flex, .htt-logo__content-flex {
+    grid-row-gap: 0px;
+    text-align: center;
+    grid-template: "."
+                   "."
+                   / 1fr;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  .slider__engg-week.qwe, .slider__htt-logo.qwe {
+    width: 70%;
   }
 }
 
@@ -4757,6 +4892,29 @@ figcaption {
     background-repeat: no-repeat, repeat;
     background-size: cover, auto;
   }
+
+  .work-page-desc {
+    font-size: var(--bb-body-tablet-fontsize);
+    font-weight: 700;
+    line-height: 22px;
+  }
+
+  .work-page-desc.tablet {
+    font-size: var(--bb-body-tablet-fontsize);
+  }
+
+  .wrapper__work-desc {
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .engg__content-flex, .htt-logo__content-flex {
+    grid-row-gap: 0px;
+    max-width: 100vw;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -5190,6 +5348,20 @@ figcaption {
   .user-interview-image {
     overflow: hidden;
   }
+
+  .work-page-desc.tablet {
+    font-size: 12px;
+  }
+
+  .engg__content-flex, .htt-logo__content-flex {
+    grid-row-gap: 0px;
+    width: 100%;
+    max-width: none;
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
 #w-node-_34f3d0d4-0947-ab41-71bc-490db9f35e93-d15ab3a3 {
@@ -5258,7 +5430,7 @@ figcaption {
   grid-area: span 1 / span 2 / span 1 / span 2;
 }
 
-#Title.w-node-e02cada8-46da-0df3-8f32-2bc6ba2f30f9-277b7295, #Title.w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-83ed57db {
+#Title.w-node-e02cada8-46da-0df3-8f32-2bc6ba2f30f9-277b7295, #Title.w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-83ed57db, #Title.w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-864648af, #Title.w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-174515f3 {
   grid-area: 1 / 1 / 2 / 4;
 }
 
@@ -5299,7 +5471,7 @@ figcaption {
     grid-area: span 1 / span 3 / span 1 / span 3;
   }
 
-  #Title.w-node-e02cada8-46da-0df3-8f32-2bc6ba2f30f9-277b7295, #Title.w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-83ed57db {
+  #Title.w-node-e02cada8-46da-0df3-8f32-2bc6ba2f30f9-277b7295, #Title.w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-83ed57db, #Title.w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-864648af, #Title.w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-174515f3 {
     grid-area: 1 / 1 / 2 / 2;
   }
 }
