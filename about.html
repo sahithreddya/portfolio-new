@@ -1,4 +1,4 @@
-<!DOCTYPE html><!--  Last Published: Thu Jun 06 2024 22:38:41 GMT+0000 (Coordinated Universal Time)  -->
+<!DOCTYPE html><!--  Last Published: Mon Jul 01 2024 23:53:19 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="65e22fb14b16449dd15ab3a7" data-wf-site="65e22fb14b16449dd15ab36a">
 <head>
   <meta charset="utf-8">
@@ -33,6 +33,48 @@
         background-attachment: fixed;
       }
     </style>
+  <style>
+      .w-slider-arrow-left {
+        display: none
+      }
+      .w-slider-arrow-right {
+        display: none
+      }
+      .w-slider-nav.w-num>.w-slider-dot {
+        font-size: 1.2em;
+        font-weight: 700;
+        color: #999;
+        font-family: Airbnbcereal, sans-serif;
+        font-size: 1.2em;
+        line-height: var(--bb-body-height);
+        background: none;
+      }
+      .w-slider-nav.w-num>.w-slider-dot.w-active {
+        color: white;
+      }
+      .w-slider-dot {
+        background: none;
+      }
+      .w-slider-dot:focus {
+        box-shadow: none;
+      }
+      .w-slider-dot:focus.w-active {
+        color: var(--white);
+        box-shadow: none;
+      }
+      .w-slider-dot.w-slider-active {
+        color: var(--white);
+      }
+      .w-slider-mask {
+        top: 50px;
+        bottom: 0;
+      }
+      .w-slider-nav {
+        top: 0;
+        bottom: auto;
+        right: auto;
+      }
+    </style>
 </head>
 <body class="body">
   <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
@@ -43,46 +85,111 @@
           <a href="index.html" class="navigation-item w-nav-link">Home</a>
           <a href="/#work-section" class="navigation-item w-nav-link">Work</a>
           <a href="about.html" aria-current="page" class="navigation-item w-nav-link w--current">About</a>
-          <a href="resume.html" class="navigation-item w-nav-link">Résumé</a>
+          <a href="resume.html" class="navigation-item w-nav-link">RESUME</a>
         </nav>
         <div class="menu-button w-nav-button"><img src="images/white-menu.png" width="22" height="Auto" alt="" class="menu-icon"></div>
       </div>
     </div>
   </div>
   <div class="section">
-    <div class="w-layout-vflex flex-block-11">
-      <div class="div-block-21">
-        <div class="div-block-22">
-          <div class="about-para-heading">Hello! <br>I&#x27;m Sahith Reddy. <br></div><img src="images/sahith.jpg" loading="lazy" width="Auto" sizes="(max-width: 479px) 100vw, (max-width: 767px) 44vw, (max-width: 991px) 43vw, 42vw" alt="Sahith Reddy&#x27;s picture" srcset="images/sahith-p-500.jpg 500w, images/sahith-p-800.jpg 800w, images/sahith-p-1080.jpg 1080w, images/sahith-p-1600.jpg 1600w, images/sahith-p-2000.jpg 2000w, images/sahith.jpg 2520w" class="image-18">
-        </div>
-        <div class="div-block-23">
-          <div class="div-block-24">
-            <p class="bb-para-light--alt">I am a UI developer turned designer, a decision that resulted from learning the importance of usability and user perception in interfaces. I firmly believe products are supposed to be tools to help us become a better version of ourselves, not distract us away from it.</p>
-            <p class="bb-para-light--alt">Currently, I am pursuing a graduate degree in <strong>Human-Centered Computing</strong> from the <strong>University of Maryland, Baltimore County (UMBC).</strong> Through my coursework and research projects at UMBC, I have gained a deep understanding of user-centered design principles and honed my skills in creating intuitive, user-friendly &amp; effective tools.</p>
-            <p class="bb-para-light--alt">I&#x27;ve previously worked on creating user interfaces professionally for web and mobile platforms and have recently worked on designing UX screens for a mobile e-commerce application.</p>
-            <p class="bb-para-light--alt">I&#x27;m looking for opportunities to use my learned skills and am excited about directly affecting people&#x27;s lives through intelligently designed systems.</p>
+    <div class="div-block-22">
+      <div class="about-para-heading">Hello! <br>I&#x27;m Sahith Reddy. <br></div><img src="images/sahith.jpg" loading="lazy" width="Auto" sizes="100vw" alt="Sahith Reddy&#x27;s picture" srcset="images/sahith-p-500.jpg 500w, images/sahith-p-800.jpg 800w, images/sahith-p-1080.jpg 1080w, images/sahith-p-1600.jpg 1600w, images/sahith-p-2000.jpg 2000w, images/sahith.jpg 2520w" class="image-18">
+    </div>
+    <div class="div-block-23">
+      <div class="w-layout-hflex flex-block-15">
+        <div class="about_header"><img src="images/sahith.jpg" loading="lazy" width="Auto" sizes="(max-width: 479px) 100vw, (max-width: 767px) 44vw, 32vw" alt="Sahith Reddy&#x27;s picture" srcset="images/sahith-p-500.jpg 500w, images/sahith-p-800.jpg 800w, images/sahith-p-1080.jpg 1080w, images/sahith-p-1600.jpg 1600w, images/sahith-p-2000.jpg 2000w, images/sahith.jpg 2520w" class="img_about"></div>
+        <div class="div-block-31">
+          <div data-delay="4000" data-animation="outin" class="slider_about w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
+            <div class="w-slider-mask">
+              <div class="slide-4 w-slide">
+                <div class="w-layout-hflex flex-block-14">
+                  <p class="txt_about_body">I&#x27;m a User Experience Designer driven by a curiosity to explore and understand the cause and effect in everything around me, which fuels my passion for problem-solving. I strive to create tools that enable everyday workflows and seamlessly integrate into people&#x27;s daily lives.<br>‍<br>With over a year of UX experience and a solid 4-year background in UI development, I&#x27;ve developed a unique blend of skills in Experience Design, Front-End Development, and Data Visualization. This combination allows me to approach projects holistically, ensuring that every digital interface I work on is both effective and user-centric.<br>‍<br>My professional journey has taken me through various product-based companies, all of which are customer-facing. This experience has equipped me with the insights and expertise to create designs that truly resonate with users.</p>
+                </div>
+              </div>
+              <div class="w-slide">
+                <div class="w-layout-hflex flex-block-16">
+                  <div class="w-layout-vflex div_about_resume">
+                    <div class="w-layout-hflex about_resume_row">
+                      <div class="w-layout-vflex about_resume_child">
+                        <p class="txt_resume"><strong>May 2023 - Aug 2023</strong></p>
+                        <p class="txt_resume_alt">Baltimore, MD</p>
+                      </div>
+                      <div class="w-layout-vflex about_resume_child">
+                        <p class="txt_resume"><strong>UX Developer</strong></p>
+                        <p class="txt_resume_alt">The HCD Experience</p>
+                      </div>
+                    </div>
+                    <div class="w-layout-hflex about_resume_row">
+                      <div class="w-layout-vflex about_resume_child">
+                        <p class="txt_resume"><strong>Sep 2021 - Aug 2022</strong></p>
+                        <p class="txt_resume_alt">Hyderabad, India</p>
+                      </div>
+                      <div class="w-layout-vflex about_resume_child">
+                        <p class="txt_resume"><strong>User Experience Designer</strong></p>
+                        <p class="txt_resume_alt">Falcon Wings Ventures</p>
+                      </div>
+                    </div>
+                    <div class="w-layout-hflex about_resume_row">
+                      <div class="w-layout-vflex about_resume_child">
+                        <p class="txt_resume"><strong>May 2019 - Aug 2021</strong></p>
+                        <p class="txt_resume_alt">Hyderabad, India</p>
+                      </div>
+                      <div class="w-layout-vflex about_resume_child">
+                        <p class="txt_resume"><strong>User Interface Developer</strong></p>
+                        <p class="txt_resume_alt">ADP</p>
+                      </div>
+                    </div>
+                    <div class="w-layout-hflex about_resume_row">
+                      <div class="w-layout-vflex about_resume_child">
+                        <p class="txt_resume"><strong>Jan 2019 - May 2019</strong></p>
+                        <p class="txt_resume_alt">Remote</p>
+                      </div>
+                      <div class="w-layout-vflex about_resume_child">
+                        <p class="txt_resume"><strong>Flutter UI Developer</strong></p>
+                        <p class="txt_resume_alt">CarrotBox Technologies</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="w-slider-arrow-left">
+              <div class="w-icon-slider-left"></div>
+            </div>
+            <div class="w-slider-arrow-right">
+              <div class="w-icon-slider-right"></div>
+            </div>
+            <div class="w-slider-nav w-round w-num"></div>
           </div>
         </div>
       </div>
-      <div class="w-layout-hflex flex-block-6">
-        <div class="div-block-4">
-          <a href="https://behance.com/sahithreddya" target="_blank" class="social-link w-inline-block">
-            <div class="social">BEHANCE</div>
-          </a>
-          <div class="social social-divider">/</div>
-          <a href="https://www.linkedin.com/in/sahithreddya/" target="_blank" class="social-link w-inline-block">
-            <div class="social">LinKEDIN</div>
-          </a>
-          <div class="social social-divider social-divider-middle">/</div>
-          <a href="https://medium.com/@sahithreddy.a" target="_blank" class="social-link w-inline-block">
-            <div class="social">medium</div>
-          </a>
-          <div class="social social-divider">/</div>
-          <a href="https://github.com/sahithreddya" target="_blank" class="social-link w-inline-block">
-            <div class="social">github</div>
-          </a>
+      <div class="w-layout-vflex flex-block-11">
+        <div class="w-layout-hflex flex-block-6">
+          <div class="div-block-4">
+            <a href="https://behance.com/sahithreddya" target="_blank" class="social-link w-inline-block">
+              <div class="social">BEHANCE</div>
+            </a>
+            <div class="social social-divider">/</div>
+            <a href="https://www.linkedin.com/in/sahithreddya/" target="_blank" class="social-link w-inline-block">
+              <div class="social">LinKEDIN</div>
+            </a>
+            <div class="social social-divider social-divider-middle">/</div>
+            <a href="https://medium.com/@sahithreddy.a" target="_blank" class="social-link w-inline-block">
+              <div class="social">medium</div>
+            </a>
+            <div class="social social-divider">/</div>
+            <a href="https://github.com/sahithreddya" target="_blank" class="social-link w-inline-block">
+              <div class="social">github</div>
+            </a>
+          </div>
         </div>
       </div>
+      <div class="divider_about"></div>
+      <div class="about-para-heading">My Journey<br></div>
+      <p class="txt_about_body">Be it participating in Cyber-Olympiads in school or coding challenges through college, I always found the process of understanding and solving problems engrossing. Since graduating with a Bachelor’s in Comp Sci, I started developing mobile interfaces for a small e-commerce application at CarrotBox. I later progressed to a larger scale while at ADP, working on their Time and Labor Kiosk interfaces. Working for these product-based companies taught me to view products fundamentally as tools designed to help people achieve their goals. I realized that a product is a means to an end, and by focusing on the users and their desired outcomes, we can create more effective solutions.</p>
+      <p class="txt_about_body">While at ADP, I often encountered client feedback for our payroll products. I was fascinated to learn how addressing these concerns had resulted in helping save time and money(<em>literally</em>) for our clients. It was rewarding knowing how solving problems in this context had a more tangible result and helped real people have a better experience using our products. While there, I first realized the importance of usability in a product. I joined the product planning meetings, where I met designers and product managers to try to make the product more effective. I started learning more about how design affects the efficacy of a product, which led me to take up my first design project, which involved creating branding and mockups for a retail mobile application. Working on this project reinforced my confidence in pursuing a career in the product design field to create practical tools as products.</p>
+      <p class="txt_about_body">Fast forward to today, after deciding to hone my skills further, I have recently graduated with a master’s in Human-Centered Computing from UMBC. I’ve had the opportunity to work on exciting projects throughout as a graduate student — redesigning the Tourism website of my native city, improving my university’s ed-tech platform, designing t-shirts for Engineer’s Day, and much more. My latest work was one to satiate my curiosity at The HCD Experience, where I explored the effectiveness of prototyping in code in contrast to prototyping using design tools such as Figma, Miro, etc.</p>
+      <p class="txt_about_body">I&#x27;m looking for opportunities to use my learned skills and am excited about directly affecting people&#x27;s lives through intelligently designed systems.</p>
     </div>
   </div>
   <div class="about-photo-section">
@@ -167,6 +274,21 @@
       });
       // Set the offset when entering page with hash present in the url
       window.setTimeout(offsetAnchor, 10);
+    </script>
+  <script>
+      $(document).ready(function() {
+        // config
+        quest1 = 'BIO';
+        quest2 = 'RESUME';
+        // do not touch
+        imgbegin = '<img src="';
+        imgend = '" />';
+        // end
+        // First dot.
+        $('.w-slider-nav').children('div:nth-child(1)').html(quest1);
+        // Second dot.
+        $('.w-slider-nav').children('div:nth-child(2)').html(quest2);
+      });
     </script>
 </body>
 </html>
