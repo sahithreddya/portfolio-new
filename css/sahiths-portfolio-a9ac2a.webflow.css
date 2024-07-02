@@ -2575,6 +2575,7 @@ figcaption {
   opacity: 1;
   color: var(--white);
   text-align: justify;
+  margin-top: 20px;
   padding-left: 20px;
   padding-right: 20px;
   font-family: Airbnbcereal, sans-serif;
@@ -3348,6 +3349,7 @@ figcaption {
 .flex-block-11 {
   justify-content: flex-start;
   align-items: center;
+  width: 100%;
 }
 
 .progress-bar {
@@ -3593,6 +3595,7 @@ figcaption {
 .about_resume_row {
   grid-column-gap: 30px;
   grid-row-gap: 30px;
+  flex-flow: wrap;
   justify-content: flex-start;
   align-items: flex-start;
 }
@@ -3685,6 +3688,7 @@ figcaption {
 
 .flex-block-16 {
   border-top: 0 solid #b3b3b3;
+  flex-flow: column;
   justify-content: flex-start;
   align-items: flex-start;
 }
@@ -3729,9 +3733,46 @@ figcaption {
 }
 
 .divider_about {
-  background-color: #b3b3b3;
+  background-color: #1a1a1a;
+  width: 100%;
   height: 1px;
-  margin-bottom: 20px;
+}
+
+.div-block-33 {
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 10px;
+  display: flex;
+}
+
+.paragraph-2 {
+  color: var(--white);
+  margin-bottom: 0;
+  font-family: Airbnbcereal, sans-serif;
+  font-weight: 500;
+}
+
+.btn_view_resume {
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 10px;
+  display: flex;
+}
+
+.lbl_view_resume {
+  color: var(--white);
+  margin-bottom: 0;
+  font-family: Airbnbcereal, sans-serif;
+  font-weight: 500;
+}
+
+.h_project_title_alt {
+  margin-top: 0;
+  display: block;
 }
 
 @media screen and (max-width: 991px) {
@@ -5295,8 +5336,17 @@ figcaption {
     line-height: 22px;
   }
 
+  .flex-block-16 {
+    justify-content: flex-start;
+    align-items: center;
+  }
+
   .div-block-31 {
     width: 100%;
+  }
+
+  .h_project_title_alt {
+    margin-bottom: 20px;
   }
 }
 
@@ -5757,6 +5807,10 @@ figcaption {
     justify-content: space-between;
     align-items: flex-start;
     width: 100%;
+  }
+
+  .txt_about_body {
+    text-align: justify;
   }
 
   .txt_about_body.tablet {
