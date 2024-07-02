@@ -711,6 +711,21 @@ figcaption {
   opacity: 1;
 }
 
+.work-image.work__tactile-interfaces {
+  aspect-ratio: 16 / 9;
+  background-image: url('../images/tactile-image.jpg');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.work-image.work__tactile-interfaces:hover {
+  opacity: 1;
+}
+
 .project-name-link {
   color: var(--white);
   text-overflow: ellipsis;
@@ -3826,7 +3841,7 @@ figcaption {
     background-position: 50% 0;
   }
 
-  .work-image.cc-work-3, .work-image.cc-work-4, .work-image.work__htt-logo, .work-image.work__engg-week {
+  .work-image.cc-work-3, .work-image.cc-work-4, .work-image.work__htt-logo, .work-image.work__engg-week, .work-image.work__tactile-interfaces {
     background-position: 50% 85%;
   }
 
