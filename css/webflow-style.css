@@ -5955,7 +5955,7 @@ figcaption {
 }
 
 .link-2 {
-  color: var(--white);
+  color: var(--body-grey);
   cursor: pointer;
   font-weight: 500;
   text-decoration: none;
@@ -5986,10 +5986,10 @@ figcaption {
   grid-column-gap: 4px;
   grid-row-gap: 4px;
   font-family: var(--bb-primary-body-font);
-  color: var(--white);
+  color: var(--body-grey);
   font-size: var(--bb-body-fontsize);
   margin-bottom: 0;
-  font-weight: 300;
+  font-weight: 500;
   list-style-type: square;
 }
 
