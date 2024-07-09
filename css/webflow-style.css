@@ -5958,7 +5958,7 @@ figcaption {
   color: var(--body-grey);
   cursor: pointer;
   font-weight: 500;
-  text-decoration: none;
+  text-decoration: underline;
   display: inline;
 }
 
