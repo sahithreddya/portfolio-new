@@ -5717,7 +5717,7 @@ figcaption {
 .about_resume_row {
   grid-column-gap: 30px;
   grid-row-gap: 30px;
-  flex-flow: wrap;
+  flex-flow: row;
   justify-content: flex-start;
   align-items: flex-start;
 }
