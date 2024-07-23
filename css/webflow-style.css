@@ -2104,6 +2104,7 @@ textarea.w-input, textarea.w-select {
   --primary-black: #0d0d0d;
   --teal: #7fe2dc;
   --bb-primary-body-font: Airbnbcereal, sans-serif;
+  --link_txt_passive: #999;
   --white: white;
   --bb-body-height: 25px;
   --htt-red: #8c100d;
@@ -2343,6 +2344,7 @@ figcaption {
 .heading-jumbo {
   color: #fff;
   text-transform: none;
+  text-shadow: 10px 10px 40px rgba(0, 0, 0, .3), 15px 15px 25px rgba(0, 0, 0, .2);
   margin-top: 20px;
   margin-bottom: 10px;
   font-family: Airbnbcereal, sans-serif;
@@ -2355,6 +2357,7 @@ figcaption {
   color: rgba(255, 255, 255, 0);
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: var(--purple);
+  text-shadow: none;
   cursor: pointer;
   margin-top: 0;
   margin-bottom: 0;
@@ -2364,6 +2367,14 @@ figcaption {
 .heading-jumbo.intro-title:hover {
   color: var(--purple);
   transform: translate(0, -5px);
+}
+
+.heading-jumbo.hello {
+  margin-bottom: 0;
+}
+
+.heading-jumbo.name {
+  margin-top: 0;
 }
 
 .paragraph-tiny {
@@ -2447,8 +2458,9 @@ figcaption {
 }
 
 .section._100vh {
+  background-color: var(--primary-black);
+  background-image: radial-gradient(circle closest-corner at 20% 50%, var(--primary-black), #262626 0%, var(--primary-black) 100%, var(--primary-black) 103%);
   color: var(--primary-black);
-  background-color: #0d0d0d;
   width: 100%;
   max-width: none;
   height: calc(100vh - 85px);
@@ -2547,7 +2559,7 @@ figcaption {
 
 .navigation-item {
   opacity: 1;
-  color: #fff;
+  color: var(--link_txt_passive);
   letter-spacing: 1px;
   -webkit-text-stroke-width: 0px;
   text-transform: uppercase;
@@ -2556,7 +2568,7 @@ figcaption {
   padding-top: 9px;
   padding-bottom: 9px;
   font-family: Airbnbcereal, sans-serif;
-  font-size: 16px;
+  font-size: 1em;
   font-weight: 700;
   line-height: 20px;
   text-decoration: none;
@@ -2568,21 +2580,21 @@ figcaption {
   -webkit-text-stroke-width: 0px;
   background-color: rgba(0, 0, 0, 0);
   font-style: normal;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .navigation-item:active {
   opacity: .7;
-  color: #b3b3b3;
 }
 
 .navigation-item.w--current {
   opacity: 1;
   color: #fff;
+  text-shadow: -3px -3px 10px rgba(255, 255, 255, .3), 3px 3px 10px rgba(255, 255, 255, .3);
   background-color: rgba(0, 0, 0, 0);
   font-family: Airbnbcereal, sans-serif;
   font-weight: 700;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .navigation-item.w--current:hover {
@@ -2631,6 +2643,10 @@ figcaption {
   align-items: center;
   margin-right: -20px;
   display: flex;
+}
+
+.navigation-wrap:lang(en) {
+  transform: translate(0);
 }
 
 .intro-wrap {
@@ -3437,14 +3453,15 @@ figcaption {
 }
 
 .container {
+  box-shadow: none;
   text-align: left;
   object-fit: fill;
+  background-image: none;
   flex-flow: column;
   justify-content: center;
   align-items: stretch;
   width: 100%;
   height: 100%;
-  margin-left: auto;
   margin-right: auto;
   padding: 100px 10vh;
   display: flex;
@@ -6123,7 +6140,7 @@ figcaption {
 }
 
 .work-tab-link {
-  color: #999;
+  color: var(--link_txt_passive);
   text-align: center;
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
@@ -6287,6 +6304,11 @@ figcaption {
 
 .about-tab-link.last-link {
   border-right-style: none;
+}
+
+.flex-block-22 {
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
 }
 
 @media screen and (max-width: 991px) {
