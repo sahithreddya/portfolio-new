@@ -1,4 +1,4 @@
-<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 22:19:17 GMT+0000 (Coordinated Universal Time) -->
+<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 21:33:39 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-page="65e22fb14b16449dd15ab3a9" data-wf-site="65e22fb14b16449dd15ab36a" lang="en" data-wf-locale="en">
   <head>
     <meta charset="utf-8" />
@@ -24,8 +24,8 @@
         n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-    <link href="../images/favicon.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="../images/app-icon.png" rel="apple-touch-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660f9d6fdc70be6a9ff48e8_SR-ico.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660fa5d233d644228078ff4_SR-logo%20(256x256).png" rel="apple-touch-icon" />
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-LSK948K905"></script>
     <script type="text/javascript">
       window.dataLayer = window.dataLayer || [];
@@ -45,10 +45,10 @@
   </head>
   <body class="body">
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
-      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="../images/logo-20-2b-20name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
+      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e49802b7666b8d9666796e_Logo%20%2B%20Name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
         <div data-w-id="69118560-d0bc-15fc-bbf8-b8fe5f6535b9" class="navigation-wrap">
           <nav role="navigation" class="myport-nav-items w-nav-menu"><a href="/" class="navigation-item w-nav-link">Home</a><a href="/#work-magnet" class="navigation-item w-nav-link">Work</a><a href="/about" class="navigation-item w-nav-link">About</a><a href="/resume" class="navigation-item w-nav-link">RESUME</a></nav>
-          <div class="menu-button w-nav-button"><img src="../images/white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
+          <div class="menu-button w-nav-button"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4c1e7ad9fdf0f3f7c31bb_white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
         </div>
       </div>
     </div>
@@ -58,23 +58,6 @@
     <div id="top-bar" class="top-bar"></div>
     <div id="hero" class="hero-section">
       <div id="Title" class="project-title w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-d15ab3a9">
-        <div class="div-block-41"><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="../images/macbook-20pro-20mockup.png" loading="eager" sizes="(max-width: 1439px) 45vw, 1103.390625px" srcset="../images/macbook-20pro-20mockup-p-500.png 500w, ../images/macbook-20pro-20mockup-p-800.png 800w, ../images/macbook-20pro-20mockup-p-1080.png 1080w, ../images/macbook-20pro-20mockup-p-1600.png 1600w, ../images/macbook-20pro-20mockup-p-2000.png 2000w, ../images/macbook-20pro-20mockup.png 2001w" alt="The Beagle logo" class="image-2" />
-            <script type="application/json" class="w-json">
-              {
-                "items": [{
-                  "_id": "6655e6e7f0480f6d65c3ed71",
-                  "origFileName": "Beagle Picture.png",
-                  "fileName": "Beagle Picture.png",
-                  "fileSize": 49659,
-                  "height": 1200,
-                  "url": "../images/beagle-20picture.png",
-                  "width": 1200,
-                  "type": "image"
-                }],
-                "group": "hero-BB"
-              }
-            </script>
-          </a></div>
         <div class="w-layout-vflex flex-block-27">
           <div class="w-layout-hflex wrapper__work-desc">
             <div class="txt_section-date">may 2023</div>
@@ -93,6 +76,23 @@
             <div id="w-node-cd5e2832-3708-ab64-6371-bc7c22684f22-d15ab3a9" class="txt_section-summary">Blackboard Learn is a web-based virtual learning environment and learning management system developed by Blackboard Inc. which is an American Educational Technology (EdTech) company. Around 11,990 companies use the LMS, SIS, and CRM software provided by Blackboard Inc., belonging to industries such as Higher Education, Education Management, and Information Technology and Services.</div>
           </div>
         </div>
+        <div class="div-block-41"><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66480dd9bd50091d4f487e76_MacBook%20Pro%20Mockup.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 92vw, (max-width: 991px) 94vw, 37vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66480dd9bd50091d4f487e76_MacBook%20Pro%20Mockup-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66480dd9bd50091d4f487e76_MacBook%20Pro%20Mockup-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66480dd9bd50091d4f487e76_MacBook%20Pro%20Mockup-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66480dd9bd50091d4f487e76_MacBook%20Pro%20Mockup-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66480dd9bd50091d4f487e76_MacBook%20Pro%20Mockup-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66480dd9bd50091d4f487e76_MacBook%20Pro%20Mockup.png 2001w" alt="The Beagle logo" class="image-2" />
+            <script type="application/json" class="w-json">
+              {
+                "items": [{
+                  "_id": "6655e6e7f0480f6d65c3ed71",
+                  "origFileName": "Beagle Picture.png",
+                  "fileName": "Beagle Picture.png",
+                  "fileSize": 49659,
+                  "height": 1200,
+                  "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6655e6e7f0480f6d65c3ed71_Beagle%20Picture.png",
+                  "width": 1200,
+                  "type": "image"
+                }],
+                "group": "hero-BB"
+              }
+            </script>
+          </a></div>
       </div>
       <div class="w-layout-vflex flex-block-26">
         <div id="w-node-_82ad9dfd-3798-8319-c87c-53f846f9cc1d-d15ab3a9" class="content-flex">
@@ -132,7 +132,7 @@
             <div class="content-title">About the product</div>
             <div class="title-stroke"></div>
           </div>
-        </div><a href="#" class="lb_bb-old w-inline-block w-lightbox"><img src="../images/oldbb.png" width="Auto" alt="Image showing the 5-step design process" height="Auto" sizes="(max-width: 479px) 69vw, (max-width: 1439px) 63vw, 728px" srcset="../images/oldbb-p-500.png 500w, ../images/oldbb-p-800.png 800w, ../images/oldbb-p-1080.png 1080w, ../images/oldbb-p-1600.png 1600w, ../images/oldbb.png 1632w" class="img_bb-old" />
+        </div><a href="#" class="lb_bb-old w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666728860fe488d08993654d_oldBB.png" width="Auto" alt="Image showing the 5-step design process" height="Auto" sizes="(max-width: 479px) 68vw, 63vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666728860fe488d08993654d_oldBB-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666728860fe488d08993654d_oldBB-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666728860fe488d08993654d_oldBB-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666728860fe488d08993654d_oldBB-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666728860fe488d08993654d_oldBB.png 1632w" class="img_bb-old" />
           <script type="application/json" class="w-json">
             {
               "items": [{
@@ -141,7 +141,7 @@
                 "fileName": "oldBB.png",
                 "fileSize": 216031,
                 "height": 1050,
-                "url": "../images/oldbb.png",
+                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666728860fe488d08993654d_oldBB.png",
                 "width": 1632,
                 "caption": "Hompage of old Blackboard",
                 "type": "image"
@@ -160,7 +160,7 @@
             <div class="content-title">Approach: The 5 step design process</div>
             <div class="title-stroke"></div>
           </div>
-        </div><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="../images/5step.png" width="Auto" alt="Image showing the 5-step design process" height="Auto" sizes="(max-width: 479px) 98vw, (max-width: 1439px) 90vw, 1040px" srcset="../images/5step-p-500.png 500w, ../images/5step.png 947w" class="detail-image" />
+        </div><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e7b66dd3e07a55c79095ab_5step.png" width="Auto" alt="Image showing the 5-step design process" height="Auto" sizes="(max-width: 479px) 98vw, (max-width: 767px) 89vw, 90vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e7b66dd3e07a55c79095ab_5step-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e7b66dd3e07a55c79095ab_5step.png 947w" class="detail-image" />
           <script type="application/json" class="w-json">
             {
               "items": [{
@@ -169,7 +169,7 @@
                 "fileName": "5step.png",
                 "fileSize": 17198,
                 "height": 347,
-                "url": "../images/5step.png",
+                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e7b66dd3e07a55c79095ab_5step.png",
                 "width": 947,
                 "caption": "The 5-step design process",
                 "type": "image"
@@ -187,7 +187,7 @@
             <div class="content-title">Initial Analysis — defining Issues on the surface</div>
             <div class="title-stroke"></div>
           </div>
-        </div><a href="#" class="bb-image-lightbox w-inline-block w-lightbox"><img src="../images/bb-old-homepage.png" width="Auto" alt="Homepage Blackboard with the current design" height="Auto" sizes="(max-width: 479px) 98vw, (max-width: 1439px) 90vw, 1040px" srcset="../images/bb-old-homepage-p-500.png 500w, ../images/bb-old-homepage-p-800.png 800w, ../images/bb-old-homepage-p-1080.png 1080w, ../images/bb-old-homepage-p-1600.png 1600w, ../images/bb-old-homepage-p-2000.png 2000w, ../images/bb-old-homepage.png 2560w" class="detail-image" />
+        </div><a href="#" class="bb-image-lightbox w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6619f110e66b4513411aa577_BB-old-homepage.png" width="Auto" alt="Homepage Blackboard with the current design" height="Auto" sizes="(max-width: 479px) 98vw, (max-width: 767px) 89vw, 90vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6619f110e66b4513411aa577_BB-old-homepage-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6619f110e66b4513411aa577_BB-old-homepage-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6619f110e66b4513411aa577_BB-old-homepage-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6619f110e66b4513411aa577_BB-old-homepage-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6619f110e66b4513411aa577_BB-old-homepage-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6619f110e66b4513411aa577_BB-old-homepage.png 2560w" class="detail-image" />
           <script type="application/json" class="w-json">
             {
               "items": [{
@@ -196,7 +196,7 @@
                 "fileName": "BB-old-homepage.png",
                 "fileSize": 323451,
                 "height": 1273,
-                "url": "../images/bb-old-homepage.png",
+                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6619f110e66b4513411aa577_BB-old-homepage.png",
                 "width": 2560,
                 "caption": "Homepage Blackboard with the current design",
                 "type": "image"
@@ -226,7 +226,7 @@
           <div class="div-block-14-alt">
             <div class="w-layout-vflex bb-user-type-wrap">
               <div class="w-layout-vflex flex-block-12">
-                <div class="bb-para-bold">User Type 1: Faculty<br /></div><img src="../images/faculty.jpg" loading="lazy" width="Auto" sizes="100px" alt="Illustration of a female faculty member" srcset="../images/faculty-p-500.jpg 500w, ../images/faculty.jpg 750w" class="image-15" />
+                <div class="bb-para-bold">User Type 1: Faculty<br /></div><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/661d41219ec9a5b8626f6dda_Faculty.jpg" loading="lazy" width="Auto" sizes="100px" alt="Illustration of a female faculty member" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/661d41219ec9a5b8626f6dda_Faculty-p-500.jpg 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/661d41219ec9a5b8626f6dda_Faculty.jpg 750w" class="image-15" />
               </div>
               <ol role="list" class="persona-list">
                 <li class="bb-persona-list-item"><em class="italic-text-5">20-30 years old</em></li>
@@ -238,7 +238,7 @@
           <div class="div-block-14">
             <div class="w-layout-vflex bb-user-type-wrap">
               <div class="w-layout-vflex flex-block-12">
-                <div class="bb-para-bold">User Type 2: Student<br /></div><img src="../images/student.jpg" loading="lazy" width="Auto" sizes="100px" alt="Illustration of a male student" srcset="../images/student-p-500.jpg 500w, ../images/student.jpg 750w" class="image-15" />
+                <div class="bb-para-bold">User Type 2: Student<br /></div><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/661d4121a4040cb28a3c0f8a_student.jpg" loading="lazy" width="Auto" sizes="100px" alt="Illustration of a male student" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/661d4121a4040cb28a3c0f8a_student-p-500.jpg 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/661d4121a4040cb28a3c0f8a_student.jpg 750w" class="image-15" />
               </div>
               <ol role="list" class="persona-list">
                 <li class="bb-persona-list-item"><em class="bb-persona-list-item">19-25 years old</em></li>
@@ -247,7 +247,7 @@
               </ol>
             </div>
           </div>
-        </div><a href="#" class="bb-image-lightbox w-inline-block w-lightbox"><img src="../images/interview.png" width="Auto" alt="Snapshot from on the user interview sessions" height="Auto" class="user-interview-image" />
+        </div><a href="#" class="bb-image-lightbox w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6619fcc533f1e657c74c6f00_Interview.png" width="Auto" alt="Snapshot from on the user interview sessions" height="Auto" class="user-interview-image" />
           <script type="application/json" class="w-json">
             {
               "items": [{
@@ -256,7 +256,7 @@
                 "fileName": "Interview.png",
                 "fileSize": 177229,
                 "height": 355,
-                "url": "../images/interview.png",
+                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6619fcc533f1e657c74c6f00_Interview.png",
                 "width": 404,
                 "caption": "Snapshot from on the user interview sessions",
                 "type": "image"
@@ -309,7 +309,7 @@
             </div>
           </div>
           <div class="bb-grid-body">
-            <div><a href="#" class="bb-grid-lightbox w-inline-block w-lightbox"><img src="../images/image6.png" loading="lazy" sizes="100vw" srcset="../images/image6-p-500.png 500w, ../images/image6-p-800.png 800w, ../images/image6-p-1080.png 1080w, ../images/image6-p-1600.png 1600w, ../images/image6.png 1999w" alt="Image representing &#x27;Navigating to the previous page is difficult&#x27;" class="image-17" />
+            <div><a href="#" class="bb-grid-lightbox w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990c4e6958f064b5d8d_image6.png" loading="lazy" sizes="(max-width: 479px) 95vw, (max-width: 767px) 88vw, 89vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990c4e6958f064b5d8d_image6-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990c4e6958f064b5d8d_image6-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990c4e6958f064b5d8d_image6-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990c4e6958f064b5d8d_image6-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990c4e6958f064b5d8d_image6.png 1999w" alt="Image representing &#x27;Navigating to the previous page is difficult&#x27;" class="image-17" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -318,7 +318,7 @@
                       "fileName": "image6.png",
                       "fileSize": 805760,
                       "height": 1009,
-                      "url": "../images/image6.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990c4e6958f064b5d8d_image6.png",
                       "width": 1999,
                       "type": "image"
                     }],
@@ -353,7 +353,7 @@
             </div>
           </div>
           <div class="bb-grid-body">
-            <div><a href="#" class="bb-grid-lightbox w-inline-block w-lightbox"><img src="../images/image8.png" loading="lazy" sizes="100vw" srcset="../images/image8-p-500.png 500w, ../images/image8-p-800.png 800w, ../images/image8-p-1080.png 1080w, ../images/image8-p-1600.png 1600w, ../images/image8.png 1999w" alt="Image representing &#x27;&quot;Create Thread&quot; - not visible as a button&#x27;" class="image-17" />
+            <div><a href="#" class="bb-grid-lightbox w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6620499b345488ac49fab626_image8.png" loading="lazy" sizes="(max-width: 479px) 95vw, (max-width: 767px) 88vw, 89vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6620499b345488ac49fab626_image8-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6620499b345488ac49fab626_image8-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6620499b345488ac49fab626_image8-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6620499b345488ac49fab626_image8-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6620499b345488ac49fab626_image8.png 1999w" alt="Image representing &#x27;&quot;Create Thread&quot; - not visible as a button&#x27;" class="image-17" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -362,7 +362,7 @@
                       "fileName": "image8.png",
                       "fileSize": 1330205,
                       "height": 1250,
-                      "url": "../images/image8.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6620499b345488ac49fab626_image8.png",
                       "width": 1999,
                       "type": "image"
                     }],
@@ -397,7 +397,7 @@
             </div>
           </div>
           <div id="w-node-da2fc320-99f0-13de-e63f-c8d11cbe40bc-d15ab3a9" class="bb-grid-body">
-            <div><a href="#" class="bb-grid-lightbox w-inline-block w-lightbox"><img src="../images/image7.jpg" loading="lazy" sizes="100vw" srcset="../images/image7-p-500.jpg 500w, ../images/image7-p-800.jpg 800w, ../images/image7-p-1080.jpg 1080w, ../images/image7.jpg 1600w" alt="Image representing &#x27;Hard to find user’s own post among others’ posts&#x27;" class="image-17" />
+            <div><a href="#" class="bb-grid-lightbox w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990dd2cf71644dbf820_image7.jpg" loading="lazy" sizes="(max-width: 479px) 95vw, (max-width: 767px) 88vw, 89vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990dd2cf71644dbf820_image7-p-500.jpg 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990dd2cf71644dbf820_image7-p-800.jpg 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990dd2cf71644dbf820_image7-p-1080.jpg 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990dd2cf71644dbf820_image7.jpg 1600w" alt="Image representing &#x27;Hard to find user’s own post among others’ posts&#x27;" class="image-17" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -406,7 +406,7 @@
                       "fileName": "image7.jpg",
                       "fileSize": 272350,
                       "height": 1039,
-                      "url": "../images/image7.jpg",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66204990dd2cf71644dbf820_image7.jpg",
                       "width": 1600,
                       "type": "image"
                     }],
@@ -441,7 +441,7 @@
             </div>
           </div>
           <div id="w-node-da2fc320-99f0-13de-e63f-c8d11cbe40d5-d15ab3a9" class="bb-grid-body">
-            <div><a href="#" class="bb-grid-lightbox w-inline-block w-lightbox"><img src="../images/image4.jpg" loading="lazy" sizes="100vw" srcset="../images/image4-p-500.jpg 500w, ../images/image4-p-800.jpg 800w, ../images/image4-p-1080.jpg 1080w, ../images/image4.jpg 1600w" alt="Image representing &#x27;Recognizing item hierarchy in forum posts&#x27;" class="image-17" />
+            <div><a href="#" class="bb-grid-lightbox w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/662049904e815f4ae7c23298_image4.jpg" loading="lazy" sizes="(max-width: 479px) 95vw, (max-width: 767px) 88vw, 89vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/662049904e815f4ae7c23298_image4-p-500.jpg 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/662049904e815f4ae7c23298_image4-p-800.jpg 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/662049904e815f4ae7c23298_image4-p-1080.jpg 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/662049904e815f4ae7c23298_image4.jpg 1600w" alt="Image representing &#x27;Recognizing item hierarchy in forum posts&#x27;" class="image-17" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -450,7 +450,7 @@
                       "fileName": "image4.jpg",
                       "fileSize": 260765,
                       "height": 1039,
-                      "url": "../images/image4.jpg",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/662049904e815f4ae7c23298_image4.jpg",
                       "width": 1600,
                       "type": "image"
                     }],
@@ -485,7 +485,7 @@
             </div>
           </div>
           <div id="w-node-da2fc320-99f0-13de-e63f-c8d11cbe40ee-d15ab3a9" class="bb-grid-body">
-            <div><a href="#" class="bb-grid-lightbox w-inline-block w-lightbox"><img src="../images/image10.png" loading="lazy" alt="Image representing &#x27;Hard to recover from errors when grading&#x27;" class="image-17" />
+            <div><a href="#" class="bb-grid-lightbox w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6620498e66380d13b06232b4_image10.png" loading="lazy" alt="Image representing &#x27;Hard to recover from errors when grading&#x27;" class="image-17" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -494,7 +494,7 @@
                       "fileName": "image10.png",
                       "fileSize": 5429,
                       "height": 95,
-                      "url": "../images/image10.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6620498e66380d13b06232b4_image10.png",
                       "width": 371,
                       "type": "image"
                     }],
@@ -535,7 +535,7 @@
           </div>
         </div>
         <div class="bb-para-light">Taking the insights from interviews, we created user personas with the goal of helping us empathize better with the users we were designing for. We came up with two primary personas, one each for a Student and a Faculty member.</div>
-        <div class="bb-persona-wrapper"><a href="#" class="bb-persona w-inline-block w-lightbox"><img src="../images/shruti.png" loading="lazy" width="Auto" height="Auto" alt="User Persona of a faculty member" srcset="../images/shruti-p-500.png 500w, ../images/shruti-p-800.png 800w, ../images/shruti-p-1080.png 1080w, ../images/shruti.png 1190w" sizes="100vw" class="lo-fi-image" />
+        <div class="bb-persona-wrapper"><a href="#" class="bb-persona w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti.png" loading="lazy" width="Auto" height="Auto" alt="User Persona of a faculty member" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti.png 1190w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 435.66668701171875px, 44vw" class="lo-fi-image" />
             <script type="application/json" class="w-json">
               {
                 "items": [{
@@ -544,7 +544,7 @@
                   "fileName": "Shruti.png",
                   "fileSize": 246956,
                   "height": 1122,
-                  "url": "../images/shruti.png",
+                  "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti.png",
                   "width": 1190,
                   "caption": "User Persona of a faculty member",
                   "type": "image"
@@ -552,7 +552,7 @@
                 "group": "bb-user-persona"
               }
             </script>
-          </a><a href="#" class="bb-persona w-inline-block w-lightbox"><img src="../images/karlos.png" loading="lazy" width="Auto" height="Auto" alt="User Persona of a student" srcset="../images/karlos-p-500.png 500w, ../images/karlos-p-800.png 800w, ../images/karlos-p-1080.png 1080w, ../images/karlos.png 1190w" sizes="100vw" class="lo-fi-image" />
+          </a><a href="#" class="bb-persona w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos.png" loading="lazy" width="Auto" height="Auto" alt="User Persona of a student" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos.png 1190w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 435.66668701171875px, 44vw" class="lo-fi-image" />
             <script type="application/json" class="w-json">
               {
                 "items": [{
@@ -561,7 +561,7 @@
                   "fileName": "Karlos.png",
                   "fileSize": 257476,
                   "height": 1122,
-                  "url": "../images/karlos.png",
+                  "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos.png",
                   "width": 1190,
                   "caption": "User Persona of a student",
                   "type": "image"
@@ -574,7 +574,7 @@
           <div data-delay="4000" data-animation="slide" class="bb-persona-slider w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
             <div class="mask w-slider-mask">
               <div class="persona-slide w-slide">
-                <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/shruti.png" loading="lazy" width="Auto" height="Auto" alt="User persona for faculty member" srcset="../images/shruti-p-500.png 500w, ../images/shruti-p-800.png 800w, ../images/shruti-p-1080.png 1080w, ../images/shruti.png 1190w" sizes="100vw" class="bb-persona-image" />
+                <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti.png" loading="lazy" width="Auto" height="Auto" alt="User persona for faculty member" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti.png 1190w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, 100vw" class="bb-persona-image" />
                     <script type="application/json" class="w-json">
                       {
                         "items": [{
@@ -583,7 +583,7 @@
                           "fileName": "Shruti.png",
                           "fileSize": 246956,
                           "height": 1122,
-                          "url": "../images/shruti.png",
+                          "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad65f57e9b5a6197295_Shruti.png",
                           "width": 1190,
                           "type": "image"
                         }],
@@ -593,7 +593,7 @@
                   </a></div>
               </div>
               <div class="persona-slide w-slide">
-                <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/karlos.png" loading="lazy" width="Auto" height="Auto" alt="User Persona for a student" srcset="../images/karlos-p-500.png 500w, ../images/karlos-p-800.png 800w, ../images/karlos-p-1080.png 1080w, ../images/karlos.png 1190w" sizes="100vw" class="bb-persona-image" />
+                <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos.png" loading="lazy" width="Auto" height="Auto" alt="User Persona for a student" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos.png 1190w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, 100vw" class="bb-persona-image" />
                     <script type="application/json" class="w-json">
                       {
                         "items": [{
@@ -602,7 +602,7 @@
                           "fileName": "Karlos.png",
                           "fileSize": 257476,
                           "height": 1122,
-                          "url": "../images/karlos.png",
+                          "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66202ad60848e72616791cfb_Karlos.png",
                           "width": 1190,
                           "type": "image"
                         }],
@@ -633,19 +633,19 @@
               <div class="bb-grid-title-alt">competitor<br />x<br />Usability goals</div>
             </div>
             <div class="bb-grid-title-wrapper">
-              <div class="div-block-18"><img src="../images/google-class.svg" loading="lazy" alt="Google Classroom logo" /></div>
+              <div class="div-block-18"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201c78d74d8f24cb59aad6_google-class.svg" loading="lazy" alt="Google Classroom logo" /></div>
             </div>
             <div class="bb-grid-title-wrapper">
-              <div class="div-block-18"><img src="../images/canvas-logo-transparent-large.png" loading="lazy" sizes="100vw" srcset="../images/canvas-logo-transparent-large-p-500.png 500w, ../images/canvas-logo-transparent-large-p-800.png 800w, ../images/canvas-logo-transparent-large-p-1080.png 1080w, ../images/canvas-logo-transparent-large-p-1600.png 1600w, ../images/canvas-logo-transparent-large-p-2000.png 2000w, ../images/canvas-logo-transparent-large-p-2600.png 2600w, ../images/canvas-logo-transparent-large-p-3200.png 3200w, ../images/canvas-logo-transparent-large.png 7000w" alt="Canvas logo" /></div>
+              <div class="div-block-18"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201ce4d16b7ee73a803493_Canvas-Logo-transparent-Large.png" loading="lazy" sizes="(max-width: 479px) 96vw, (max-width: 767px) 88vw, 89vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201ce4d16b7ee73a803493_Canvas-Logo-transparent-Large-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201ce4d16b7ee73a803493_Canvas-Logo-transparent-Large-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201ce4d16b7ee73a803493_Canvas-Logo-transparent-Large-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201ce4d16b7ee73a803493_Canvas-Logo-transparent-Large-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201ce4d16b7ee73a803493_Canvas-Logo-transparent-Large-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201ce4d16b7ee73a803493_Canvas-Logo-transparent-Large-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201ce4d16b7ee73a803493_Canvas-Logo-transparent-Large-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201ce4d16b7ee73a803493_Canvas-Logo-transparent-Large.png 7000w" alt="Canvas logo" /></div>
             </div>
             <div class="bb-grid-title-wrapper">
-              <div class="div-block-18"><img src="../images/moodle-logo.png" loading="lazy" sizes="100vw" srcset="../images/moodle-logo-p-500.png 500w, ../images/moodle-logo-p-800.png 800w, ../images/moodle-logo.png 1024w" alt="Moodle logo" /></div>
+              <div class="div-block-18"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201d44cba3a5dbd26a4377_Moodle-logo.png" loading="lazy" sizes="(max-width: 479px) 96vw, (max-width: 767px) 88vw, (max-width: 1150px) 89vw, 1024px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201d44cba3a5dbd26a4377_Moodle-logo-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201d44cba3a5dbd26a4377_Moodle-logo-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201d44cba3a5dbd26a4377_Moodle-logo.png 1024w" alt="Moodle logo" /></div>
             </div>
             <div class="bb-grid-title-wrapper">
-              <div class="div-block-18"><img src="../images/logo-brightspace.webp" loading="lazy" sizes="100vw" srcset="../images/logo-brightspace-p-500.webp 500w, ../images/logo-brightspace-p-800.webp 800w, ../images/logo-brightspace-p-1080.webp 1080w, ../images/logo-brightspace.webp 1366w" alt="D2L Brightspace logo" /></div>
+              <div class="div-block-18"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201dd18c4c85b16f3adf23_logo-brightspace.webp" loading="lazy" sizes="(max-width: 479px) 96vw, (max-width: 767px) 88vw, 89vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201dd18c4c85b16f3adf23_logo-brightspace-p-500.webp 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201dd18c4c85b16f3adf23_logo-brightspace-p-800.webp 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201dd18c4c85b16f3adf23_logo-brightspace-p-1080.webp 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201dd18c4c85b16f3adf23_logo-brightspace.webp 1366w" alt="D2L Brightspace logo" /></div>
             </div>
             <div class="bb-grid-title-wrapper">
-              <div class="div-block-18"><img src="../images/edx.png" loading="lazy" sizes="100vw" srcset="../images/edx-p-500.png 500w, ../images/edx-p-800.png 800w, ../images/edx-p-1080.png 1080w, ../images/edx-p-1600.png 1600w, ../images/edx-p-2000.png 2000w, ../images/edx.png 2560w" alt="EDX logo" class="image-16" /></div>
+              <div class="div-block-18"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201e658c0999a435943383_EdX.png" loading="lazy" sizes="(max-width: 479px) 44vw, 88.88542175292969px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201e658c0999a435943383_EdX-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201e658c0999a435943383_EdX-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201e658c0999a435943383_EdX-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201e658c0999a435943383_EdX-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201e658c0999a435943383_EdX-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66201e658c0999a435943383_EdX.png 2560w" alt="EDX logo" class="image-16" /></div>
             </div>
             <div class="bb-grid-title-wrapper">
               <div class="bb-grid-title">Effectiveness</div>
@@ -883,7 +883,7 @@
                 <div data-delay="4000" data-animation="slide" class="bb-persona-slider w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
                   <div class="mask w-slider-mask">
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image9.png" loading="lazy" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c3e58c3b7fe861c5b_image9.png" loading="lazy" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -892,7 +892,7 @@
                                 "fileName": "image9.png",
                                 "fileSize": 84772,
                                 "height": 321,
-                                "url": "../images/image9.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c3e58c3b7fe861c5b_image9.png",
                                 "width": 449,
                                 "type": "image"
                               }],
@@ -902,7 +902,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image11.png" loading="lazy" srcset="../images/image11-p-500.png 500w, ../images/image11.png 539w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e7515a8673c0ff336_image11.png" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e7515a8673c0ff336_image11-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e7515a8673c0ff336_image11.png 539w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 626.7396240234375px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -911,7 +911,7 @@
                                 "fileName": "image11.png",
                                 "fileSize": 93420,
                                 "height": 344,
-                                "url": "../images/image11.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e7515a8673c0ff336_image11.png",
                                 "width": 539,
                                 "type": "image"
                               }],
@@ -921,7 +921,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image10-1.png" loading="lazy" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c208597e40cc0055b_image10.png" loading="lazy" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -930,7 +930,7 @@
                                 "fileName": "image10.png",
                                 "fileSize": 68046,
                                 "height": 292,
-                                "url": "../images/image10-1.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c208597e40cc0055b_image10.png",
                                 "width": 458,
                                 "type": "image"
                               }],
@@ -940,7 +940,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image3.png" loading="lazy" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c0b2926067ef3260a_image3.png" loading="lazy" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -949,7 +949,7 @@
                                 "fileName": "image3.png",
                                 "fileSize": 58109,
                                 "height": 291,
-                                "url": "../images/image3.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c0b2926067ef3260a_image3.png",
                                 "width": 336,
                                 "type": "image"
                               }],
@@ -959,7 +959,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image13.png" loading="lazy" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e7515a8673c0ff3aa_image13.png" loading="lazy" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -968,7 +968,7 @@
                                 "fileName": "image13.png",
                                 "fileSize": 102322,
                                 "height": 384,
-                                "url": "../images/image13.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e7515a8673c0ff3aa_image13.png",
                                 "width": 355,
                                 "type": "image"
                               }],
@@ -978,7 +978,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image5.png" loading="lazy" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42cc8e54fba1e7524ee_image5.png" loading="lazy" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -987,7 +987,7 @@
                                 "fileName": "image5.png",
                                 "fileSize": 59587,
                                 "height": 244,
-                                "url": "../images/image5.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42cc8e54fba1e7524ee_image5.png",
                                 "width": 493,
                                 "type": "image"
                               }],
@@ -1006,7 +1006,7 @@
                 <div data-delay="4000" data-animation="slide" class="bb-persona-slider w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
                   <div class="mask w-slider-mask">
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image12.png" loading="lazy" srcset="../images/image12-p-500.png 500w, ../images/image12.png 569w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e490d20db6e7d5cf3_image12.png" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e490d20db6e7d5cf3_image12-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e490d20db6e7d5cf3_image12.png 569w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 87vw, 687.6041870117188px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1015,7 +1015,7 @@
                                 "fileName": "image12.png",
                                 "fileSize": 109642,
                                 "height": 331,
-                                "url": "../images/image12.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e490d20db6e7d5cf3_image12.png",
                                 "width": 569,
                                 "type": "image"
                               }],
@@ -1025,7 +1025,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image2.png" loading="lazy" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42ce280f618d4673706_image2.png" loading="lazy" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1034,7 +1034,7 @@
                                 "fileName": "image2.png",
                                 "fileSize": 74860,
                                 "height": 344,
-                                "url": "../images/image2.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42ce280f618d4673706_image2.png",
                                 "width": 438,
                                 "type": "image"
                               }],
@@ -1044,7 +1044,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image6-1.png" loading="lazy" srcset="../images/image6-p-500-1.png 500w, ../images/image6-1.png 510w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c01ff48a1775f2bb4_image6.png" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c01ff48a1775f2bb4_image6-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c01ff48a1775f2bb4_image6.png 510w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 633.53125px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1053,7 +1053,7 @@
                                 "fileName": "image6.png",
                                 "fileSize": 99905,
                                 "height": 322,
-                                "url": "../images/image6-1.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c01ff48a1775f2bb4_image6.png",
                                 "width": 510,
                                 "type": "image"
                               }],
@@ -1063,7 +1063,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image4.png" loading="lazy" srcset="../images/image4-p-500.png 500w, ../images/image4.png 535w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42d902e390513ff2629_image4.png" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42d902e390513ff2629_image4-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42d902e390513ff2629_image4.png 535w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 86vw, 474.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1072,7 +1072,7 @@
                                 "fileName": "image4.png",
                                 "fileSize": 125337,
                                 "height": 451,
-                                "url": "../images/image4.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42d902e390513ff2629_image4.png",
                                 "width": 535,
                                 "type": "image"
                               }],
@@ -1091,7 +1091,7 @@
                 <div data-delay="4000" data-animation="slide" class="bb-persona-slider w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
                   <div class="mask w-slider-mask">
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image1.png" loading="lazy" srcset="../images/image1-p-500.png 500w, ../images/image1.png 610w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e7515a8673c0ff33b_image1.png" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e7515a8673c0ff33b_image1-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e7515a8673c0ff33b_image1.png 610w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 87vw, 703.1666870117188px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1100,7 +1100,7 @@
                                 "fileName": "image1.png",
                                 "fileSize": 106483,
                                 "height": 347,
-                                "url": "../images/image1.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42e7515a8673c0ff33b_image1.png",
                                 "width": 610,
                                 "type": "image"
                               }],
@@ -1110,7 +1110,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image8.jpg" loading="lazy" srcset="../images/image8-p-500.jpg 500w, ../images/image8-p-800.jpg 800w, ../images/image8-p-1080.jpg 1080w, ../images/image8-p-1600.jpg 1600w, ../images/image8.jpg 1658w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42ce04d65cf2d25d3d4_image8.jpg" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42ce04d65cf2d25d3d4_image8-p-500.jpg 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42ce04d65cf2d25d3d4_image8-p-800.jpg 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42ce04d65cf2d25d3d4_image8-p-1080.jpg 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42ce04d65cf2d25d3d4_image8-p-1600.jpg 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42ce04d65cf2d25d3d4_image8.jpg 1658w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 530.5521240234375px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1119,7 +1119,7 @@
                                 "fileName": "image8.jpg",
                                 "fileSize": 138108,
                                 "height": 1250,
-                                "url": "../images/image8.jpg",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42ce04d65cf2d25d3d4_image8.jpg",
                                 "width": 1658,
                                 "type": "image"
                               }],
@@ -1129,7 +1129,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="../images/image7.png" loading="lazy" srcset="../images/image7-p-500.png 500w, ../images/image7.png 552w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img width="Auto" height="400" alt="" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c9b606ba8c7c5ad0f_image7.png" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c9b606ba8c7c5ad0f_image7-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c9b606ba8c7c5ad0f_image7.png 552w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 87vw, 694.3333740234375px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1138,7 +1138,7 @@
                                 "fileName": "image7.png",
                                 "fileSize": 100622,
                                 "height": 318,
-                                "url": "../images/image7.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6622e42c9b606ba8c7c5ad0f_image7.png",
                                 "width": 552,
                                 "type": "image"
                               }],
@@ -1435,7 +1435,7 @@
                 <div data-delay="4000" data-animation="slide" class="bb-persona-slider w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
                   <div class="mask w-slider-mask">
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/1-1-homepage.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/1-1-homepage-p-500.png 500w, ../images/1-1-homepage-p-800.png 800w, ../images/1-1-homepage-p-1080.png 1080w, ../images/1-1-homepage.png 1440w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36feb443dd746e7616_1-1-Homepage.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36feb443dd746e7616_1-1-Homepage-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36feb443dd746e7616_1-1-Homepage-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36feb443dd746e7616_1-1-Homepage-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36feb443dd746e7616_1-1-Homepage.png 1440w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1444,7 +1444,7 @@
                                 "fileName": "1-1-Homepage.png",
                                 "fileSize": 236682,
                                 "height": 1024,
-                                "url": "../images/1-1-homepage.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36feb443dd746e7616_1-1-Homepage.png",
                                 "width": 1440,
                                 "type": "image"
                               }],
@@ -1454,7 +1454,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/1-2-assignment-201-20info.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/1-2-assignment-201-20info-p-500.png 500w, ../images/1-2-assignment-201-20info-p-800.png 800w, ../images/1-2-assignment-201-20info-p-1080.png 1080w, ../images/1-2-assignment-201-20info-p-1600.png 1600w, ../images/1-2-assignment-201-20info-p-2000.png 2000w, ../images/1-2-assignment-201-20info-p-2600.png 2600w, ../images/1-2-assignment-201-20info-p-3200.png 3200w, ../images/1-2-assignment-201-20info.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d37_1-2-Assignment%201%20Info.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d37_1-2-Assignment%201%20Info-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d37_1-2-Assignment%201%20Info-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d37_1-2-Assignment%201%20Info-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d37_1-2-Assignment%201%20Info-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d37_1-2-Assignment%201%20Info-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d37_1-2-Assignment%201%20Info-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d37_1-2-Assignment%201%20Info-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d37_1-2-Assignment%201%20Info.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1463,7 +1463,7 @@
                                 "fileName": "1-2-Assignment 1 Info.png",
                                 "fileSize": 823960,
                                 "height": 3072,
-                                "url": "../images/1-2-assignment-201-20info.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d37_1-2-Assignment%201%20Info.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1473,7 +1473,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/1-3-week-201-20folder.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/1-3-week-201-20folder-p-500.png 500w, ../images/1-3-week-201-20folder-p-800.png 800w, ../images/1-3-week-201-20folder-p-1080.png 1080w, ../images/1-3-week-201-20folder-p-1600.png 1600w, ../images/1-3-week-201-20folder-p-2000.png 2000w, ../images/1-3-week-201-20folder-p-2600.png 2600w, ../images/1-3-week-201-20folder-p-3200.png 3200w, ../images/1-3-week-201-20folder.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36cd87ae0fc5dee554_1-3-Week%201%20folder.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36cd87ae0fc5dee554_1-3-Week%201%20folder-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36cd87ae0fc5dee554_1-3-Week%201%20folder-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36cd87ae0fc5dee554_1-3-Week%201%20folder-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36cd87ae0fc5dee554_1-3-Week%201%20folder-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36cd87ae0fc5dee554_1-3-Week%201%20folder-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36cd87ae0fc5dee554_1-3-Week%201%20folder-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36cd87ae0fc5dee554_1-3-Week%201%20folder-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36cd87ae0fc5dee554_1-3-Week%201%20folder.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1482,7 +1482,7 @@
                                 "fileName": "1-3-Week 1 folder.png",
                                 "fileSize": 646129,
                                 "height": 3072,
-                                "url": "../images/1-3-week-201-20folder.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36cd87ae0fc5dee554_1-3-Week%201%20folder.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1492,7 +1492,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/1-3a-weekly-20modules.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/1-3a-weekly-20modules-p-500.png 500w, ../images/1-3a-weekly-20modules-p-800.png 800w, ../images/1-3a-weekly-20modules-p-1080.png 1080w, ../images/1-3a-weekly-20modules-p-1600.png 1600w, ../images/1-3a-weekly-20modules-p-2000.png 2000w, ../images/1-3a-weekly-20modules-p-2600.png 2600w, ../images/1-3a-weekly-20modules-p-3200.png 3200w, ../images/1-3a-weekly-20modules.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36824e76caa7bbf9ac_1-3a-Weekly%20Modules.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36824e76caa7bbf9ac_1-3a-Weekly%20Modules-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36824e76caa7bbf9ac_1-3a-Weekly%20Modules-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36824e76caa7bbf9ac_1-3a-Weekly%20Modules-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36824e76caa7bbf9ac_1-3a-Weekly%20Modules-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36824e76caa7bbf9ac_1-3a-Weekly%20Modules-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36824e76caa7bbf9ac_1-3a-Weekly%20Modules-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36824e76caa7bbf9ac_1-3a-Weekly%20Modules-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36824e76caa7bbf9ac_1-3a-Weekly%20Modules.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1501,7 +1501,7 @@
                                 "fileName": "1-3a-Weekly Modules.png",
                                 "fileSize": 631120,
                                 "height": 3072,
-                                "url": "../images/1-3a-weekly-20modules.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e36824e76caa7bbf9ac_1-3a-Weekly%20Modules.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1511,7 +1511,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/1-5-assignment-20review-20submission.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/1-5-assignment-20review-20submission-p-500.png 500w, ../images/1-5-assignment-20review-20submission-p-800.png 800w, ../images/1-5-assignment-20review-20submission-p-1080.png 1080w, ../images/1-5-assignment-20review-20submission-p-1600.png 1600w, ../images/1-5-assignment-20review-20submission-p-2000.png 2000w, ../images/1-5-assignment-20review-20submission-p-2600.png 2600w, ../images/1-5-assignment-20review-20submission-p-3200.png 3200w, ../images/1-5-assignment-20review-20submission.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e385345d145f14307d0_1-5-Assignment%20Review%20Submission.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e385345d145f14307d0_1-5-Assignment%20Review%20Submission-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e385345d145f14307d0_1-5-Assignment%20Review%20Submission-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e385345d145f14307d0_1-5-Assignment%20Review%20Submission-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e385345d145f14307d0_1-5-Assignment%20Review%20Submission-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e385345d145f14307d0_1-5-Assignment%20Review%20Submission-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e385345d145f14307d0_1-5-Assignment%20Review%20Submission-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e385345d145f14307d0_1-5-Assignment%20Review%20Submission-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e385345d145f14307d0_1-5-Assignment%20Review%20Submission.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1520,7 +1520,7 @@
                                 "fileName": "1-5-Assignment Review Submission.png",
                                 "fileSize": 1355129,
                                 "height": 3072,
-                                "url": "../images/1-5-assignment-20review-20submission.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e385345d145f14307d0_1-5-Assignment%20Review%20Submission.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1539,7 +1539,7 @@
                 <div data-delay="4000" data-animation="slide" class="bb-persona-slider w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
                   <div class="mask w-slider-mask">
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/2-2-discussion-20board.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/2-2-discussion-20board-p-500.png 500w, ../images/2-2-discussion-20board-p-800.png 800w, ../images/2-2-discussion-20board-p-1080.png 1080w, ../images/2-2-discussion-20board-p-1600.png 1600w, ../images/2-2-discussion-20board-p-2000.png 2000w, ../images/2-2-discussion-20board-p-2600.png 2600w, ../images/2-2-discussion-20board-p-3200.png 3200w, ../images/2-2-discussion-20board.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3703b0f6b2934331ca_2-2-Discussion%20Board.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3703b0f6b2934331ca_2-2-Discussion%20Board-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3703b0f6b2934331ca_2-2-Discussion%20Board-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3703b0f6b2934331ca_2-2-Discussion%20Board-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3703b0f6b2934331ca_2-2-Discussion%20Board-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3703b0f6b2934331ca_2-2-Discussion%20Board-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3703b0f6b2934331ca_2-2-Discussion%20Board-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3703b0f6b2934331ca_2-2-Discussion%20Board-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3703b0f6b2934331ca_2-2-Discussion%20Board.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1548,7 +1548,7 @@
                                 "fileName": "2-2-Discussion Board.png",
                                 "fileSize": 836843,
                                 "height": 3072,
-                                "url": "../images/2-2-discussion-20board.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3703b0f6b2934331ca_2-2-Discussion%20Board.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1558,7 +1558,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/2-3-forum.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/2-3-forum-p-500.png 500w, ../images/2-3-forum-p-800.png 800w, ../images/2-3-forum-p-1080.png 1080w, ../images/2-3-forum-p-1600.png 1600w, ../images/2-3-forum-p-2000.png 2000w, ../images/2-3-forum-p-2600.png 2600w, ../images/2-3-forum-p-3200.png 3200w, ../images/2-3-forum.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37cd319b2653e91a72_2-3-Forum.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37cd319b2653e91a72_2-3-Forum-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37cd319b2653e91a72_2-3-Forum-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37cd319b2653e91a72_2-3-Forum-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37cd319b2653e91a72_2-3-Forum-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37cd319b2653e91a72_2-3-Forum-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37cd319b2653e91a72_2-3-Forum-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37cd319b2653e91a72_2-3-Forum-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37cd319b2653e91a72_2-3-Forum.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1567,7 +1567,7 @@
                                 "fileName": "2-3-Forum.png",
                                 "fileSize": 854614,
                                 "height": 3072,
-                                "url": "../images/2-3-forum.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37cd319b2653e91a72_2-3-Forum.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1577,7 +1577,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/2-4-create-20thread.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/2-4-create-20thread-p-500.png 500w, ../images/2-4-create-20thread-p-800.png 800w, ../images/2-4-create-20thread-p-1080.png 1080w, ../images/2-4-create-20thread-p-1600.png 1600w, ../images/2-4-create-20thread-p-2000.png 2000w, ../images/2-4-create-20thread-p-2600.png 2600w, ../images/2-4-create-20thread-p-3200.png 3200w, ../images/2-4-create-20thread.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d34_2-4-Create%20Thread.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d34_2-4-Create%20Thread-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d34_2-4-Create%20Thread-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d34_2-4-Create%20Thread-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d34_2-4-Create%20Thread-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d34_2-4-Create%20Thread-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d34_2-4-Create%20Thread-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d34_2-4-Create%20Thread-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d34_2-4-Create%20Thread.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1586,7 +1586,7 @@
                                 "fileName": "2-4-Create Thread.png",
                                 "fileSize": 760994,
                                 "height": 3072,
-                                "url": "../images/2-4-create-20thread.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3707b807a4de4d4d34_2-4-Create%20Thread.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1596,7 +1596,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/2-5-forum_-20thread-20created.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/2-5-forum_-20thread-20created-p-500.png 500w, ../images/2-5-forum_-20thread-20created-p-800.png 800w, ../images/2-5-forum_-20thread-20created-p-1080.png 1080w, ../images/2-5-forum_-20thread-20created-p-1600.png 1600w, ../images/2-5-forum_-20thread-20created-p-2000.png 2000w, ../images/2-5-forum_-20thread-20created-p-2600.png 2600w, ../images/2-5-forum_-20thread-20created-p-3200.png 3200w, ../images/2-5-forum_-20thread-20created.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e375345d145f143062a_2-5-Forum_%20Thread%20Created.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e375345d145f143062a_2-5-Forum_%20Thread%20Created-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e375345d145f143062a_2-5-Forum_%20Thread%20Created-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e375345d145f143062a_2-5-Forum_%20Thread%20Created-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e375345d145f143062a_2-5-Forum_%20Thread%20Created-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e375345d145f143062a_2-5-Forum_%20Thread%20Created-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e375345d145f143062a_2-5-Forum_%20Thread%20Created-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e375345d145f143062a_2-5-Forum_%20Thread%20Created-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e375345d145f143062a_2-5-Forum_%20Thread%20Created.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1605,7 +1605,7 @@
                                 "fileName": "2-5-Forum_ Thread Created.png",
                                 "fileSize": 868265,
                                 "height": 3072,
-                                "url": "../images/2-5-forum_-20thread-20created.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e375345d145f143062a_2-5-Forum_%20Thread%20Created.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1615,7 +1615,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/2-6-thread-20replies.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/2-6-thread-20replies-p-500.png 500w, ../images/2-6-thread-20replies-p-800.png 800w, ../images/2-6-thread-20replies-p-1080.png 1080w, ../images/2-6-thread-20replies-p-1600.png 1600w, ../images/2-6-thread-20replies-p-2000.png 2000w, ../images/2-6-thread-20replies-p-2600.png 2600w, ../images/2-6-thread-20replies-p-3200.png 3200w, ../images/2-6-thread-20replies.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e371b3c8b15401c919e_2-6-Thread%20Replies.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e371b3c8b15401c919e_2-6-Thread%20Replies-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e371b3c8b15401c919e_2-6-Thread%20Replies-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e371b3c8b15401c919e_2-6-Thread%20Replies-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e371b3c8b15401c919e_2-6-Thread%20Replies-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e371b3c8b15401c919e_2-6-Thread%20Replies-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e371b3c8b15401c919e_2-6-Thread%20Replies-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e371b3c8b15401c919e_2-6-Thread%20Replies-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e371b3c8b15401c919e_2-6-Thread%20Replies.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1624,7 +1624,7 @@
                                 "fileName": "2-6-Thread Replies.png",
                                 "fileSize": 982668,
                                 "height": 3072,
-                                "url": "../images/2-6-thread-20replies.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e371b3c8b15401c919e_2-6-Thread%20Replies.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1643,7 +1643,7 @@
                 <div data-delay="4000" data-animation="slide" class="bb-persona-slider w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
                   <div class="mask w-slider-mask">
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/3-1-grade-20center.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/3-1-grade-20center-p-500.png 500w, ../images/3-1-grade-20center-p-800.png 800w, ../images/3-1-grade-20center-p-1080.png 1080w, ../images/3-1-grade-20center-p-1600.png 1600w, ../images/3-1-grade-20center-p-2000.png 2000w, ../images/3-1-grade-20center-p-2600.png 2600w, ../images/3-1-grade-20center-p-3200.png 3200w, ../images/3-1-grade-20center.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e361493befcd51056a5_3-1-Grade%20Center.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e361493befcd51056a5_3-1-Grade%20Center-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e361493befcd51056a5_3-1-Grade%20Center-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e361493befcd51056a5_3-1-Grade%20Center-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e361493befcd51056a5_3-1-Grade%20Center-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e361493befcd51056a5_3-1-Grade%20Center-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e361493befcd51056a5_3-1-Grade%20Center-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e361493befcd51056a5_3-1-Grade%20Center-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e361493befcd51056a5_3-1-Grade%20Center.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1652,7 +1652,7 @@
                                 "fileName": "3-1-Grade Center.png",
                                 "fileSize": 688528,
                                 "height": 3072,
-                                "url": "../images/3-1-grade-20center.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e361493befcd51056a5_3-1-Grade%20Center.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1662,7 +1662,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/3-2-grade-20center-assignment-205.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/3-2-grade-20center-assignment-205-p-500.png 500w, ../images/3-2-grade-20center-assignment-205-p-800.png 800w, ../images/3-2-grade-20center-assignment-205-p-1080.png 1080w, ../images/3-2-grade-20center-assignment-205-p-1600.png 1600w, ../images/3-2-grade-20center-assignment-205-p-2000.png 2000w, ../images/3-2-grade-20center-assignment-205-p-2600.png 2600w, ../images/3-2-grade-20center-assignment-205-p-3200.png 3200w, ../images/3-2-grade-20center-assignment-205.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37c6896a7cbc67b44d_3-2-Grade%20Center-Assignment%205.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37c6896a7cbc67b44d_3-2-Grade%20Center-Assignment%205-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37c6896a7cbc67b44d_3-2-Grade%20Center-Assignment%205-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37c6896a7cbc67b44d_3-2-Grade%20Center-Assignment%205-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37c6896a7cbc67b44d_3-2-Grade%20Center-Assignment%205-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37c6896a7cbc67b44d_3-2-Grade%20Center-Assignment%205-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37c6896a7cbc67b44d_3-2-Grade%20Center-Assignment%205-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37c6896a7cbc67b44d_3-2-Grade%20Center-Assignment%205-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37c6896a7cbc67b44d_3-2-Grade%20Center-Assignment%205.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1671,7 +1671,7 @@
                                 "fileName": "3-2-Grade Center-Assignment 5.png",
                                 "fileSize": 773198,
                                 "height": 3072,
-                                "url": "../images/3-2-grade-20center-assignment-205.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e37c6896a7cbc67b44d_3-2-Grade%20Center-Assignment%205.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1681,7 +1681,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/3-3-assignment-205-ashok-not-20graded.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/3-3-assignment-205-ashok-not-20graded-p-500.png 500w, ../images/3-3-assignment-205-ashok-not-20graded-p-800.png 800w, ../images/3-3-assignment-205-ashok-not-20graded-p-1080.png 1080w, ../images/3-3-assignment-205-ashok-not-20graded-p-1600.png 1600w, ../images/3-3-assignment-205-ashok-not-20graded-p-2000.png 2000w, ../images/3-3-assignment-205-ashok-not-20graded-p-2600.png 2600w, ../images/3-3-assignment-205-ashok-not-20graded-p-3200.png 3200w, ../images/3-3-assignment-205-ashok-not-20graded.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3ac33beeb55904bc77_3-3-Assignment%205-Ashok-Not%20graded.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3ac33beeb55904bc77_3-3-Assignment%205-Ashok-Not%20graded-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3ac33beeb55904bc77_3-3-Assignment%205-Ashok-Not%20graded-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3ac33beeb55904bc77_3-3-Assignment%205-Ashok-Not%20graded-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3ac33beeb55904bc77_3-3-Assignment%205-Ashok-Not%20graded-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3ac33beeb55904bc77_3-3-Assignment%205-Ashok-Not%20graded-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3ac33beeb55904bc77_3-3-Assignment%205-Ashok-Not%20graded-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3ac33beeb55904bc77_3-3-Assignment%205-Ashok-Not%20graded-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3ac33beeb55904bc77_3-3-Assignment%205-Ashok-Not%20graded.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1690,7 +1690,7 @@
                                 "fileName": "3-3-Assignment 5-Ashok-Not graded.png",
                                 "fileSize": 1429341,
                                 "height": 3072,
-                                "url": "../images/3-3-assignment-205-ashok-not-20graded.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3ac33beeb55904bc77_3-3-Assignment%205-Ashok-Not%20graded.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1700,7 +1700,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/3-4-assignment-205-ashok-in-20progress.png" loading="lazy" width="Auto" height="400" alt="" srcset="../images/3-4-assignment-205-ashok-in-20progress-p-500.png 500w, ../images/3-4-assignment-205-ashok-in-20progress-p-800.png 800w, ../images/3-4-assignment-205-ashok-in-20progress-p-1080.png 1080w, ../images/3-4-assignment-205-ashok-in-20progress-p-1600.png 1600w, ../images/3-4-assignment-205-ashok-in-20progress-p-2000.png 2000w, ../images/3-4-assignment-205-ashok-in-20progress-p-2600.png 2600w, ../images/3-4-assignment-205-ashok-in-20progress-p-3200.png 3200w, ../images/3-4-assignment-205-ashok-in-20progress.png 4320w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3a824e76caa7bbfd1a_3-4-Assignment%205-Ashok-In%20Progress.png" loading="lazy" width="Auto" height="400" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3a824e76caa7bbfd1a_3-4-Assignment%205-Ashok-In%20Progress-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3a824e76caa7bbfd1a_3-4-Assignment%205-Ashok-In%20Progress-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3a824e76caa7bbfd1a_3-4-Assignment%205-Ashok-In%20Progress-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3a824e76caa7bbfd1a_3-4-Assignment%205-Ashok-In%20Progress-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3a824e76caa7bbfd1a_3-4-Assignment%205-Ashok-In%20Progress-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3a824e76caa7bbfd1a_3-4-Assignment%205-Ashok-In%20Progress-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3a824e76caa7bbfd1a_3-4-Assignment%205-Ashok-In%20Progress-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3a824e76caa7bbfd1a_3-4-Assignment%205-Ashok-In%20Progress.png 4320w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1709,7 +1709,7 @@
                                 "fileName": "3-4-Assignment 5-Ashok-In Progress.png",
                                 "fileSize": 1430430,
                                 "height": 3072,
-                                "url": "../images/3-4-assignment-205-ashok-in-20progress.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/663d4e3a824e76caa7bbfd1a_3-4-Assignment%205-Ashok-In%20Progress.png",
                                 "width": 4320,
                                 "type": "image"
                               }],
@@ -1719,7 +1719,7 @@
                         </a></div>
                     </div>
                     <div class="persona-slide w-slide">
-                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/3-5-assignment-205-ashok-graded.png" loading="lazy" width="Auto" height="400" alt="Blackboard Grading Page" srcset="../images/3-5-assignment-205-ashok-graded-p-500.png 500w, ../images/3-5-assignment-205-ashok-graded-p-800.png 800w, ../images/3-5-assignment-205-ashok-graded-p-1080.png 1080w, ../images/3-5-assignment-205-ashok-graded.png 1440w" sizes="100vw" class="bb-persona-image" />
+                      <div class="w-layout-vflex bb-persona-image-wrapper"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded.png" loading="lazy" width="Auto" height="400" alt="Blackboard Grading Page" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded.png 1440w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, 562.5px" class="bb-persona-image" />
                           <script type="application/json" class="w-json">
                             {
                               "items": [{
@@ -1728,7 +1728,7 @@
                                 "fileName": "3-5-Assignment 5-Ashok-Graded.png",
                                 "fileSize": 279432,
                                 "height": 1024,
-                                "url": "../images/3-5-assignment-205-ashok-graded.png",
+                                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded.png",
                                 "width": 1440,
                                 "type": "image"
                               }],
@@ -1769,7 +1769,7 @@
         </div>
       </div>
     </div>
-    <div style="display:block" class="loading-overlay"><img src="../images/sr-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
+    <div style="display:block" class="loading-overlay"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/665a55dcb0b8f0fdfbe5bbc0_SR-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
     <script src="../js/jquery.js" type="text/javascript"  ></script>
     <script src="../js/webflow-script.js" type="text/javascript"></script>
     <script>

@@ -1,4 +1,4 @@
-<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 22:19:17 GMT+0000 (Coordinated Universal Time) -->
+<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 21:33:39 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-page="65e22fb14b16449dd15ab3aa" data-wf-site="65e22fb14b16449dd15ab36a" lang="en" data-wf-locale="en">
   <head>
     <meta charset="utf-8" />
@@ -24,8 +24,8 @@
         n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-    <link href="../images/favicon.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="../images/app-icon.png" rel="apple-touch-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660f9d6fdc70be6a9ff48e8_SR-ico.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660fa5d233d644228078ff4_SR-logo%20(256x256).png" rel="apple-touch-icon" />
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-LSK948K905"></script>
     <script type="text/javascript">
       window.dataLayer = window.dataLayer || [];
@@ -45,10 +45,10 @@
   </head>
   <body class="body">
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
-      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="../images/logo-20-2b-20name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
+      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e49802b7666b8d9666796e_Logo%20%2B%20Name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
         <div data-w-id="69118560-d0bc-15fc-bbf8-b8fe5f6535b9" class="navigation-wrap">
           <nav role="navigation" class="myport-nav-items w-nav-menu"><a href="/" class="navigation-item w-nav-link">Home</a><a href="/#work-magnet" class="navigation-item w-nav-link">Work</a><a href="/about" class="navigation-item w-nav-link">About</a><a href="/resume" class="navigation-item w-nav-link">RESUME</a></nav>
-          <div class="menu-button w-nav-button"><img src="../images/white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
+          <div class="menu-button w-nav-button"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4c1e7ad9fdf0f3f7c31bb_white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
         </div>
       </div>
     </div>
@@ -57,7 +57,7 @@
     </div>
     <div id="top-bar" class="top-bar"></div>
     <div class="hero-section">
-      <div class="div-block-47"><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="../images/hero.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 92vw, (max-width: 1439px) 94vw, 975.15625px" srcset="../images/hero-p-500.png 500w, ../images/hero-p-800.png 800w, ../images/hero-p-1080.png 1080w, ../images/hero-p-1600.png 1600w, ../images/hero-p-2000.png 2000w, ../images/hero-p-2600.png 2600w, ../images/hero-p-3200.png 3200w, ../images/hero.png 4320w" alt="Homepage HERO section of the redesigned website" class="image-2" />
+      <div><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c7ca9a140b87647ead5ab_HERO.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 92vw, (max-width: 991px) 94vw, 96vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c7ca9a140b87647ead5ab_HERO-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c7ca9a140b87647ead5ab_HERO-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c7ca9a140b87647ead5ab_HERO-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c7ca9a140b87647ead5ab_HERO-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c7ca9a140b87647ead5ab_HERO-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c7ca9a140b87647ead5ab_HERO-p-2600.png 2600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c7ca9a140b87647ead5ab_HERO-p-3200.png 3200w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c7ca9a140b87647ead5ab_HERO.png 4320w" alt="Homepage HERO section of the redesigned website" class="image-2" />
           <script type="application/json" class="w-json">
             {
               "items": [{
@@ -66,7 +66,7 @@
                 "fileName": "HERO.png",
                 "fileSize": 2298794,
                 "height": 2658,
-                "url": "../images/hero.png",
+                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c7ca9a140b87647ead5ab_HERO.png",
                 "width": 4320,
                 "caption": "HERO section of the redesigned website",
                 "type": "image"
@@ -138,7 +138,7 @@
           </div>
           <div class="div-block-15"></div>
         </div>
-        <div id="w-node-_12d61420-d6b3-e8da-1d28-5a1e4325cddc-d15ab3aa" class="two-column-flex w-clearfix"><a href="#" class="img-moodboard w-inline-block w-lightbox"><img class="image-24" src="../images/moodboard.png" width="Auto" height="Auto" alt="Moodboard to get the right vibe" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 72vw, (max-width: 1439px) 45vw, 490px" data-w-id="2060ea9d-ccdf-36dc-9207-a3b3182def2d" loading="lazy" srcset="../images/moodboard-p-500.png 500w, ../images/moodboard-p-800.png 800w, ../images/moodboard-p-1080.png 1080w, ../images/moodboard.png 1084w" />
+        <div id="w-node-_12d61420-d6b3-e8da-1d28-5a1e4325cddc-d15ab3aa" class="two-column-flex w-clearfix"><a href="#" class="img-moodboard w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fd96fa951b08fa50be0cb8_Moodboard.png" loading="lazy" width="Auto" height="Auto" alt="Moodboard to get the right vibe" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fd96fa951b08fa50be0cb8_Moodboard-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fd96fa951b08fa50be0cb8_Moodboard-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fd96fa951b08fa50be0cb8_Moodboard-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fd96fa951b08fa50be0cb8_Moodboard.png 1084w" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 72vw, 45vw" data-w-id="2060ea9d-ccdf-36dc-9207-a3b3182def2d" />
             <script type="application/json" class="w-json">
               {
                 "items": [{
@@ -147,7 +147,7 @@
                   "fileName": "Moodboard.png",
                   "fileSize": 1774428,
                   "height": 866,
-                  "url": "../images/moodboard.png",
+                  "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fd96fa951b08fa50be0cb8_Moodboard.png",
                   "width": 1084,
                   "caption": "Moodboard to get the right vibe",
                   "type": "image"
@@ -169,11 +169,11 @@
           </div>
           <div class="div-block-15"></div>
         </div>
-        <div id="w-node-_2c1aa86e-9387-7f9d-c6d0-3cc56a9ddd76-d15ab3aa" class="two-column-flex w-clearfix"><img src="../images/types.png" loading="lazy" width="Auto" height="Auto" alt="Typefaces for the redesign" class="image-9 image-8" />
+        <div id="w-node-_2c1aa86e-9387-7f9d-c6d0-3cc56a9ddd76-d15ab3aa" class="two-column-flex w-clearfix"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdca262fb400f6d159ac04_Types.png" loading="lazy" width="Auto" height="Auto" alt="Typefaces for the redesign" class="image-9 image-8" />
           <div id="w-node-_2c1aa86e-9387-7f9d-c6d0-3cc56a9ddd78-d15ab3aa" class="htt-para-light">Hyderabad is a city of juxtaposition with the old and the new existing together. I wanted to integrate this aspect into the brand design. Keeping this in mind, the typeface <strong>Aboreto</strong> felt very fitting with the theme. The typefaces <strong>Yeseva One</strong> and <strong>Apercu Pro</strong> also worked well together to maintain this specific aesthetic. <br /><br />The brand being a travel agency, I wanted to add a feeling of luxury &amp; sophistication as well. I wanted the primary color that I’ll use as part of the redesign of the website to evoke a sense of heritage &amp; history. With this goal, I initially worked with a deep brown that evokes a feeling of history while also maintaining a sense of royalty. The turmeric yellow is contrasting and is taken directly from the flag of the last-standing empire, bringing a sense of royalty. These two colors on a black background fit perfectly with the aesthetic of history and the culture of Hyderabad. Using these two colors, I landed on a bright blue using the triadic color harmony. I felt this blue was perfect to show the contrasting modern part of the city and also helped to add a contemporary aesthetic to the brand when included in the logo.<br />‍<br /></div>
           <div id="w-node-_5b3faf7e-89f9-c46b-92ff-5e0c3e80b7ba-d15ab3aa" class="htt-para-light">For the final palette, I put aside the brown as I wanted to integrate black and white into the final color palette. I planned to use the brown as a background, but the result was not what I had expected. Sticking to this four-color palette worked well to keep the brand&#x27;s identity modern - while also retaining a sense of history. I also planned to add a lot of images to reinforce this aesthetic.<br /></div>
         </div>
-        <div class="div-block-10"><img src="../images/palette.png" loading="lazy" width="Auto" height="Auto" alt="Color palette for the redesign" srcset="../images/palette-p-500.png 500w, ../images/palette-p-800.png 800w, ../images/palette.png 949w" sizes="(max-width: 479px) 78vw, (max-width: 991px) 72vw, (max-width: 1439px) 54vw, 588px" class="image-7" /></div>
+        <div class="div-block-10"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdca0046b56112aa0b414a_Palette.png" loading="lazy" width="Auto" height="Auto" alt="Color palette for the redesign" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdca0046b56112aa0b414a_Palette-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdca0046b56112aa0b414a_Palette-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdca0046b56112aa0b414a_Palette.png 949w" sizes="(max-width: 479px) 78vw, (max-width: 991px) 72vw, 54vw" class="image-7" /></div>
       </div>
       <div class="htt-content-flex">
         <div class="div-block-2">
@@ -187,46 +187,46 @@
         </div>
         <div class="htt-para-light">Taking the earlier moodboard into account, I came up with initial ideas for logos based on the unique characteristics of the city.  I focused on five of these characteristics and used them as a starting ground for creating each logo. </div>
         <div class="logo-grid">
-          <div id="w-node-ad190ff1-336d-d2ca-a53e-ffc269b6c5b6-d15ab3aa" class="logo-flex w-clearfix"><img src="../images/logo1.png" loading="lazy" width="Auto" height="Auto" alt="logo prototype 1" class="image-5" />
+          <div id="w-node-ad190ff1-336d-d2ca-a53e-ffc269b6c5b6-d15ab3aa" class="logo-flex w-clearfix"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdc9f76a0b634b6b69948e_logo1.png" loading="lazy" width="Auto" height="Auto" alt="logo prototype 1" class="image-5" />
             <div id="w-node-ad190ff1-336d-d2ca-a53e-ffc269b6c5b8-d15ab3aa" class="htt-para-light tablet">This logo is designed to represent <strong>History</strong>. Hyderabad has a rich history, embodied in the city’s culture. The food eaten and language spoken in the older parts of the city have remnants of this history in them. This logo uses the iconic monument Charminar to represent history and also resembles the letter ‘H’ that aligns with the company’s title.<br /></div>
           </div>
-          <div id="w-node-e30cb28e-71f5-77e7-6c69-0500c631ba87-d15ab3aa" class="logo-flex w-clearfix"><img src="../images/logo3.png" loading="lazy" width="Auto" height="Auto" alt="logo prototype 2" class="image-5" />
+          <div id="w-node-e30cb28e-71f5-77e7-6c69-0500c631ba87-d15ab3aa" class="logo-flex w-clearfix"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdc9f7ab55a9c47b9563d8_logo3.png" loading="lazy" width="Auto" height="Auto" alt="logo prototype 2" class="image-5" />
             <div id="w-node-e30cb28e-71f5-77e7-6c69-0500c631ba89-d15ab3aa" class="htt-para-light tablet">One of the strengths of HTT is their ability to curate packages for their customers. This logo is designed to represent <strong>Personalization</strong>. Since Hyderabad has many different experiences, customer can choose which aspect to focus on. The logo reinforces the idea that the ‘customer is king’ and that they have control of their travel experience by making use of a crown whose style is indigenous to Hyderabad. The character also has sunglasses to convey the person in the logo is a tourist i.e. the customer and the crown shows their importance.<br /></div>
           </div>
-          <div id="w-node-a4b399ee-a0a2-223a-0f24-d6ac4e1632b1-d15ab3aa" class="logo-flex w-clearfix"><img src="../images/logo2.png" loading="lazy" width="Auto" height="Auto" alt="logo prototype 3" class="image-5" />
+          <div id="w-node-a4b399ee-a0a2-223a-0f24-d6ac4e1632b1-d15ab3aa" class="logo-flex w-clearfix"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdc9f723ea60dc561bac01_logo2.png" loading="lazy" width="Auto" height="Auto" alt="logo prototype 3" class="image-5" />
             <div id="w-node-a4b399ee-a0a2-223a-0f24-d6ac4e1632b3-d15ab3aa" class="htt-para-light tablet">This logo is designed to represent <strong>Community</strong>. Another strength of HTT is the ability to meet people of similar interests. Customers can book a specific travel package that includes traveling with strangers. The logo represents three people huddled over a cup of hot chai, with the cup having the company’s title. This conveys that people from different backgrounds connect over a similar interest, made possible through the brand.<br /></div>
           </div>
-          <div id="w-node-aef275c9-c3bb-8de6-11b1-dab5d52d3993-d15ab3aa" class="logo-flex w-clearfix"><img src="../images/logo4.png" loading="lazy" width="Auto" height="Auto" alt="logo prototype 4" class="image-5" />
+          <div id="w-node-aef275c9-c3bb-8de6-11b1-dab5d52d3993-d15ab3aa" class="logo-flex w-clearfix"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdc9f8a075ddb24bd990d7_logo4.png" loading="lazy" width="Auto" height="Auto" alt="logo prototype 4" class="image-5" />
             <div id="w-node-aef275c9-c3bb-8de6-11b1-dab5d52d3995-d15ab3aa" class="htt-para-light tablet">This logo is designed to represent <strong>Reliability</strong>. Safety is always something a customer has to look out for when traveling to a new place. HTT ensures every customer’s experience is comfortable by ensuring hotel quality and planning itineraries accordingly. HTT is able to provide a more personal touch to its services compared to its well-established competitors. The logo makes use of a Nizam king as a mascot, which is made apparent by the indigenous crown. The mascot has a cheerful expression and holds out a peace sign that evokes a feeling of trust and reliability to the customer.<br /></div>
           </div>
-          <div id="w-node-_7b323e16-c1ad-cdbe-2f29-287416a3dc85-d15ab3aa" class="logo-flex w-clearfix"><img src="../images/logo5.png" loading="lazy" width="Auto" height="Auto" alt="logo prototype 5" class="image-5" />
+          <div id="w-node-_7b323e16-c1ad-cdbe-2f29-287416a3dc85-d15ab3aa" class="logo-flex w-clearfix"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdc9f757ff479e95ce15ad_logo5.png" loading="lazy" width="Auto" height="Auto" alt="logo prototype 5" class="image-5" />
             <div id="w-node-_7b323e16-c1ad-cdbe-2f29-287416a3dc87-d15ab3aa" class="htt-para-light tablet">This logo is designed to represent <strong>Food</strong>. From the infamous Hyderabadi Biryani to the food stalls during the Ramzan season, which serve recipes directly taken from royalty, food has always been an integral part of Hyderabad. But one thing that every Hyderabadi enjoys in their day is a cup of delicious Irani Chai.  The Irani cafe culture in Hyderabad has existed for almost a century and this is where the locals hang out. This logo is meant to convey the easily recognizable plate of chai and biscuits found at every nook of Hyderabad.<br /></div>
           </div>
         </div>
         <div data-delay="4000" data-animation="slide" class="logo-slider w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
           <div class="mask w-slider-mask">
             <div class="persona-slide w-slide">
-              <div id="w-node-_4758168e-9417-76e0-ee4c-da8876ba1a2f-d15ab3aa" class="logo-flex w-clearfix"><img src="../images/logo1.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-5" />
+              <div id="w-node-_4758168e-9417-76e0-ee4c-da8876ba1a2f-d15ab3aa" class="logo-flex w-clearfix"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdc9f76a0b634b6b69948e_logo1.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-5" />
                 <div id="w-node-_4758168e-9417-76e0-ee4c-da8876ba1a31-d15ab3aa" class="htt-para-light tablet">This logo is designed to represent <strong>History</strong>. Hyderabad has a rich history, embodied in the city’s culture. The food eaten and language spoken in the older parts of the city have remnants of this history in them. This logo uses the iconic monument Charminar to represent history and also resembles the letter ‘H’ that aligns with the company’s title.<br /></div>
               </div>
             </div>
             <div class="persona-slide w-slide">
-              <div id="w-node-_7ebf01c3-579c-380e-e238-2f8f11170fda-d15ab3aa" class="logo-flex w-clearfix"><img src="../images/logo3.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-5" />
+              <div id="w-node-_7ebf01c3-579c-380e-e238-2f8f11170fda-d15ab3aa" class="logo-flex w-clearfix"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdc9f7ab55a9c47b9563d8_logo3.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-5" />
                 <div id="w-node-_7ebf01c3-579c-380e-e238-2f8f11170fdc-d15ab3aa" class="htt-para-light tablet">One of the strengths of HTT is their ability to curate packages for their customers. This logo is designed to represent <strong>Personalization</strong>. Since Hyderabad has many different experiences, customer can choose which aspect to focus on. The logo reinforces the idea that the ‘customer is king’ and that they have control of their travel experience by making use of a crown whose style is indigenous to Hyderabad. The character also has sunglasses to convey the person in the logo is a tourist i.e. the customer and the crown shows their importance.<br /></div>
               </div>
             </div>
             <div class="persona-slide w-slide">
-              <div id="w-node-a60a44ba-04a7-6ac9-5abd-a43692ac67e0-d15ab3aa" class="logo-flex w-clearfix"><img src="../images/logo2.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-5" />
+              <div id="w-node-a60a44ba-04a7-6ac9-5abd-a43692ac67e0-d15ab3aa" class="logo-flex w-clearfix"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdc9f723ea60dc561bac01_logo2.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-5" />
                 <div id="w-node-a60a44ba-04a7-6ac9-5abd-a43692ac67e2-d15ab3aa" class="htt-para-light tablet">This logo is designed to represent <strong>Community</strong>. Another strength of HTT is the ability to meet people of similar interests. Customers can book a specific travel package that includes traveling with strangers. The logo represents three people huddled over a cup of hot chai, with the cup having the company’s title. This conveys that people from different backgrounds connect over a similar interest, made possible through the brand.<br /></div>
               </div>
             </div>
             <div class="persona-slide w-slide">
-              <div id="w-node-_228327aa-178b-5450-6d10-7ab17ab62c39-d15ab3aa" class="logo-flex w-clearfix"><img src="../images/logo4.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-5" />
+              <div id="w-node-_228327aa-178b-5450-6d10-7ab17ab62c39-d15ab3aa" class="logo-flex w-clearfix"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdc9f8a075ddb24bd990d7_logo4.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-5" />
                 <div id="w-node-_228327aa-178b-5450-6d10-7ab17ab62c3b-d15ab3aa" class="htt-para-light tablet">This logo is designed to represent <strong>Reliability</strong>. Safety is always something a customer has to look out for when traveling to a new place. HTT ensures every customer’s experience is comfortable by ensuring hotel quality and planning itineraries accordingly. HTT is able to provide a more personal touch to its services compared to its well-established competitors. The logo makes use of a Nizam king as a mascot, which is made apparent by the indigenous crown. The mascot has a cheerful expression and holds out a peace sign that evokes a feeling of trust and reliability to the customer.<br /></div>
               </div>
             </div>
             <div class="persona-slide w-slide">
-              <div id="w-node-d106c438-bd38-4409-30ac-eeef4e0fc47d-d15ab3aa" class="logo-flex w-clearfix"><img src="../images/logo5.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-5" />
+              <div id="w-node-d106c438-bd38-4409-30ac-eeef4e0fc47d-d15ab3aa" class="logo-flex w-clearfix"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdc9f757ff479e95ce15ad_logo5.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-5" />
                 <div id="w-node-d106c438-bd38-4409-30ac-eeef4e0fc47f-d15ab3aa" class="htt-para-light tablet">This logo is designed to represent <strong>Food</strong>. From the infamous Hyderabadi Biryani to the food stalls during the Ramzan season, which serve recipes directly taken from royalty, food has always been an integral part of Hyderabad. But one thing that every Hyderabadi enjoys in their day is a cup of delicious Irani Chai.  The Irani cafe culture in Hyderabad has existed for almost a century and this is where the locals hang out. This logo is meant to convey the easily recognizable plate of chai and biscuits found at every nook of Hyderabad.<br /></div>
               </div>
             </div>
@@ -251,7 +251,7 @@
           <div class="div-block-15"></div>
         </div>
         <div id="w-node-_53a80b77-007f-f9eb-1168-566aa95d35db-d15ab3aa" class="htt-para-light">After gathering peer feedback, most people liked the logo with the monument of Charminar, as it is the most recognizable place of interest in Hyderabad. I also received feedback suggesting there was an element of ‘tourism’ missing from the monument logo. Therefore, I added an autorickshaw to the logo to signify tourism. The typeface used in the logo is meant to look modern and classic at the same time, and the typeface Aboreto was a perfect fit for the job.<br /></div>
-        <div class="div-block-10 w-clearfix"><a href="#" class="img-logo w-inline-block w-lightbox"><img class="image-26" src="../images/logo.png" width="Auto" height="Auto" alt="New logo for the website" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 72vw, (max-width: 1439px) 45vw, 490px" data-w-id="7b8f6dc9-aeaf-b420-4ccc-760dbda424d2" loading="lazy" srcset="../images/logo-p-500.png 500w, ../images/logo-p-800.png 800w, ../images/logo-p-1080.png 1080w, ../images/logo.png 1543w" />
+        <div class="div-block-10 w-clearfix"><a href="#" class="img-logo w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65ee4a7d31eb4ae0c283fed2_logo.png" loading="lazy" width="Auto" height="Auto" alt="New logo for the website" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65ee4a7d31eb4ae0c283fed2_logo-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65ee4a7d31eb4ae0c283fed2_logo-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65ee4a7d31eb4ae0c283fed2_logo-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65ee4a7d31eb4ae0c283fed2_logo.png 1543w" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 72vw, 45vw" data-w-id="7b8f6dc9-aeaf-b420-4ccc-760dbda424d2" />
             <script type="application/json" class="w-json">
               {
                 "items": [{
@@ -260,7 +260,7 @@
                   "fileName": "logo.png",
                   "fileSize": 69661,
                   "height": 1410,
-                  "url": "../images/logo.png",
+                  "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65ee4a7d31eb4ae0c283fed2_logo.png",
                   "width": 1543,
                   "caption": "Updated logo for the website",
                   "type": "image"
@@ -281,7 +281,7 @@
           <div class="div-block-15"></div>
         </div>
         <div id="w-node-d2a8d4ef-e357-ed13-f9e9-4999e9891299-d15ab3aa" class="htt-para-light">Creating the sitemap helped me get a holistic view of how the website was laid out and also look at the hierarchy of existing pages. The first thing I noticed was the lack of an ‘About Us’ page on the website. The next step was adding it as this page is important to communicate the vision of the brand to potential customers. This page also plays an important role in gaining the trust of customers and stand out from other competitors.<br /></div>
-        <div class="div-block-10"><img src="../images/sitemap.png" loading="lazy" width="Auto" height="Auto" alt="Sitemap for the current website" srcset="../images/sitemap-p-500.png 500w, ../images/sitemap-p-800.png 800w, ../images/sitemap-p-1080.png 1080w, ../images/sitemap.png 1546w" sizes="(max-width: 479px) 98vw, (max-width: 1439px) 90vw, 980px" class="image-25" /></div>
+        <div class="div-block-10"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdd3a03ce8e1cc1bb791d2_Sitemap.png" loading="lazy" width="Auto" height="Auto" alt="Sitemap for the current website" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdd3a03ce8e1cc1bb791d2_Sitemap-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdd3a03ce8e1cc1bb791d2_Sitemap-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdd3a03ce8e1cc1bb791d2_Sitemap-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdd3a03ce8e1cc1bb791d2_Sitemap.png 1546w" sizes="100vw" /></div>
       </div>
       <div class="htt-content-flex">
         <div class="div-block-2">
@@ -294,7 +294,7 @@
           <div class="div-block-15"></div>
         </div>
         <div id="w-node-_31d53065-944c-d743-b988-c79c0a325147-d15ab3aa" class="htt-para-light">To ensure a systematic approach to redesigning the website, I decided to choose 5 pages that I want to focus on. From the existing pages, I chose the Homepage, Browse Packages, Package Details, and About Place pages. Being a brand that provides experiences to it’s customers, it was surprising to learn that the existing website did not have an ‘About us’ page. I believe customers would want to know more about the people behind the brand providing their travel experiences. Having information about the vision of the company and the people associated with the brand helps a potential customer build trust in the brand. For the fifth page, I decided to add an About Us page as part of the redesign.<br /></div>
-        <div class="div-block-10"><img src="../images/swot-1.png" loading="lazy" width="Auto" height="Auto" alt="SWOT Analysis - Strengths and Opportunities" srcset="../images/swot-1-p-500.png 500w, ../images/swot-1.png 813w" sizes="(max-width: 479px) 98vw, (max-width: 767px) 72vw, (max-width: 991px) 45vw, (max-width: 1439px) 36vw, 392px" class="image-13" /><img src="../images/swot-2.png" loading="lazy" width="Auto" height="Auto" alt="SWOT Analysis - Weaknesses and Threats" srcset="../images/swot-2-p-500.png 500w, ../images/swot-2.png 812w" sizes="(max-width: 479px) 98vw, (max-width: 767px) 72vw, (max-width: 991px) 45vw, (max-width: 1439px) 36vw, 392px" class="image-13" /></div>
+        <div class="div-block-10"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdedcb8fa695af44709426_SWOT-1.png" loading="lazy" width="Auto" height="Auto" alt="SWOT Analysis - Strengths and Opportunities" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdedcb8fa695af44709426_SWOT-1-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdedcb8fa695af44709426_SWOT-1.png 813w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 72vw, (max-width: 991px) 44vw, 36vw" class="image-13" /><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdecd2686502959d7f3853_SWOT-2.png" loading="lazy" width="Auto" height="Auto" alt="SWOT Analysis - Weaknesses and Threats" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdecd2686502959d7f3853_SWOT-2-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdecd2686502959d7f3853_SWOT-2.png 812w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 72vw, (max-width: 991px) 44vw, 36vw" class="image-13" /></div>
       </div>
       <div class="htt-content-flex">
         <div class="div-block-2">
@@ -321,8 +321,8 @@
                   </div>
                   <div class="div-block-13">
                     <div class="div-block-12">
-                      <div class="persona-info-wrapper"><img src="../images/rahul.png" loading="lazy" width="Auto" height="Auto" alt="" sizes="(max-width: 767px) 74vw, 425.46875px" srcset="../images/rahul-p-500.png 500w, ../images/rahul-p-800.png 800w, ../images/rahul.png 1070w" class="htt-persona-img" /></div>
-                      <div class="persona-info-wrapper"><img src="../images/rahul-needs.png" loading="lazy" alt="" sizes="(max-width: 479px) 91vw, (max-width: 767px) 81vw, (max-width: 991px) 58vw, (max-width: 1439px) 43vw, 454.25px" srcset="../images/rahul-needs-p-500.png 500w, ../images/rahul-needs-p-800.png 800w, ../images/rahul-needs.png 1143w" class="htt-persona-img" /></div>
+                      <div class="persona-info-wrapper"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdda2eab75897632b784e3_rahul.png" loading="lazy" width="Auto" height="Auto" alt="" sizes="(max-width: 767px) 74vw, 425.46875px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdda2eab75897632b784e3_rahul-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdda2eab75897632b784e3_rahul-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fdda2eab75897632b784e3_rahul.png 1070w" class="htt-persona-img" /></div>
+                      <div class="persona-info-wrapper"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd820277afe0032683a5_rahul-needs.png" loading="lazy" alt="" sizes="(max-width: 479px) 2px, 1vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd820277afe0032683a5_rahul-needs-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd820277afe0032683a5_rahul-needs-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd820277afe0032683a5_rahul-needs.png 1143w" class="htt-persona-img" /></div>
                     </div>
                   </div>
                 </div>
@@ -338,8 +338,8 @@
                   </div>
                   <div class="div-block-13">
                     <div class="div-block-12">
-                      <div class="persona-info-wrapper"><img src="../images/kunal.png" loading="lazy" width="Auto" height="Auto" alt="" sizes="(max-width: 767px) 74vw, 454.40625px" srcset="../images/kunal-p-500.png 500w, ../images/kunal-p-800.png 800w, ../images/kunal.png 1070w" class="htt-persona-img" /></div>
-                      <div class="persona-info-wrapper"><img src="../images/kunal-needs.png" loading="lazy" alt="" sizes="(max-width: 479px) 91vw, (max-width: 767px) 81vw, (max-width: 991px) 58vw, (max-width: 1439px) 42vw, 449.015625px" srcset="../images/kunal-needs-p-500.png 500w, ../images/kunal-needs-p-800.png 800w, ../images/kunal-needs.png 1142w" class="htt-persona-img" /></div>
+                      <div class="persona-info-wrapper"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddb1e935dd2bf32290398_Kunal.png" loading="lazy" width="Auto" height="Auto" alt="" sizes="(max-width: 767px) 74vw, 454.40625px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddb1e935dd2bf32290398_Kunal-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddb1e935dd2bf32290398_Kunal-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddb1e935dd2bf32290398_Kunal.png 1070w" class="htt-persona-img" /></div>
+                      <div class="persona-info-wrapper"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd82ac27e88f604e6a1c_Kunal-needs.png" loading="lazy" alt="" sizes="(max-width: 479px) 2px, 1vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd82ac27e88f604e6a1c_Kunal-needs-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd82ac27e88f604e6a1c_Kunal-needs-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd82ac27e88f604e6a1c_Kunal-needs.png 1142w" class="htt-persona-img" /></div>
                     </div>
                   </div>
                 </div>
@@ -355,8 +355,8 @@
                   </div>
                   <div class="div-block-13">
                     <div class="div-block-12">
-                      <div class="persona-info-wrapper"><img src="../images/shweta.png" loading="lazy" width="Auto" height="Auto" alt="" sizes="(max-width: 767px) 74vw, 425.46875px" srcset="../images/shweta-p-500.png 500w, ../images/shweta-p-800.png 800w, ../images/shweta.png 1070w" class="htt-persona-img" /></div>
-                      <div class="persona-info-wrapper"><img src="../images/shweta-needs.png" loading="lazy" alt="" sizes="(max-width: 479px) 91vw, (max-width: 767px) 81vw, (max-width: 991px) 58vw, 404.28125px" srcset="../images/shweta-needs-p-500.png 500w, ../images/shweta-needs-p-800.png 800w, ../images/shweta-needs.png 1142w" class="htt-persona-img" /></div>
+                      <div class="persona-info-wrapper"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddb1e23f632b8dbe3c87b_Shweta.png" loading="lazy" width="Auto" height="Auto" alt="" sizes="(max-width: 767px) 74vw, 425.46875px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddb1e23f632b8dbe3c87b_Shweta-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddb1e23f632b8dbe3c87b_Shweta-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddb1e23f632b8dbe3c87b_Shweta.png 1070w" class="htt-persona-img" /></div>
+                      <div class="persona-info-wrapper"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd82242e3437370d554e_Shweta-needs.png" loading="lazy" alt="" sizes="(max-width: 479px) 2px, 1vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd82242e3437370d554e_Shweta-needs-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd82242e3437370d554e_Shweta-needs-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65fddd82242e3437370d554e_Shweta-needs.png 1142w" class="htt-persona-img" /></div>
                     </div>
                   </div>
                 </div>
@@ -383,7 +383,7 @@
           <div class="div-block-15"></div>
         </div>
         <div id="w-node-_2321c00d-b742-e168-713c-56194463db04-d15ab3aa" class="htt-para-light">A fun task to work on was creating a business card for the brand. I made a card integrating the brand color palette and typography. The card would belong to a Brand Manager from the company. The typographic hierarchy on this card was established using different typefaces. Since the name and the designation are essential in a business card, I’ve included them on the top level of the hierarchy. The typeface used for the name is the same as the one used in the logotype. For the designation, I’ve used color and extra weight to the font used to make it pop within its context. I also added a QR code to the card to provide easy accessibility to the site address for interested customers. I wanted to emphasize the idea that a good vacation is made possible through good travel agencies. When people talk about their travel experiences, they rarely discuss the brand that facilitated their travel experiences. To make the customers not ignore the people and teams of the brand involved in their travels, I wanted to bring a more personalized approach to the business card. I added a display picture and used a handwritten font for the contact details to integrate this idea.<br /></div>
-        <div class="htt-biz-card"><img src="../images/biz-card-front.png" loading="lazy" width="Auto" height="Auto" alt="" srcset="../images/biz-card-front-p-500.png 500w, ../images/biz-card-front.png 504w" sizes="(max-width: 479px) 98vw, (max-width: 767px) 72vw, (max-width: 991px) 45vw, (max-width: 1439px) 36vw, 392px" class="image-13" /><img src="../images/biz-card-back.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-13" /></div>
+        <div class="htt-biz-card"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6600eee80dc2b4f20388e409_biz-card-front.png" loading="lazy" width="Auto" height="Auto" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6600eee80dc2b4f20388e409_biz-card-front-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6600eee80dc2b4f20388e409_biz-card-front.png 504w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 72vw, (max-width: 991px) 44vw, 36vw" class="image-13" /><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6600eee8fa335fc226b2bc45_biz-card-back.png" loading="lazy" width="Auto" height="Auto" alt="" class="image-13" /></div>
       </div>
       <div class="htt-content-flex">
         <div class="div-block-2">
@@ -397,7 +397,7 @@
         </div>
         <div id="w-node-_2ee05af3-88c8-4511-7158-82f4251b2d3a-d15ab3aa" class="htt-para-light">The goal while creating Low-fidelity wireframes was to introduce a structure to each page that the original website lacked. I made use of a grid template while designing to achieve the structure to each page. I also ensured to add many images wherever required to make the content more stimulating and evoke emotions in users as a travel website should. I also limited the textual information to only what is necessary and got rid of the huge walls of text the original website contained.<br /></div>
         <div class="lo-fi-images-wrap">
-          <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="lo-fi-image" src="../images/homepage-1.png" width="Auto" height="Auto" alt="" sizes="(max-width: 767px) 100vw, (max-width: 1439px) 22vw, 237.421875px" data-w-id="fe6bb96f-5a12-4afc-e255-73bf83af3bce" loading="lazy" srcset="../images/homepage-p-500-1.png 500w, ../images/homepage-p-800-1.png 800w, ../images/homepage-p-1080-1.png 1080w, ../images/homepage-p-1600.png 1600w, ../images/homepage-p-2000.png 2000w, ../images/homepage-1.png 2160w" />
+          <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="lo-fi-image" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage.png" width="Auto" height="Auto" alt="" sizes="100vw" data-w-id="fe6bb96f-5a12-4afc-e255-73bf83af3bce" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage.png 2160w" />
               <script type="application/json" class="w-json">
                 {
                   "items": [{
@@ -406,7 +406,7 @@
                     "fileName": "Homepage.png",
                     "fileSize": 208410,
                     "height": 3072,
-                    "url": "../images/homepage-1.png",
+                    "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage.png",
                     "width": 2160,
                     "type": "image"
                   }],
@@ -414,7 +414,7 @@
                 }
               </script>
             </a></div>
-          <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="lo-fi-image" src="../images/about-20us.png" width="Auto" height="Auto" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 30vw, (max-width: 1439px) 29vw, 316.546875px" data-w-id="dc3b8dca-54a6-96c8-39c1-d2e35f734674" loading="lazy" srcset="../images/about-20us-p-500.png 500w, ../images/about-20us-p-800.png 800w, ../images/about-20us-p-1080.png 1080w, ../images/about-20us-p-1600.png 1600w, ../images/about-20us-p-2000.png 2000w, ../images/about-20us.png 2160w" />
+          <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="lo-fi-image" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us.png" width="Auto" height="Auto" alt="" sizes="100vw" data-w-id="dc3b8dca-54a6-96c8-39c1-d2e35f734674" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us.png 2160w" />
               <script type="application/json" class="w-json">
                 {
                   "items": [{
@@ -423,7 +423,7 @@
                     "fileName": "About Us.png",
                     "fileSize": 87260,
                     "height": 2304,
-                    "url": "../images/about-20us.png",
+                    "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us.png",
                     "width": 2160,
                     "type": "image"
                   }],
@@ -431,7 +431,7 @@
                 }
               </script>
             </a></div>
-          <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="lo-fi-image" src="../images/place-20of-20interest.png" width="Auto" height="Auto" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 17vw, (max-width: 1439px) 16vw, 177.75px" data-w-id="9b1695ac-e0ef-130d-2dce-776031778b5b" loading="lazy" srcset="../images/place-20of-20interest-p-500.png 500w, ../images/place-20of-20interest-p-800.png 800w, ../images/place-20of-20interest-p-1080.png 1080w, ../images/place-20of-20interest-p-1600.png 1600w, ../images/place-20of-20interest-p-2000.png 2000w, ../images/place-20of-20interest.png 2160w" />
+          <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="lo-fi-image" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest.png" width="Auto" height="Auto" alt="" sizes="100vw" data-w-id="9b1695ac-e0ef-130d-2dce-776031778b5b" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest.png 2160w" />
               <script type="application/json" class="w-json">
                 {
                   "items": [{
@@ -440,7 +440,7 @@
                     "fileName": "Place of Interest.png",
                     "fileSize": 147427,
                     "height": 4103,
-                    "url": "../images/place-20of-20interest.png",
+                    "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest.png",
                     "width": 2160,
                     "type": "image"
                   }],
@@ -448,7 +448,7 @@
                 }
               </script>
             </a></div>
-          <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="lo-fi-image" src="../images/tour-20package.png" width="Auto" height="Auto" alt="" sizes="(max-width: 767px) 100vw, (max-width: 1439px) 15vw, 158.28125px" data-w-id="f5e44343-e57d-a2c7-382e-84eba4b53eca" loading="lazy" srcset="../images/tour-20package-p-500.png 500w, ../images/tour-20package-p-800.png 800w, ../images/tour-20package-p-1080.png 1080w, ../images/tour-20package-p-1600.png 1600w, ../images/tour-20package-p-2000.png 2000w, ../images/tour-20package.png 2160w" />
+          <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="lo-fi-image" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package.png" width="Auto" height="Auto" alt="" sizes="100vw" data-w-id="f5e44343-e57d-a2c7-382e-84eba4b53eca" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package.png 2160w" />
               <script type="application/json" class="w-json">
                 {
                   "items": [{
@@ -457,7 +457,7 @@
                     "fileName": "Tour Package.png",
                     "fileSize": 175303,
                     "height": 4608,
-                    "url": "../images/tour-20package.png",
+                    "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package.png",
                     "width": 2160,
                     "type": "image"
                   }],
@@ -469,7 +469,7 @@
         <div data-delay="4000" data-animation="slide" class="lo-fi-slider w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
           <div class="mask w-slider-mask">
             <div class="persona-slide w-slide">
-              <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/tour-20package.png" loading="lazy" width="Auto" height="Auto" alt="" srcset="../images/tour-20package-p-500.png 500w, ../images/tour-20package-p-800.png 800w, ../images/tour-20package-p-1080.png 1080w, ../images/tour-20package-p-1600.png 1600w, ../images/tour-20package-p-2000.png 2000w, ../images/tour-20package.png 2160w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 121.875px, 100vw" class="lo-fi-image" />
+              <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package.png" loading="lazy" width="Auto" height="Auto" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package.png 2160w" sizes="100vw" class="lo-fi-image" />
                   <script type="application/json" class="w-json">
                     {
                       "items": [{
@@ -478,7 +478,7 @@
                         "fileName": "Tour Package.png",
                         "fileSize": 175303,
                         "height": 4608,
-                        "url": "../images/tour-20package.png",
+                        "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b912d80a57e885fd9_Tour%20Package.png",
                         "width": 2160,
                         "type": "image"
                       }],
@@ -488,7 +488,7 @@
                 </a></div>
             </div>
             <div class="persona-slide w-slide">
-              <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/homepage-1.png" loading="lazy" width="Auto" height="Auto" alt="" srcset="../images/homepage-p-500-1.png 500w, ../images/homepage-p-800-1.png 800w, ../images/homepage-p-1080-1.png 1080w, ../images/homepage-p-1600.png 1600w, ../images/homepage-p-2000.png 2000w, ../images/homepage-1.png 2160w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 182.8125px, 100vw" class="lo-fi-image" />
+              <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage.png" loading="lazy" width="Auto" height="Auto" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage.png 2160w" sizes="100vw" class="lo-fi-image" />
                   <script type="application/json" class="w-json">
                     {
                       "items": [{
@@ -497,7 +497,7 @@
                         "fileName": "Homepage.png",
                         "fileSize": 208410,
                         "height": 3072,
-                        "url": "../images/homepage-1.png",
+                        "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400b23087acbd4778583_Homepage.png",
                         "width": 2160,
                         "type": "image"
                       }],
@@ -507,7 +507,7 @@
                 </a></div>
             </div>
             <div class="persona-slide w-slide">
-              <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/about-20us.png" loading="lazy" width="Auto" height="Auto" alt="" srcset="../images/about-20us-p-500.png 500w, ../images/about-20us-p-800.png 800w, ../images/about-20us-p-1080.png 1080w, ../images/about-20us-p-1600.png 1600w, ../images/about-20us-p-2000.png 2000w, ../images/about-20us.png 2160w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 42vw, 100vw" class="lo-fi-image" />
+              <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us.png" loading="lazy" width="Auto" height="Auto" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us.png 2160w" sizes="100vw" class="lo-fi-image" />
                   <script type="application/json" class="w-json">
                     {
                       "items": [{
@@ -516,7 +516,7 @@
                         "fileName": "About Us.png",
                         "fileSize": 87260,
                         "height": 2304,
-                        "url": "../images/about-20us.png",
+                        "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400abdbd5d130ebc09ea_About%20Us.png",
                         "width": 2160,
                         "type": "image"
                       }],
@@ -526,7 +526,7 @@
                 </a></div>
             </div>
             <div class="persona-slide w-slide">
-              <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/place-20of-20interest.png" loading="lazy" width="Auto" height="Auto" alt="" srcset="../images/place-20of-20interest-p-500.png 500w, ../images/place-20of-20interest-p-800.png 800w, ../images/place-20of-20interest-p-1080.png 1080w, ../images/place-20of-20interest-p-1600.png 1600w, ../images/place-20of-20interest-p-2000.png 2000w, ../images/place-20of-20interest.png 2160w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 136.875px, 100vw" class="lo-fi-image" />
+              <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest.png" loading="lazy" width="Auto" height="Auto" alt="" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest.png 2160w" sizes="100vw" class="lo-fi-image" />
                   <script type="application/json" class="w-json">
                     {
                       "items": [{
@@ -535,7 +535,7 @@
                         "fileName": "Place of Interest.png",
                         "fileSize": 147427,
                         "height": 4103,
-                        "url": "../images/place-20of-20interest.png",
+                        "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660b400ab97718d3ddb287ca_Place%20of%20Interest.png",
                         "width": 2160,
                         "type": "image"
                       }],
@@ -569,7 +569,7 @@
           <div class="htt-hifi-heading">The Homepage<br /></div>
           <div class="htt-title-stroke"></div>
           <div class="hi-fi-images-wrap-copy">
-            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="../images/homepage-2.png" width="Auto" height="Auto" alt="" sizes="(max-width: 479px) 47vw, (max-width: 767px) 43vw, (max-width: 991px) 35vw, (max-width: 1439px) 31vw, 332.28125px" data-w-id="f165fd35-8255-3fbb-470f-5d1b620523de" loading="lazy" srcset="../images/homepage-p-500-2.png 500w, ../images/homepage-p-800-2.png 800w, ../images/homepage-2.png 811w" />
+            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d5329d8b16a84686535_Homepage.png" width="Auto" height="Auto" alt="" sizes="100vw" data-w-id="f165fd35-8255-3fbb-470f-5d1b620523de" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d5329d8b16a84686535_Homepage-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d5329d8b16a84686535_Homepage-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d5329d8b16a84686535_Homepage.png 811w" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -578,7 +578,7 @@
                       "fileName": "Homepage.png",
                       "fileSize": 838025,
                       "height": 1115,
-                      "url": "../images/homepage-2.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d5329d8b16a84686535_Homepage.png",
                       "width": 811,
                       "type": "image"
                     }],
@@ -586,7 +586,7 @@
                   }
                 </script>
               </a></div>
-            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="../images/homepage-2-1.png" width="Auto" height="Auto" alt="" sizes="(max-width: 479px) 47vw, (max-width: 767px) 44vw, (max-width: 991px) 35vw, (max-width: 1439px) 31vw, 332.703125px" data-w-id="f165fd35-8255-3fbb-470f-5d1b620523e1" loading="lazy" srcset="../images/homepage-2-p-500.png 500w, ../images/homepage-2-p-800.png 800w, ../images/homepage-2-1.png 812w" />
+            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d57abe1e0613f57fc17_Homepage-2.png" width="Auto" height="Auto" alt="" sizes="100vw" data-w-id="f165fd35-8255-3fbb-470f-5d1b620523e1" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d57abe1e0613f57fc17_Homepage-2-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d57abe1e0613f57fc17_Homepage-2-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d57abe1e0613f57fc17_Homepage-2.png 812w" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -595,7 +595,7 @@
                       "fileName": "Homepage-2.png",
                       "fileSize": 506402,
                       "height": 1115,
-                      "url": "../images/homepage-2-1.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d57abe1e0613f57fc17_Homepage-2.png",
                       "width": 812,
                       "type": "image"
                     }],
@@ -609,7 +609,7 @@
           <div class="htt-hifi-heading">Tour Package Details<br /></div>
           <div class="htt-title-stroke"></div>
           <div class="hi-fi-images-wrap-tablet">
-            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/pkg-details-1.png" loading="lazy" width="Auto" height="Auto" alt="" data-w-id="da6395b8-0b72-a27a-6652-6d76eb4d966d" class="hi-fi-image-pkg" />
+            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d52ecbac0ad326abb52_pkg-details-1.png" loading="lazy" width="Auto" height="Auto" alt="" data-w-id="da6395b8-0b72-a27a-6652-6d76eb4d966d" class="hi-fi-image-pkg" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -618,7 +618,7 @@
                       "fileName": "pkg-details-1.png",
                       "fileSize": 270943,
                       "height": 539,
-                      "url": "../images/pkg-details-1.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d52ecbac0ad326abb52_pkg-details-1.png",
                       "width": 481,
                       "type": "image"
                     }],
@@ -626,7 +626,7 @@
                   }
                 </script>
               </a></div>
-            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/pkg-details-2.png" loading="lazy" width="Auto" height="Auto" alt="" data-w-id="da6395b8-0b72-a27a-6652-6d76eb4d9670" class="hi-fi-image-pkg" />
+            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d540c4941b63fc86608_pkg-details-2.png" loading="lazy" width="Auto" height="Auto" alt="" data-w-id="da6395b8-0b72-a27a-6652-6d76eb4d9670" class="hi-fi-image-pkg" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -635,7 +635,7 @@
                       "fileName": "pkg-details-2.png",
                       "fileSize": 183096,
                       "height": 539,
-                      "url": "../images/pkg-details-2.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d540c4941b63fc86608_pkg-details-2.png",
                       "width": 482,
                       "type": "image"
                     }],
@@ -643,7 +643,7 @@
                   }
                 </script>
               </a></div>
-            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="../images/pkg-details-3.png" loading="lazy" width="Auto" height="Auto" alt="" data-w-id="46f40805-e909-d5c0-a06e-55bd1bd304f4" class="hi-fi-image-pkg" />
+            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d52180d97f2d7821c84_pkg-details-3.png" loading="lazy" width="Auto" height="Auto" alt="" data-w-id="46f40805-e909-d5c0-a06e-55bd1bd304f4" class="hi-fi-image-pkg" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -652,7 +652,7 @@
                       "fileName": "pkg-details-3.png",
                       "fileSize": 357956,
                       "height": 539,
-                      "url": "../images/pkg-details-3.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d52180d97f2d7821c84_pkg-details-3.png",
                       "width": 482,
                       "type": "image"
                     }],
@@ -666,7 +666,7 @@
           <div class="htt-hifi-heading">Browse Packages &amp; Places of Interest<br /></div>
           <div class="htt-title-stroke"></div>
           <div class="hi-fi-images-wrap-copy">
-            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="../images/browse-pkg.png" width="Auto" height="Auto" alt="" sizes="(max-width: 479px) 47vw, (max-width: 767px) 43vw, (max-width: 991px) 35vw, (max-width: 1439px) 31vw, 332.28125px" data-w-id="8719abf0-8e1b-e7fa-20e8-a0412854aea6" loading="lazy" srcset="../images/browse-pkg-p-500.png 500w, ../images/browse-pkg.png 775w" />
+            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d5290ff32a7973cf42f_browse-pkg.png" width="Auto" height="Auto" alt="" sizes="100vw" data-w-id="8719abf0-8e1b-e7fa-20e8-a0412854aea6" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d5290ff32a7973cf42f_browse-pkg-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d5290ff32a7973cf42f_browse-pkg.png 775w" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -675,7 +675,7 @@
                       "fileName": "browse-pkg.png",
                       "fileSize": 810686,
                       "height": 1046,
-                      "url": "../images/browse-pkg.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d5290ff32a7973cf42f_browse-pkg.png",
                       "width": 775,
                       "type": "image"
                     }],
@@ -683,7 +683,7 @@
                   }
                 </script>
               </a></div>
-            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="../images/place-of-interest.png" width="Auto" height="Auto" alt="" sizes="(max-width: 479px) 47vw, (max-width: 767px) 44vw, (max-width: 991px) 35vw, (max-width: 1439px) 31vw, 332.71875px" data-w-id="8719abf0-8e1b-e7fa-20e8-a0412854aea9" loading="lazy" srcset="../images/place-of-interest-p-500.png 500w, ../images/place-of-interest.png 776w" />
+            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d52f5b5590cddf615eb_place-of-interest.png" width="Auto" height="Auto" alt="" sizes="100vw" data-w-id="8719abf0-8e1b-e7fa-20e8-a0412854aea9" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d52f5b5590cddf615eb_place-of-interest-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d52f5b5590cddf615eb_place-of-interest.png 776w" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -692,7 +692,7 @@
                       "fileName": "place-of-interest.png",
                       "fileSize": 518320,
                       "height": 1046,
-                      "url": "../images/place-of-interest.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d52f5b5590cddf615eb_place-of-interest.png",
                       "width": 776,
                       "type": "image"
                     }],
@@ -706,7 +706,7 @@
           <div class="htt-hifi-heading">About us<br /></div>
           <div class="htt-title-stroke"></div>
           <div class="hi-fi-images-wrap-copy">
-            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="../images/about-us-1.png" width="Auto" height="Auto" alt="" sizes="(max-width: 479px) 47vw, (max-width: 767px) 43vw, (max-width: 991px) 35vw, (max-width: 1439px) 31vw, 332.28125px" data-w-id="07e22a75-81a4-048b-4894-efe36f9d50bd" loading="lazy" srcset="../images/about-us-1-p-500.png 500w, ../images/about-us-1.png 775w" />
+            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d513e1ed9ce3a7e2d62_About-us-1.png" width="Auto" height="Auto" alt="" sizes="100vw" data-w-id="07e22a75-81a4-048b-4894-efe36f9d50bd" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d513e1ed9ce3a7e2d62_About-us-1-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d513e1ed9ce3a7e2d62_About-us-1.png 775w" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -715,7 +715,7 @@
                       "fileName": "About-us-1.png",
                       "fileSize": 182242,
                       "height": 782,
-                      "url": "../images/about-us-1.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d513e1ed9ce3a7e2d62_About-us-1.png",
                       "width": 775,
                       "type": "image"
                     }],
@@ -723,7 +723,7 @@
                   }
                 </script>
               </a></div>
-            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="../images/about-us-2.png" width="Auto" height="Auto" alt="" sizes="(max-width: 479px) 47vw, (max-width: 767px) 44vw, (max-width: 991px) 35vw, (max-width: 1439px) 31vw, 332.71875px" data-w-id="07e22a75-81a4-048b-4894-efe36f9d50c0" loading="lazy" srcset="../images/about-us-2-p-500.png 500w, ../images/about-us-2.png 776w" />
+            <div class="w-layout-vflex flex-block"><a href="#" class="lightbox-link-2 w-inline-block w-lightbox"><img class="hi-fi-image" src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d525cfc4d630a861ebb_About-us-2.png" width="Auto" height="Auto" alt="" sizes="100vw" data-w-id="07e22a75-81a4-048b-4894-efe36f9d50c0" loading="lazy" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d525cfc4d630a861ebb_About-us-2-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d525cfc4d630a861ebb_About-us-2.png 776w" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -732,7 +732,7 @@
                       "fileName": "About-us-2.png",
                       "fileSize": 568234,
                       "height": 782,
-                      "url": "../images/about-us-2.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c6d525cfc4d630a861ebb_About-us-2.png",
                       "width": 776,
                       "type": "image"
                     }],
@@ -767,7 +767,7 @@
         </div>
       </div>
     </div>
-    <div style="display:block" class="loading-overlay"><img src="../images/sr-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
+    <div style="display:block" class="loading-overlay"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/665a55dcb0b8f0fdfbe5bbc0_SR-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
     <script src="../js/jquery.js" type="text/javascript"  ></script>
     <script src="../js/webflow-script.js" type="text/javascript"></script>
     <script>
