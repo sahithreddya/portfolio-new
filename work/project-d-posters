@@ -1,4 +1,4 @@
-<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 22:19:17 GMT+0000 (Coordinated Universal Time) -->
+<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 21:33:39 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-page="669c6f700a7c8add0028fdb4" data-wf-site="65e22fb14b16449dd15ab36a" lang="en" data-wf-locale="en">
   <head>
     <meta charset="utf-8" />
@@ -24,8 +24,8 @@
         n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-    <link href="../images/favicon.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="../images/app-icon.png" rel="apple-touch-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660f9d6fdc70be6a9ff48e8_SR-ico.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660fa5d233d644228078ff4_SR-logo%20(256x256).png" rel="apple-touch-icon" />
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-LSK948K905"></script>
     <script type="text/javascript">
       window.dataLayer = window.dataLayer || [];
@@ -45,10 +45,10 @@
   </head>
   <body class="body">
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
-      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="../images/logo-20-2b-20name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
+      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e49802b7666b8d9666796e_Logo%20%2B%20Name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
         <div data-w-id="69118560-d0bc-15fc-bbf8-b8fe5f6535b9" class="navigation-wrap">
           <nav role="navigation" class="myport-nav-items w-nav-menu"><a href="/" class="navigation-item w-nav-link">Home</a><a href="/#work-magnet" class="navigation-item w-nav-link">Work</a><a href="/about" class="navigation-item w-nav-link">About</a><a href="/resume" class="navigation-item w-nav-link">RESUME</a></nav>
-          <div class="menu-button w-nav-button"><img src="../images/white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
+          <div class="menu-button w-nav-button"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4c1e7ad9fdf0f3f7c31bb_white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
         </div>
       </div>
     </div>
@@ -58,7 +58,7 @@
     <div id="top-bar" class="top-bar"></div>
     <div class="hero-section">
       <div id="Title" class="project-title w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-0028fdb4">
-        <div class="hero-image"><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="../images/against-20child-20labour.png" loading="eager" sizes="(max-width: 479px) 96vw, (max-width: 991px) 400px, 600px" srcset="../images/against-20child-20labour-p-500.png 500w, ../images/against-20child-20labour-p-800.png 800w, ../images/against-20child-20labour.png 1080w" alt="Mockup of the design printed on a Black Tee and a White tee" class="image-2" />
+        <div><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70121f2c3433f329a958_Against%20Child%20Labour.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 92vw, (max-width: 1148px) 94vw, 1080px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70121f2c3433f329a958_Against%20Child%20Labour-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70121f2c3433f329a958_Against%20Child%20Labour-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70121f2c3433f329a958_Against%20Child%20Labour.png 1080w" alt="Mockup of the design printed on a Black Tee and a White tee" class="image-2" />
             <script type="application/json" class="w-json">
               {
                 "items": [{
@@ -67,7 +67,7 @@
                   "fileName": "Shirts Mockup.png",
                   "fileSize": 770842,
                   "height": 780,
-                  "url": "../images/shirts-20mockup.png",
+                  "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228eff498ce80215aa628_Shirts%20Mockup.png",
                   "width": 1200,
                   "caption": "Mockup of the design printed on a Black Tee and a White tee",
                   "type": "image"
@@ -99,7 +99,7 @@
           <div data-delay="3000" data-animation="slide" class="slider__project-d w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="true" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="1000" data-infinite="true">
             <div class="w-slider-mask">
               <div class="slide__project-d w-slide">
-                <div class="w-layout-hflex flex-block-19"><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="../images/against-20child-20labour.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 991px) 90vw, (max-width: 1439px) 91vw, 1040px" srcset="../images/against-20child-20labour-p-500.png 500w, ../images/against-20child-20labour-p-800.png 800w, ../images/against-20child-20labour.png 1080w" alt="Front of black-tee design" class="image-2" />
+                <div class="w-layout-hflex flex-block-19"><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70121f2c3433f329a958_Against%20Child%20Labour.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 991px) 90vw, 91vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70121f2c3433f329a958_Against%20Child%20Labour-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70121f2c3433f329a958_Against%20Child%20Labour-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70121f2c3433f329a958_Against%20Child%20Labour.png 1080w" alt="Front of black-tee design" class="image-2" />
                     <script type="application/json" class="w-json">
                       {
                         "items": [{
@@ -108,14 +108,14 @@
                           "fileName": "Against Child Labour.png",
                           "fileSize": 298340,
                           "height": 1080,
-                          "url": "../images/against-20child-20labour.png",
+                          "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70121f2c3433f329a958_Against%20Child%20Labour.png",
                           "width": 1080,
                           "type": "image"
                         }],
                         "group": "LB-ProjectD"
                       }
                     </script>
-                  </a><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="../images/world-20environemnt-20day-20post.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 991px) 90vw, (max-width: 1439px) 91vw, 1040px" srcset="../images/world-20environemnt-20day-20post-p-500.png 500w, ../images/world-20environemnt-20day-20post-p-800.png 800w, ../images/world-20environemnt-20day-20post-p-1080.png 1080w, ../images/world-20environemnt-20day-20post-p-1600.png 1600w, ../images/world-20environemnt-20day-20post-p-2000.png 2000w, ../images/world-20environemnt-20day-20post.png 2160w" alt="Front of black-tee design" class="image-2" />
+                  </a><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012a9ec71d519f53833_World%20Environemnt%20day%20post.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 991px) 90vw, 91vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012a9ec71d519f53833_World%20Environemnt%20day%20post-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012a9ec71d519f53833_World%20Environemnt%20day%20post-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012a9ec71d519f53833_World%20Environemnt%20day%20post-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012a9ec71d519f53833_World%20Environemnt%20day%20post-p-1600.png 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012a9ec71d519f53833_World%20Environemnt%20day%20post-p-2000.png 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012a9ec71d519f53833_World%20Environemnt%20day%20post.png 2160w" alt="Front of black-tee design" class="image-2" />
                     <script type="application/json" class="w-json">
                       {
                         "items": [{
@@ -124,7 +124,7 @@
                           "fileName": "World Environemnt day post.png",
                           "fileSize": 220751,
                           "height": 2160,
-                          "url": "../images/world-20environemnt-20day-20post.png",
+                          "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012a9ec71d519f53833_World%20Environemnt%20day%20post.png",
                           "width": 2160,
                           "type": "image"
                         }],
@@ -134,7 +134,7 @@
                   </a></div>
               </div>
               <div class="slide__project-d w-slide">
-                <div class="w-layout-hflex flex-block-19"><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="../images/world-20bicycle-20day-20post.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 991px) 90vw, (max-width: 1439px) 91vw, 1040px" srcset="../images/world-20bicycle-20day-20post-p-500.png 500w, ../images/world-20bicycle-20day-20post-p-800.png 800w, ../images/world-20bicycle-20day-20post.png 1080w" alt="Front of black-tee design" class="image-2" />
+                <div class="w-layout-hflex flex-block-19"><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012954d4a315494666d_World%20Bicycle%20day%20post.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 991px) 90vw, 91vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012954d4a315494666d_World%20Bicycle%20day%20post-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012954d4a315494666d_World%20Bicycle%20day%20post-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012954d4a315494666d_World%20Bicycle%20day%20post.png 1080w" alt="Front of black-tee design" class="image-2" />
                     <script type="application/json" class="w-json">
                       {
                         "items": [{
@@ -143,14 +143,14 @@
                           "fileName": "World Bicycle day post.png",
                           "fileSize": 117311,
                           "height": 1080,
-                          "url": "../images/world-20bicycle-20day-20post.png",
+                          "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c7012954d4a315494666d_World%20Bicycle%20day%20post.png",
                           "width": 1080,
                           "type": "image"
                         }],
                         "group": "LB-ProjectD"
                       }
                     </script>
-                  </a><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="../images/tg-20formation-20day-20post-20updated.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 991px) 90vw, (max-width: 1439px) 91vw, 1040px" srcset="../images/tg-20formation-20day-20post-20updated-p-500.png 500w, ../images/tg-20formation-20day-20post-20updated-p-800.png 800w, ../images/tg-20formation-20day-20post-20updated.png 1080w" alt="Front of black-tee design" class="image-2" />
+                  </a><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70124610614df2357582_TG%20Formation%20day%20post%20updated.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 991px) 90vw, 91vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70124610614df2357582_TG%20Formation%20day%20post%20updated-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70124610614df2357582_TG%20Formation%20day%20post%20updated-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70124610614df2357582_TG%20Formation%20day%20post%20updated.png 1080w" alt="Front of black-tee design" class="image-2" />
                     <script type="application/json" class="w-json">
                       {
                         "items": [{
@@ -159,7 +159,7 @@
                           "fileName": "TG Formation day post updated.png",
                           "fileSize": 252565,
                           "height": 1080,
-                          "url": "../images/tg-20formation-20day-20post-20updated.png",
+                          "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669c70124610614df2357582_TG%20Formation%20day%20post%20updated.png",
                           "width": 1080,
                           "caption": "Front of black-tee design",
                           "type": "image"
@@ -204,7 +204,7 @@
         </div>
       </div>
     </div>
-    <div style="display:block" class="loading-overlay"><img src="../images/sr-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
+    <div style="display:block" class="loading-overlay"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/665a55dcb0b8f0fdfbe5bbc0_SR-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
     <script src="../js/jquery.js" type="text/javascript"  ></script>
     <script src="../js/webflow-script.js" type="text/javascript"></script>
     <script>

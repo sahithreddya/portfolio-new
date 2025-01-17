@@ -1,4 +1,4 @@
-<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 22:19:17 GMT+0000 (Coordinated Universal Time) -->
+<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 21:33:39 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-page="6682d8c10fb15480e6c58942" data-wf-site="65e22fb14b16449dd15ab36a" lang="en" data-wf-locale="en">
   <head>
     <meta charset="utf-8" />
@@ -6,10 +6,10 @@
     <meta content="Improving the Tactility of Touch Interfaces" name="description" />
     <meta content="Improving the Tactility of Touch Interfaces" property="og:title" />
     <meta content="Improving the Tactility of Touch Interfaces" property="og:description" />
-    <meta content="../images/tactile-20image.jpg" property="og:image" />
+    <meta content="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6682e0864d2efc259a034a7d_tactile%20image.jpg" property="og:image" />
     <meta content="Improving the Tactility of Touch Interfaces" property="twitter:title" />
     <meta content="Improving the Tactility of Touch Interfaces" property="twitter:description" />
-    <meta content="../images/tactile-20image.jpg" property="twitter:image" />
+    <meta content="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6682e0864d2efc259a034a7d_tactile%20image.jpg" property="twitter:image" />
     <meta property="og:type" content="website" />
     <meta content="summary_large_image" name="twitter:card" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
@@ -31,8 +31,8 @@
         n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-    <link href="../images/favicon.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="../images/app-icon.png" rel="apple-touch-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660f9d6fdc70be6a9ff48e8_SR-ico.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660fa5d233d644228078ff4_SR-logo%20(256x256).png" rel="apple-touch-icon" />
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-LSK948K905"></script>
     <script type="text/javascript">
       window.dataLayer = window.dataLayer || [];
@@ -52,10 +52,10 @@
   </head>
   <body class="body">
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
-      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="../images/logo-20-2b-20name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
+      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e49802b7666b8d9666796e_Logo%20%2B%20Name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
         <div data-w-id="69118560-d0bc-15fc-bbf8-b8fe5f6535b9" class="navigation-wrap">
           <nav role="navigation" class="myport-nav-items w-nav-menu"><a href="/" class="navigation-item w-nav-link">Home</a><a href="/#work-magnet" class="navigation-item w-nav-link">Work</a><a href="/about" class="navigation-item w-nav-link">About</a><a href="/resume" class="navigation-item w-nav-link">RESUME</a></nav>
-          <div class="menu-button w-nav-button"><img src="../images/white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
+          <div class="menu-button w-nav-button"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4c1e7ad9fdf0f3f7c31bb_white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
         </div>
       </div>
     </div>
@@ -64,7 +64,7 @@
     </div>
     <div id="top-bar" class="top-bar"></div>
     <div class="hero-section">
-      <div class="hero-image"><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="../images/tactile-20image.jpg" loading="eager" sizes="(max-width: 479px) 96vw, (max-width: 991px) 400px, 600px" srcset="../images/tactile-20image-p-500.jpg 500w, ../images/tactile-20image-p-800.jpg 800w, ../images/tactile-20image.jpg 1024w" alt="Homepage HERO section of the redesigned website" class="image-2" />
+      <div><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6682e0864d2efc259a034a7d_tactile%20image.jpg" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 92vw, (max-width: 1089px) 94vw, 1024px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6682e0864d2efc259a034a7d_tactile%20image-p-500.jpg 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6682e0864d2efc259a034a7d_tactile%20image-p-800.jpg 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6682e0864d2efc259a034a7d_tactile%20image.jpg 1024w" alt="Homepage HERO section of the redesigned website" class="image-2" />
           <script type="application/json" class="w-json">
             {
               "items": [{
@@ -73,7 +73,7 @@
                 "fileName": "HERO.png",
                 "fileSize": 2298794,
                 "height": 2658,
-                "url": "../images/hero.png",
+                "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/660c7ca9a140b87647ead5ab_HERO.png",
                 "width": 4320,
                 "caption": "HERO section of the redesigned website",
                 "type": "image"
@@ -104,7 +104,7 @@
         </div>
         <div class="content-flex---pdf">
           <div class="div-block-8">
-            <div class="pdfelement w-embed"><embed src="../images/improving-20the-20tactility-20of-20touch-20interfaces-20-20final-20report.pdf" type="application/pdf" width="100%" height="100%" /></div>
+            <div class="pdfelement w-embed"><embed src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6682dc62f1cc5c7a594bd84b_Improving%20the%20Tactility%20of%20Touch%20Interfaces%20-%20Final%20Report.pdf" type="application/pdf" width="100%" height="100%" /></div>
           </div>
         </div>
       </div>
@@ -132,7 +132,7 @@
         </div>
       </div>
     </div>
-    <div style="display:block" class="loading-overlay"><img src="../images/sr-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
+    <div style="display:block" class="loading-overlay"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/665a55dcb0b8f0fdfbe5bbc0_SR-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
     <script src="../js/jquery.js" type="text/javascript"  ></script>
     <script src="../js/webflow-script.js" type="text/javascript"></script>
     <script>

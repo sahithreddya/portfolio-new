@@ -1,4 +1,4 @@
-<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 22:19:17 GMT+0000 (Coordinated Universal Time) -->
+<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 21:33:39 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-page="65ee4ac39405abd5277b7295" data-wf-site="65e22fb14b16449dd15ab36a" lang="en" data-wf-locale="en">
   <head>
     <meta charset="utf-8" />
@@ -24,8 +24,8 @@
         n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-    <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="images/app-icon.png" rel="apple-touch-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660f9d6fdc70be6a9ff48e8_SR-ico.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660fa5d233d644228078ff4_SR-logo%20(256x256).png" rel="apple-touch-icon" />
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-LSK948K905"></script>
     <script type="text/javascript">
       window.dataLayer = window.dataLayer || [];
@@ -45,10 +45,10 @@
   </head>
   <body class="body">
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
-      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="images/logo-20-2b-20name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
+      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e49802b7666b8d9666796e_Logo%20%2B%20Name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
         <div data-w-id="69118560-d0bc-15fc-bbf8-b8fe5f6535b9" class="navigation-wrap">
           <nav role="navigation" class="myport-nav-items w-nav-menu"><a href="/" class="navigation-item w-nav-link">Home</a><a href="/#work-magnet" class="navigation-item w-nav-link">Work</a><a href="/about" class="navigation-item w-nav-link">About</a><a href="/resume" aria-current="page" class="navigation-item w-nav-link w--current">RESUME</a></nav>
-          <div class="menu-button w-nav-button"><img src="images/white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
+          <div class="menu-button w-nav-button"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4c1e7ad9fdf0f3f7c31bb_white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
         </div>
       </div>
     </div>
@@ -59,7 +59,7 @@
       <div class="div-block-7">
         <div data-delay="4000" data-animation="slide" class="slider w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="true" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
           <div class="w-slider-mask">
-            <div class="persona-slide w-slide"><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="images/homepage.png" loading="eager" sizes="100vw" srcset="images/homepage-p-500.png 500w, images/homepage-p-800.png 800w, images/homepage-p-1080.png 1080w, images/homepage.png 1440w" alt="Homepage background" class="image-2" />
+            <div class="persona-slide w-slide"><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fbb726d93dd0390456_Homepage.png" loading="eager" sizes="100vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fbb726d93dd0390456_Homepage-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fbb726d93dd0390456_Homepage-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fbb726d93dd0390456_Homepage-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fbb726d93dd0390456_Homepage.png 1440w" alt="Homepage background" class="image-2" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -68,7 +68,7 @@
                       "fileName": "Homepage.png",
                       "fileSize": 236681,
                       "height": 1024,
-                      "url": "images/homepage.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fbb726d93dd0390456_Homepage.png",
                       "width": 1440,
                       "caption": "Homepage",
                       "type": "image"
@@ -77,7 +77,7 @@
                   }
                 </script>
               </a></div>
-            <div class="w-slide"><a href="#" id="lightbox-2" class="lightbox-link w-inline-block w-lightbox"><img src="images/3-5-assignment-205-ashok-graded.png" loading="lazy" sizes="100vw" srcset="images/3-5-assignment-205-ashok-graded-p-500.png 500w, images/3-5-assignment-205-ashok-graded-p-800.png 800w, images/3-5-assignment-205-ashok-graded-p-1080.png 1080w, images/3-5-assignment-205-ashok-graded.png 1440w" alt="Blackboard Grading Page" class="image-2" />
+            <div class="w-slide"><a href="#" id="lightbox-2" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded.png" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded.png 1440w" alt="Blackboard Grading Page" class="image-2" />
                 <script type="application/json" class="w-json">
                   {
                     "items": [{
@@ -86,7 +86,7 @@
                       "fileName": "3-5-Assignment 5-Ashok-Graded.png",
                       "fileSize": 279432,
                       "height": 1024,
-                      "url": "images/3-5-assignment-205-ashok-graded.png",
+                      "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e3c0fc837eb115bb131737_3-5-Assignment%205-Ashok-Graded.png",
                       "width": 1440,
                       "type": "image"
                     }],
@@ -105,7 +105,7 @@
         </div>
       </div>
       <div class="div-block-8">
-        <div class="pdfelement w-embed"><embed src="images/sahith-20reddy-20areddy-27s-20resume.pdf" type="application/pdf" width="100%" height="100%" title="Sahith Reddy's Resume" /></div>
+        <div class="pdfelement w-embed"><embed src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/678ac251c203bda2486100bb_Sahith%20Reddy%20Areddy%27s%20Resume.pdf" type="application/pdf" width="100%" height="100%" title="Sahith Reddy's Resume" /></div>
       </div>
     </div>
     <div class="footer-wrap">
@@ -131,7 +131,7 @@
         </div>
       </div>
     </div>
-    <div style="display:block" class="loading-overlay"><img src="images/sr-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div><a data-w-id="264e7492-6383-c21d-65ff-6c061ced5eba" style="-webkit-transform:translate3d(25vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(25vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(25vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(25vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" href="images/sahith-20reddy-20areddy-20-20resume.pdf" target="_blank" class="btn__open-new-tab w-inline-block"></a>
+    <div style="display:block" class="loading-overlay"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/665a55dcb0b8f0fdfbe5bbc0_SR-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div><a data-w-id="264e7492-6383-c21d-65ff-6c061ced5eba" style="-webkit-transform:translate3d(25vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(25vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(25vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(25vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660d50e7882c5578f52e6fe_Sahith%20Reddy%20Areddy%20-%20Resume.pdf" target="_blank" class="btn__open-new-tab w-inline-block"></a>
     <script src="js/jquery.js" type="text/javascript"  ></script>
     <script src="js/webflow-script.js" type="text/javascript"></script>
     <script>

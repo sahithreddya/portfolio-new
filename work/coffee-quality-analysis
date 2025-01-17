@@ -1,12 +1,12 @@
-<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 22:19:17 GMT+0000 (Coordinated Universal Time) -->
+<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 21:33:39 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-page="669ed3dcd5c740eff985a986" data-wf-site="65e22fb14b16449dd15ab36a" lang="en" data-wf-locale="en">
   <head>
     <meta charset="utf-8" />
     <title>Coffee Quality Analysis</title>
     <meta content="Coffee Quality Analysis" property="og:title" />
-    <meta content="../images/radarcharts.png" property="og:image" />
+    <meta content="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669ee29e357994e55b4e5e2c_RadarCharts.png" property="og:image" />
     <meta content="Coffee Quality Analysis" property="twitter:title" />
-    <meta content="../images/radarcharts.png" property="twitter:image" />
+    <meta content="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669ee29e357994e55b4e5e2c_RadarCharts.png" property="twitter:image" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <link href="../css/webflow-style.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
@@ -26,8 +26,8 @@
         n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-    <link href="../images/favicon.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="../images/app-icon.png" rel="apple-touch-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660f9d6fdc70be6a9ff48e8_SR-ico.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660fa5d233d644228078ff4_SR-logo%20(256x256).png" rel="apple-touch-icon" />
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-LSK948K905"></script>
     <script type="text/javascript">
       window.dataLayer = window.dataLayer || [];
@@ -47,10 +47,10 @@
   </head>
   <body class="body">
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
-      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="../images/logo-20-2b-20name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
+      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e49802b7666b8d9666796e_Logo%20%2B%20Name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
         <div data-w-id="69118560-d0bc-15fc-bbf8-b8fe5f6535b9" class="navigation-wrap">
           <nav role="navigation" class="myport-nav-items w-nav-menu"><a href="/" class="navigation-item w-nav-link">Home</a><a href="/#work-magnet" class="navigation-item w-nav-link">Work</a><a href="/about" class="navigation-item w-nav-link">About</a><a href="/resume" class="navigation-item w-nav-link">RESUME</a></nav>
-          <div class="menu-button w-nav-button"><img src="../images/white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
+          <div class="menu-button w-nav-button"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4c1e7ad9fdf0f3f7c31bb_white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
         </div>
       </div>
     </div>
@@ -60,7 +60,7 @@
     <div id="top-bar" class="top-bar"></div>
     <div class="hero-section">
       <div id="Title" class="project-title w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-f985a986">
-        <div class="hero-image"><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="../images/radarcharts.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 92vw, (max-width: 991px) 94vw, 96vw" srcset="../images/radarcharts-p-500.png 500w, ../images/radarcharts-p-800.png 800w, ../images/radarcharts.png 1027w" alt="The Beagle logo" class="image-2" />
+        <div><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669ee29e357994e55b4e5e2c_RadarCharts.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 92vw, (max-width: 1092px) 94vw, 1027px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669ee29e357994e55b4e5e2c_RadarCharts-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669ee29e357994e55b4e5e2c_RadarCharts-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/669ee29e357994e55b4e5e2c_RadarCharts.png 1027w" alt="The Beagle logo" class="image-2" />
             <script type="application/json" class="w-json">
               {
                 "items": [{
@@ -69,7 +69,7 @@
                   "fileName": "Beagle Picture.png",
                   "fileSize": 49659,
                   "height": 1200,
-                  "url": "../images/beagle-20picture.png",
+                  "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6655e6e7f0480f6d65c3ed71_Beagle%20Picture.png",
                   "width": 1200,
                   "type": "image"
                 }],
@@ -130,7 +130,7 @@
         </div>
       </div>
     </div>
-    <div style="display:block" class="loading-overlay"><img src="../images/sr-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
+    <div style="display:block" class="loading-overlay"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/665a55dcb0b8f0fdfbe5bbc0_SR-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
     <script src="../js/jquery.js" type="text/javascript"  ></script>
     <script src="../js/webflow-script.js" type="text/javascript"></script>
     <script>

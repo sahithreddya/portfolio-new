@@ -1,4 +1,4 @@
-<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 22:19:17 GMT+0000 (Coordinated Universal Time) -->
+<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 21:33:39 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-page="65e22fb14b16449dd15ab3a7" data-wf-site="65e22fb14b16449dd15ab36a" lang="en" data-wf-locale="en">
   <head>
     <meta charset="utf-8" />
@@ -24,8 +24,8 @@
         n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-    <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="images/app-icon.png" rel="apple-touch-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660f9d6fdc70be6a9ff48e8_SR-ico.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660fa5d233d644228078ff4_SR-logo%20(256x256).png" rel="apple-touch-icon" />
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-LSK948K905"></script>
     <script type="text/javascript">
       window.dataLayer = window.dataLayer || [];
@@ -110,10 +110,10 @@
   </head>
   <body class="body">
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
-      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="images/logo-20-2b-20name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
+      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e49802b7666b8d9666796e_Logo%20%2B%20Name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
         <div data-w-id="69118560-d0bc-15fc-bbf8-b8fe5f6535b9" class="navigation-wrap">
           <nav role="navigation" class="myport-nav-items w-nav-menu"><a href="/" class="navigation-item w-nav-link">Home</a><a href="/#work-magnet" class="navigation-item w-nav-link">Work</a><a href="/about" aria-current="page" class="navigation-item w-nav-link w--current">About</a><a href="/resume" class="navigation-item w-nav-link">RESUME</a></nav>
-          <div class="menu-button w-nav-button"><img src="images/white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
+          <div class="menu-button w-nav-button"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4c1e7ad9fdf0f3f7c31bb_white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
         </div>
       </div>
     </div>
@@ -123,11 +123,11 @@
       </div>
       <div class="divider_about"></div>
       <div class="div-block-22">
-        <div class="about-para-heading">Hello! <br />I&#x27;m Sahith Reddy. <br /></div><img src="images/sahith.jpg" loading="lazy" width="Auto" sizes="100vw" alt="Sahith Reddy&#x27;s picture" srcset="images/sahith-p-500.jpg 500w, images/sahith-p-800.jpg 800w, images/sahith-p-1080.jpg 1080w, images/sahith-p-1600.jpg 1600w, images/sahith-p-2000.jpg 2000w, images/sahith.jpg 2520w" class="image-18" />
+        <div class="about-para-heading">Hello! <br />I&#x27;m Sahith Reddy. <br /></div><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith.jpg" loading="lazy" width="Auto" sizes="100vw" alt="Sahith Reddy&#x27;s picture" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith-p-500.jpg 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith-p-800.jpg 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith-p-1080.jpg 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith-p-1600.jpg 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith-p-2000.jpg 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith.jpg 2520w" class="image-18" />
       </div>
       <div class="div-block-23">
         <div class="w-layout-hflex flex-block-15">
-          <div class="about_header"><img src="images/sahith.jpg" loading="lazy" width="Auto" sizes="(max-width: 479px) 100vw, (max-width: 767px) 44vw, 32vw" alt="Sahith Reddy&#x27;s picture" srcset="images/sahith-p-500.jpg 500w, images/sahith-p-800.jpg 800w, images/sahith-p-1080.jpg 1080w, images/sahith-p-1600.jpg 1600w, images/sahith-p-2000.jpg 2000w, images/sahith.jpg 2520w" class="img_about" /></div>
+          <div class="about_header"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith.jpg" loading="lazy" width="Auto" sizes="(max-width: 479px) 100vw, (max-width: 767px) 44vw, 32vw" alt="Sahith Reddy&#x27;s picture" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith-p-500.jpg 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith-p-800.jpg 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith-p-1080.jpg 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith-p-1600.jpg 1600w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith-p-2000.jpg 2000w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4981a34508aaa12baad00_sahith.jpg 2520w" class="img_about" /></div>
           <div class="div-block-31">
             <div data-delay="4000" data-animation="outin" class="slider_about w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
               <div class="w-slider-mask">
@@ -187,7 +187,7 @@
                           <p class="txt_resume_alt">CarrotBox Technologies</p>
                         </div>
                       </div>
-                    </div><a href="/resume" target="_blank" class="btn_view_resume w-inline-block"><img src="images/open-new-tab.svg" loading="lazy" alt="icon for open in new tab" />
+                    </div><a href="/resume" target="_blank" class="btn_view_resume w-inline-block"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660d624006bf63f5b5af460_open-new-tab.svg" loading="lazy" alt="icon for open in new tab" />
                       <p class="lbl_view_resume">View Complete Resume</p>
                     </a>
                   </div>
@@ -266,7 +266,7 @@
                         <p class="txt_resume_alt">Remote</p>
                       </div>
                     </div>
-                  </div><a href="/resume" target="_blank" class="btn_view_resume w-inline-block"><img src="images/open-new-tab.svg" loading="lazy" alt="icon for open in new tab" />
+                  </div><a href="/resume" target="_blank" class="btn_view_resume w-inline-block"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660d624006bf63f5b5af460_open-new-tab.svg" loading="lazy" alt="icon for open in new tab" />
                     <p class="lbl_view_resume">View Complete Resume</p>
                   </a>
                 </div>
@@ -297,7 +297,7 @@
       </div>
     </div>
     <div class="about-photo-section">
-      <div class="w-layout-grid social-media-grid"><img src="images/placeholder-203.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1e9d-d15ab3a7" /><img src="images/placeholder-203.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1e9e-d15ab3a7" /><img src="images/placeholder-201.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1e9f-d15ab3a7" /><img src="images/placeholder-201.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1ea0-d15ab3a7" /><img src="images/placeholder-203.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1ea1-d15ab3a7" /><img src="images/placeholder-201.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1ea2-d15ab3a7" /><img src="images/placeholder-201.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1ea3-d15ab3a7" /><img src="images/placeholder-203.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1ea4-d15ab3a7" /></div>
+      <div class="w-layout-grid social-media-grid"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e22fb14b16449dd15ab3bf_placeholder%203.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1e9d-d15ab3a7" /><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e22fb14b16449dd15ab3bf_placeholder%203.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1e9e-d15ab3a7" /><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e22fb14b16449dd15ab3be_placeholder%201.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1e9f-d15ab3a7" /><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e22fb14b16449dd15ab3be_placeholder%201.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1ea0-d15ab3a7" /><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e22fb14b16449dd15ab3bf_placeholder%203.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1ea1-d15ab3a7" /><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e22fb14b16449dd15ab3be_placeholder%201.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1ea2-d15ab3a7" /><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e22fb14b16449dd15ab3be_placeholder%201.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1ea3-d15ab3a7" /><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e22fb14b16449dd15ab3bf_placeholder%203.svg" alt="" id="w-node-_76ba38e4-2715-c796-e82b-8239d41d1ea4-d15ab3a7" /></div>
     </div>
     <div class="section cc-contact">
       <div class="intro-title-grid">
@@ -349,7 +349,7 @@
         </div>
       </div>
     </div>
-    <div style="display:block" class="loading-overlay"><img src="images/sr-logo.svg" loading="lazy" alt="SR website logo" class="image-21" /></div>
+    <div style="display:block" class="loading-overlay"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/665a55dcb0b8f0fdfbe5bbc0_SR-logo.svg" loading="lazy" alt="SR website logo" class="image-21" /></div>
     <script src="js/jquery.js" type="text/javascript"  ></script>
     <script src="js/webflow-script.js" type="text/javascript"></script>
     <script>

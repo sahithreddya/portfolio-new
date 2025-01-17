@@ -1,4 +1,4 @@
-<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 22:19:17 GMT+0000 (Coordinated Universal Time) -->
+<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 21:33:39 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-page="66622486ed703f23174515f3" data-wf-site="65e22fb14b16449dd15ab36a" lang="en" data-wf-locale="en">
   <head>
     <meta charset="utf-8" />
@@ -24,8 +24,8 @@
         n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-    <link href="../images/favicon.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="../images/app-icon.png" rel="apple-touch-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660f9d6fdc70be6a9ff48e8_SR-ico.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/6660fa5d233d644228078ff4_SR-logo%20(256x256).png" rel="apple-touch-icon" />
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-LSK948K905"></script>
     <script type="text/javascript">
       window.dataLayer = window.dataLayer || [];
@@ -45,10 +45,10 @@
   </head>
   <body class="body">
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
-      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="../images/logo-20-2b-20name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
+      <div class="navigation-items"><a href="/" class="logo-link w-nav-brand"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e49802b7666b8d9666796e_Logo%20%2B%20Name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
         <div data-w-id="69118560-d0bc-15fc-bbf8-b8fe5f6535b9" class="navigation-wrap">
           <nav role="navigation" class="myport-nav-items w-nav-menu"><a href="/" class="navigation-item w-nav-link">Home</a><a href="/#work-magnet" class="navigation-item w-nav-link">Work</a><a href="/about" class="navigation-item w-nav-link">About</a><a href="/resume" class="navigation-item w-nav-link">RESUME</a></nav>
-          <div class="menu-button w-nav-button"><img src="../images/white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
+          <div class="menu-button w-nav-button"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/65e4c1e7ad9fdf0f3f7c31bb_white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
         </div>
       </div>
     </div>
@@ -58,7 +58,7 @@
     <div id="top-bar" class="top-bar"></div>
     <div class="hero-section">
       <div id="Title" class="project-title w-node-_0befc76b-828c-2822-f9fa-f2c6de040bbf-174515f3">
-        <div class="hero-image"><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="../images/shirts-20mockup.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 88vw, (max-width: 991px) 615.375px, 923.0625px" srcset="../images/shirts-20mockup-p-500.png 500w, ../images/shirts-20mockup-p-800.png 800w, ../images/shirts-20mockup-p-1080.png 1080w, ../images/shirts-20mockup.png 1200w" alt="Mockup of the design printed on a Black Tee and a White tee" class="image-2" />
+        <div><a href="#" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228eff498ce80215aa628_Shirts%20Mockup.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 92vw, (max-width: 991px) 94vw, (max-width: 1263px) 95vw, 1200px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228eff498ce80215aa628_Shirts%20Mockup-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228eff498ce80215aa628_Shirts%20Mockup-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228eff498ce80215aa628_Shirts%20Mockup-p-1080.png 1080w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228eff498ce80215aa628_Shirts%20Mockup.png 1200w" alt="Mockup of the design printed on a Black Tee and a White tee" class="image-2" />
             <script type="application/json" class="w-json">
               {
                 "items": [{
@@ -67,7 +67,7 @@
                   "fileName": "Shirts Mockup.png",
                   "fileSize": 770842,
                   "height": 780,
-                  "url": "../images/shirts-20mockup.png",
+                  "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228eff498ce80215aa628_Shirts%20Mockup.png",
                   "width": 1200,
                   "caption": "Mockup of the design printed on a Black Tee and a White tee",
                   "type": "image"
@@ -99,7 +99,7 @@
           <div data-delay="3000" data-animation="slide" class="slider__engg-week w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="true" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
             <div class="w-slider-mask">
               <div class="slide__project-d w-slide">
-                <div class="w-layout-hflex"><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="../images/front.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 89vw, 848.453125px" srcset="../images/front-p-500.png 500w, ../images/front-p-800.png 800w, ../images/front.png 893w" alt="Front of black-tee design" class="image-2" />
+                <div class="w-layout-hflex"><a href="#" id="lightbox-1" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889adb505d21df9f2a0_Front.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 89vw, 848.453125px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889adb505d21df9f2a0_Front-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889adb505d21df9f2a0_Front-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889adb505d21df9f2a0_Front.png 893w" alt="Front of black-tee design" class="image-2" />
                     <script type="application/json" class="w-json">
                       {
                         "items": [{
@@ -108,7 +108,7 @@
                           "fileName": "Front.png",
                           "fileSize": 41710,
                           "height": 1263,
-                          "url": "../images/front.png",
+                          "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889adb505d21df9f2a0_Front.png",
                           "width": 893,
                           "caption": "Front of black-tee design",
                           "type": "image"
@@ -116,7 +116,7 @@
                         "group": "LB-Engg-Week"
                       }
                     </script>
-                  </a><a href="#" id="lightbox-2" class="lightbox-link w-inline-block w-lightbox"><img src="../images/back.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 89vw, 848.453125px" srcset="../images/back-p-500.png 500w, ../images/back-p-800.png 800w, ../images/back.png 893w" alt="Back of black-tee design" class="image-2" />
+                  </a><a href="#" id="lightbox-2" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889f0cdb486e3202950_Back.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 89vw, 848.453125px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889f0cdb486e3202950_Back-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889f0cdb486e3202950_Back-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889f0cdb486e3202950_Back.png 893w" alt="Back of black-tee design" class="image-2" />
                     <script type="application/json" class="w-json">
                       {
                         "items": [{
@@ -125,7 +125,7 @@
                           "fileName": "Back.png",
                           "fileSize": 11989,
                           "height": 1263,
-                          "url": "../images/back.png",
+                          "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889f0cdb486e3202950_Back.png",
                           "width": 893,
                           "caption": "Back of black-tee design",
                           "type": "image"
@@ -136,7 +136,7 @@
                   </a></div>
               </div>
               <div class="slide__project-d w-slide">
-                <div class="w-layout-hflex"><a href="#" id="lightbox-3" class="lightbox-link w-inline-block w-lightbox"><img src="../images/front-1.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 89vw, 848.453125px" srcset="../images/front-1-p-500.png 500w, ../images/front-1-p-800.png 800w, ../images/front-1.png 893w" alt="Front of white-tee design" class="image-2" />
+                <div class="w-layout-hflex"><a href="#" id="lightbox-3" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889160a017df381823d_Front-1.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 89vw, 848.453125px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889160a017df381823d_Front-1-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889160a017df381823d_Front-1-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889160a017df381823d_Front-1.png 893w" alt="Front of white-tee design" class="image-2" />
                     <script type="application/json" class="w-json">
                       {
                         "items": [{
@@ -145,7 +145,7 @@
                           "fileName": "Front-1.png",
                           "fileSize": 40218,
                           "height": 1263,
-                          "url": "../images/front-1.png",
+                          "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/66622889160a017df381823d_Front-1.png",
                           "width": 893,
                           "caption": "Front of white-tee design",
                           "type": "image"
@@ -153,7 +153,7 @@
                         "group": "LB-Engg-Week"
                       }
                     </script>
-                  </a><a href="#" id="lightbox-4" class="lightbox-link w-inline-block w-lightbox"><img src="../images/back-1.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 89vw, 848.453125px" srcset="../images/back-1-p-500.png 500w, ../images/back-1-p-800.png 800w, ../images/back-1.png 893w" alt="Back of white-tee design" class="image-2" />
+                  </a><a href="#" id="lightbox-4" class="lightbox-link w-inline-block w-lightbox"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228898b139dbc69a98d82_Back-1.png" loading="eager" sizes="(max-width: 479px) 98vw, (max-width: 767px) 90vw, (max-width: 991px) 89vw, 848.453125px" srcset="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228898b139dbc69a98d82_Back-1-p-500.png 500w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228898b139dbc69a98d82_Back-1-p-800.png 800w, https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228898b139dbc69a98d82_Back-1.png 893w" alt="Back of white-tee design" class="image-2" />
                     <script type="application/json" class="w-json">
                       {
                         "items": [{
@@ -162,7 +162,7 @@
                           "fileName": "Back-1.png",
                           "fileSize": 12075,
                           "height": 1263,
-                          "url": "../images/back-1.png",
+                          "url": "https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/666228898b139dbc69a98d82_Back-1.png",
                           "width": 893,
                           "caption": "Back of white-tee design",
                           "type": "image"
@@ -207,7 +207,7 @@
         </div>
       </div>
     </div>
-    <div style="display:block" class="loading-overlay"><img src="../images/sr-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
+    <div style="display:block" class="loading-overlay"><img src="https://cdn.prod.website-files.com/65e22fb14b16449dd15ab36a/665a55dcb0b8f0fdfbe5bbc0_SR-logo.svg" loading="lazy" alt="Sahith Reddy SR website Logo" class="image-21" /></div>
     <script src="../js/jquery.js" type="text/javascript"  ></script>
     <script src="../js/webflow-script.js" type="text/javascript"></script>
     <script>
