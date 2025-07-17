@@ -1,46 +1,78 @@
-<!DOCTYPE html><!-- Last Published: Fri Jan 17 2025 22:19:17 GMT+0000 (Coordinated Universal Time) -->
-<html data-wf-page="65e22fb14b16449dd15ab3a3" data-wf-site="65e22fb14b16449dd15ab36a" lang="en" data-wf-locale="en">
+<!DOCTYPE html>
+<!-- Last Published: Fri Jan 17 2025 22:19:17 GMT+0000 (Coordinated Universal Time) -->
+<html
+  data-wf-page="65e22fb14b16449dd15ab3a3"
+  data-wf-site="65e22fb14b16449dd15ab36a"
+  lang="en"
+  data-wf-locale="en"
+>
   <head>
     <meta charset="utf-8" />
     <title>Sahith Reddy&#x27;s Portfolio</title>
-    <meta content="Hello! I&#x27;m Sahith. I&#x27;m a UI Developer and UX Designer, creating user-centric solutions that deliver memorable experiences." name="description" />
+    <meta
+      content="Hello! I&#x27;m Sahith. I&#x27;m a UI Developer and UX Designer, creating user-centric solutions that deliver memorable experiences."
+      name="description"
+    />
     <meta content="Sahith Reddy&#x27;s Portfolio" property="og:title" />
-    <meta content="Hello! I&#x27;m Sahith. I&#x27;m a UI Developer and UX Designer, creating user-centric solutions that deliver memorable experiences." property="og:description" />
+    <meta
+      content="Hello! I&#x27;m Sahith. I&#x27;m a UI Developer and UX Designer, creating user-centric solutions that deliver memorable experiences."
+      property="og:description"
+    />
     <meta content="images/site-20thumbnail.png" property="og:image" />
     <meta content="Sahith Reddy&#x27;s Portfolio" property="twitter:title" />
-    <meta content="Hello! I&#x27;m Sahith. I&#x27;m a UI Developer and UX Designer, creating user-centric solutions that deliver memorable experiences." property="twitter:description" />
+    <meta
+      content="Hello! I&#x27;m Sahith. I&#x27;m a UI Developer and UX Designer, creating user-centric solutions that deliver memorable experiences."
+      property="twitter:description"
+    />
     <meta content="images/site-20thumbnail.png" property="twitter:image" />
     <meta property="og:type" content="website" />
     <meta content="summary_large_image" name="twitter:card" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <link href="css/webflow-style.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
-    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
-    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+    <link
+      href="https://fonts.gstatic.com"
+      rel="preconnect"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"
+      type="text/javascript"
+    ></script>
     <script type="text/javascript">
       WebFont.load({
         google: {
-          families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"]
-        }
+          families: [
+            "Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          ],
+        },
       });
     </script>
     <script type="text/javascript">
-      ! function(o, c) {
+      !(function (o, c) {
         var n = c.documentElement,
           t = " w-mod-";
-        n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
-      }(window, document);
+        (n.className += t + "js"),
+          ("ontouchstart" in o ||
+            (o.DocumentTouch && c instanceof DocumentTouch)) &&
+            (n.className += t + "touch");
+      })(window, document);
     </script>
     <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon" />
     <link href="images/app-icon.png" rel="apple-touch-icon" />
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CKE14W4B6R"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-CKE14W4B6R"
+    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-      gtag('config', 'G-CKE14W4B6R');
+      gtag("config", "G-CKE14W4B6R");
     </script>
     <style>
       .body {
@@ -55,14 +87,14 @@
         cursor: pointer;
       }
 
-      .work-item>.work-depthbar {
+      .work-item > .work-depthbar {
         transition: all 100ms linear;
         bottom: 0;
         border-left: 0px solid transparent;
         border-right: 0px solid transparent;
       }
 
-      .work-item:hover>.work-depthbar {
+      .work-item:hover > .work-depthbar {
         border-top-color: #fff;
         transition: all 100ms linear;
         bottom: -5px;
@@ -72,7 +104,6 @@
       }
 
       .work-depthbar {
-
         box-sizing: border-box;
         border-top: 1px solid;
         border-top-color: white;
@@ -89,14 +120,14 @@
         cursor: pointer;
       }
 
-      .feature-work-item>.work-depthbar {
+      .feature-work-item > .work-depthbar {
         transition: all 100ms linear;
         bottom: 0;
         border-left: 0px solid transparent;
         border-right: 0px solid transparent;
       }
 
-      .feature-work-item:hover>.work-depthbar {
+      .feature-work-item:hover > .work-depthbar {
         border-top-color: #fff;
         transition: all 100ms linear;
         bottom: -5px;
@@ -107,61 +138,171 @@
     </style>
   </head>
   <body class="body">
-    <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
-      <div class="navigation-items"><a href="/" aria-current="page" class="logo-link w-nav-brand w--current"><img src="images/logo-20-2b-20name.png" width="150" height="Auto" alt="" class="logo-image" /></a>
-        <div data-w-id="69118560-d0bc-15fc-bbf8-b8fe5f6535b9" class="navigation-wrap">
-          <nav role="navigation" class="myport-nav-items w-nav-menu"><a href="/" aria-current="page" class="navigation-item w-nav-link w--current">Home</a><a href="/#work-magnet" class="navigation-item w-nav-link">Work</a><a href="/about" class="navigation-item w-nav-link">About</a><a href="/resume" class="navigation-item w-nav-link">RESUME</a></nav>
-          <div class="menu-button w-nav-button"><img src="images/white-menu.png" width="22" height="Auto" alt="" class="menu-icon" /></div>
+    <div
+      data-collapse="medium"
+      data-animation="default"
+      data-duration="400"
+      data-easing="ease"
+      data-easing2="ease"
+      role="banner"
+      class="navigation w-nav"
+    >
+      <div class="navigation-items">
+        <a href="/" aria-current="page" class="logo-link w-nav-brand w--current"
+          ><img
+            src="images/logo-20-2b-20name.png"
+            width="150"
+            height="Auto"
+            alt=""
+            class="logo-image"
+        /></a>
+        <div
+          data-w-id="69118560-d0bc-15fc-bbf8-b8fe5f6535b9"
+          class="navigation-wrap"
+        >
+          <nav role="navigation" class="myport-nav-items w-nav-menu">
+            <a
+              href="/"
+              aria-current="page"
+              class="navigation-item w-nav-link w--current"
+              >Home</a
+            ><a href="/#work-magnet" class="navigation-item w-nav-link">Work</a
+            ><a href="/about" class="navigation-item w-nav-link">About</a
+            ><a href="/resume" class="navigation-item w-nav-link">RESUME</a>
+          </nav>
+          <div class="menu-button w-nav-button">
+            <img
+              src="images/white-menu.png"
+              width="22"
+              height="Auto"
+              alt=""
+              class="menu-icon"
+            />
+          </div>
         </div>
       </div>
     </div>
     <div class="section _100vh home">
-      <div id="w-node-_26a766fe-b2cb-60bd-2fca-2da521b463f5-d15ab3a3" class="container">
+      <div
+        id="w-node-_26a766fe-b2cb-60bd-2fca-2da521b463f5-d15ab3a3"
+        class="container"
+      >
         <div class="intro-title-grid">
-          <div id="w-node-_004f1481-401c-b99f-05b7-23c16d3e1dcc-d15ab3a3" class="div-block-40"><img src="images/portfolio-face.png" loading="lazy" id="w-node-af6016fa-5d27-a076-2a2f-f80c4c6e793e-d15ab3a3" sizes="(max-width: 479px) 100vw, (max-width: 991px) 100px, 100vw" alt="Sahith&#x27;s headshot" srcset="images/portfolio-face-p-500.png 500w, images/portfolio-face.png 501w" class="image-23" /></div>
-          <div id="w-node-_34f3d0d4-0947-ab41-71bc-490db9f35e93-d15ab3a3" class="intro-wrap">
+          <div
+            id="w-node-_004f1481-401c-b99f-05b7-23c16d3e1dcc-d15ab3a3"
+            class="div-block-40"
+          >
+            <img
+              src="images/portfolio-face.png"
+              loading="lazy"
+              id="w-node-af6016fa-5d27-a076-2a2f-f80c4c6e793e-d15ab3a3"
+              sizes="(max-width: 479px) 100vw, (max-width: 991px) 100px, 100vw"
+              alt="Sahith&#x27;s headshot"
+              srcset="
+                images/portfolio-face-p-500.png 500w,
+                images/portfolio-face.png       501w
+              "
+              class="image-23"
+            />
+          </div>
+          <div
+            id="w-node-_34f3d0d4-0947-ab41-71bc-490db9f35e93-d15ab3a3"
+            class="intro-wrap"
+          >
             <div class="w-layout-vflex flex-block-22">
               <h1 class="heading-jumbo hello">Hello, I&#x27;m Sahith.<br /></h1>
               <h1 class="heading-jumbo name">Hello,<br />I&#x27;m Sahith.</h1>
             </div>
             <div class="w-layout-vflex flex-block-13">
-              <div class="name-text">I&#x27;m a UX Engineer passionate about building effective tools that empower people and businesses.</div>
+              <div class="name-text">
+                I&#x27;m a UX Engineer passionate about building effective tools
+                that empower people and businesses.
+              </div>
             </div>
           </div>
-          <div id="w-node-cf75e661-3385-b1bd-6a20-fb533150d947-d15ab3a3" class="div-block-38">
-            <div class="div-block-4"><a href="https://github.com/sahithreddya" target="_blank" class="social-link w-inline-block">
+          <div
+            id="w-node-cf75e661-3385-b1bd-6a20-fb533150d947-d15ab3a3"
+            class="div-block-38"
+          >
+            <div class="div-block-4">
+              <a
+                href="https://github.com/sahithreddya"
+                target="_blank"
+                class="social-link w-inline-block"
+              >
                 <div class="social">github</div>
               </a>
-              <div class="social social-divider">/</div><a href="https://www.linkedin.com/in/sahithreddya/" target="_blank" class="social-link w-inline-block">
+              <div class="social social-divider">/</div>
+              <a
+                href="https://www.linkedin.com/in/sahithreddya/"
+                target="_blank"
+                class="social-link w-inline-block"
+              >
                 <div class="social">LinKEDIN</div>
               </a>
-              <div class="social social-divider">/</div><a href="https://behance.com/sahithreddya" target="_blank" class="social-link w-inline-block">
+              <div class="social social-divider">/</div>
+              <a
+                href="https://behance.com/sahithreddya"
+                target="_blank"
+                class="social-link w-inline-block"
+              >
                 <div class="social">BEHANCE</div>
               </a>
             </div>
-          </div><a id="w-node-_2ff60bcc-ba76-a7c9-bf43-8992dd721bcf-d15ab3a3" href="#work-magnet" class="intro-title-nav w-inline-block">
+          </div>
+          <a
+            id="w-node-_2ff60bcc-ba76-a7c9-bf43-8992dd721bcf-d15ab3a3"
+            href="#work-magnet"
+            class="intro-title-nav w-inline-block"
+          >
             <div class="intro-serial">01</div>
-            <h1 class="heading-jumbo intro-title">Work</h1>
-          </a><a id="w-node-f7e7f9f7-8988-47f7-21d0-467cc317b91c-d15ab3a3" href="/about" class="intro-title-nav w-inline-block">
+            <h1 class="heading-jumbo intro-title">Work</h1> </a
+          ><a
+            id="w-node-f7e7f9f7-8988-47f7-21d0-467cc317b91c-d15ab3a3"
+            href="/about"
+            class="intro-title-nav w-inline-block"
+          >
             <div class="intro-serial">02</div>
-            <h1 class="heading-jumbo intro-title">About</h1>
-          </a><a id="w-node-_3282cc0d-536f-2035-edc9-50d1eb0688ed-d15ab3a3" href="/resume" class="intro-title-nav w-inline-block">
+            <h1 class="heading-jumbo intro-title">About</h1> </a
+          ><a
+            id="w-node-_3282cc0d-536f-2035-edc9-50d1eb0688ed-d15ab3a3"
+            href="/resume"
+            class="intro-title-nav w-inline-block"
+          >
             <div class="intro-serial">03</div>
             <h1 class="heading-jumbo intro-title">Résumé</h1>
           </a>
         </div>
       </div>
-      <div id="w-node-_6c8ff280-974d-1a63-b001-33f4ed6c02e7-d15ab3a3" class="div-block-43"></div>
-      <div id="w-node-_98a04129-8b22-c58f-74f2-ae4c007665b2-d15ab3a3" class="featured-work">
+      <div
+        id="w-node-_6c8ff280-974d-1a63-b001-33f4ed6c02e7-d15ab3a3"
+        class="div-block-43"
+      ></div>
+      <div
+        id="w-node-_98a04129-8b22-c58f-74f2-ae4c007665b2-d15ab3a3"
+        class="featured-work"
+      >
         <div class="div-block-45">
           <h1 class="featured-head">Featured Work<br /></h1>
         </div>
         <div class="featured-container">
-          <div class="featured-block"><a id="w-node-_6e193074-5fba-18ba-80ee-fe7415b0a33d-d15ab3a3" href="https://www.darkskies.co/" target="_blank" class="feature-work-item w-inline-block">
+          <div class="featured-block">
+            <a
+              id="w-node-_6e193074-5fba-18ba-80ee-fe7415b0a33d-d15ab3a3"
+              href="https://www.darkskies.co/"
+              target="_blank"
+              class="feature-work-item w-inline-block"
+            >
               <div class="feature---work-image cc-work-9"></div>
               <div class="work-description">
                 <div class="div-block-44">
-                  <div class="project-name-link">Darksky Planner<br /></div><img src="images/open_in_new_black_24dp-20-20white.svg" loading="lazy" alt="animated more icon" class="icon" />
+                  <div class="project-name-link">Darksky Planner<br /></div>
+                  <img
+                    src="images/open_in_new_black_24dp-20-20white.svg"
+                    loading="lazy"
+                    alt="animated more icon"
+                    class="icon"
+                  />
                 </div>
                 <div class="w-layout-hflex flex-block-10--long">
                   <div class="project-desc">Front-end dev</div>
@@ -177,11 +318,19 @@
                 </div>
               </div>
               <div class="work-depthbar"></div>
-            </a></div>
-          <div class="featured-block"><a id="w-node-_9803d464-a8b9-c903-3d7a-4d24a2575274-d15ab3a3" href="/work/hyderabad-travel-tourism" class="feature-work-item w-inline-block">
+            </a>
+          </div>
+          <div class="featured-block">
+            <a
+              id="w-node-_9803d464-a8b9-c903-3d7a-4d24a2575274-d15ab3a3"
+              href="/work/hyderabad-travel-tourism"
+              class="feature-work-item w-inline-block"
+            >
               <div class="feature---work-image cc-work-1"></div>
               <div class="work-description">
-                <div class="project-name-link">Hyderabad Travel &amp; Tourism<br /></div>
+                <div class="project-name-link">
+                  Hyderabad Travel &amp; Tourism<br />
+                </div>
                 <div class="w-layout-hflex flex-block-10">
                   <div class="project-desc">UI DESIGN</div>
                   <div class="divider-dot">.</div>
@@ -191,28 +340,78 @@
                 </div>
               </div>
               <div class="work-depthbar"></div>
-            </a></div>
-        </div><a data-w-id="98a04129-8b22-c58f-74f2-ae4c007665d1" href="#work-magnet" class="more-wrapper w-inline-block"><img src="images/more.svg" loading="lazy" alt="animated more icon" class="more-icon" /></a>
-      </div><a id="w-node-_20098a4e-df80-5bfb-5523-06eddf76ccd3-d15ab3a3" data-w-id="20098a4e-df80-5bfb-5523-06eddf76ccd3" href="#work-magnet" class="more-wrapper w-inline-block"><img src="images/more.svg" loading="lazy" data-w-id="20098a4e-df80-5bfb-5523-06eddf76ccd4" alt="animated more icon" class="more-icon" /></a>
+            </a>
+          </div>
+        </div>
+        <a
+          data-w-id="98a04129-8b22-c58f-74f2-ae4c007665d1"
+          href="#work-magnet"
+          class="more-wrapper w-inline-block"
+          ><img
+            src="images/more.svg"
+            loading="lazy"
+            alt="animated more icon"
+            class="more-icon"
+        /></a>
+      </div>
+      <a
+        id="w-node-_20098a4e-df80-5bfb-5523-06eddf76ccd3-d15ab3a3"
+        data-w-id="20098a4e-df80-5bfb-5523-06eddf76ccd3"
+        href="#work-magnet"
+        class="more-wrapper w-inline-block"
+        ><img
+          src="images/more.svg"
+          loading="lazy"
+          data-w-id="20098a4e-df80-5bfb-5523-06eddf76ccd4"
+          alt="animated more icon"
+          class="more-icon"
+      /></a>
     </div>
     <div id="work-magnet" class="magnet"></div>
-    <footer id="work-section" data-w-id="dff26f68-5731-3efa-d3dd-8f65c72d8fa3" class="section-work">
-      <div data-current="Tab 2" data-easing="ease" data-duration-in="600" data-duration-out="200" class="tabs-3 w-tabs">
-        <div class="work-tabs-menu w-tab-menu"><a data-w-tab="ALL" class="work-tab-link w-inline-block w-tab-link">
-            <div class="text-block-9">ALL WORK</div>
-          </a><a data-w-tab="Tab 2" class="work-tab-link w-inline-block w-tab-link w--current">
-            <div class="text-block-7">UX PROJECTS</div>
-          </a><a data-w-tab="Tab 5" class="work-tab-link w-inline-block w-tab-link">
-            <div>VISUALIZATION</div>
-          </a><a data-w-tab="Tab 4" class="work-tab-link last-link w-inline-block w-tab-link">
+    <footer
+      id="work-section"
+      data-w-id="dff26f68-5731-3efa-d3dd-8f65c72d8fa3"
+      class="section-work"
+    >
+      <div
+        data-current="Tab 2"
+        data-easing="ease"
+        data-duration-in="600"
+        data-duration-out="200"
+        class="tabs-3 w-tabs"
+      >
+        <div class="work-tabs-menu w-tab-menu">
+          <a data-w-tab="ALL" class="work-tab-link w-inline-block w-tab-link">
+            <div class="text-block-9">ALL WORK</div> </a
+          ><a
+            data-w-tab="Tab 2"
+            class="work-tab-link w-inline-block w-tab-link w--current"
+          >
+            <div class="text-block-7">UX PROJECTS</div> </a
+          ><a
+            data-w-tab="Tab 5"
+            class="work-tab-link w-inline-block w-tab-link"
+          >
+            <div>VISUALIZATION</div> </a
+          ><a
+            data-w-tab="Tab 4"
+            class="work-tab-link last-link w-inline-block w-tab-link"
+          >
             <div class="text-block-8">MORE DESIGNS</div>
-          </a></div>
+          </a>
+        </div>
         <div class="tabs-content-2 w-tab-content">
           <div data-w-tab="ALL" class="tab-pane-all w-tab-pane">
-            <div class="w-layout-grid works-grid"><a href="/work/hyderabad-travel-tourism" class="work-item w-inline-block">
+            <div class="w-layout-grid works-grid">
+              <a
+                href="/work/hyderabad-travel-tourism"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image cc-work-1"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Hyderabad Travel &amp; Tourism<br /></div>
+                  <div class="project-name-link">
+                    Hyderabad Travel &amp; Tourism<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">UI DESIGN</div>
                     <div class="divider-dot">.</div>
@@ -221,17 +420,26 @@
                     <div class="project-desc">visual identity</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a href="/work/tourism-brand-logo" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                href="/work/tourism-brand-logo"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image work__coffeequality"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Coffee Quality Analysis<br /></div>
+                  <div class="project-name-link">
+                    Coffee Quality Analysis<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">data visualization</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a id="w-node-_53c1212c-e7fe-c48e-2f33-cd8097377d3e-d15ab3a3" href="/work/blackboard-learn" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                id="w-node-_53c1212c-e7fe-c48e-2f33-cd8097377d3e-d15ab3a3"
+                href="/work/blackboard-learn"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image cc-work-2"></div>
                 <div class="work-description">
                   <div class="project-name-link">Blackboard Learn<br /></div>
@@ -243,37 +451,52 @@
                     <div class="project-desc">prototyping</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a href="/work/project-d-posters" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                href="/work/project-d-posters"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image work__project-d"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Project-D Digital Posters<br /></div>
+                  <div class="project-name-link">
+                    Project-D Digital Posters<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">graphic design</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a href="/work/visualizing-a-virus-outbreak" class="work-item work-hidden w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                href="/work/visualizing-a-virus-outbreak"
+                class="work-item work-hidden w-inline-block"
+              >
                 <div class="work-image work__virus-outbreak"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Visualizing a Virus Outbreak<br /></div>
+                  <div class="project-name-link">
+                    Visualizing a Virus Outbreak<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">Data visualization</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a href="/work/improving-the-tactility-of-touch-interfaces" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                href="/work/improving-the-tactility-of-touch-interfaces"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image work__tactile-interfaces"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Improving the Tactility of Touch Interfaces<br /></div>
+                  <div class="project-name-link">
+                    Improving the Tactility of Touch Interfaces<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">research paper</div>
                     <div class="divider-dot">.</div>
                     <div class="project-desc">human-computer Interaction</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a href="/work/beagle" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a href="/work/beagle" class="work-item w-inline-block">
                 <div class="work-image cc-work-3"></div>
                 <div class="work-description">
                   <div class="project-name-link">Beagle<br /></div>
@@ -281,17 +504,27 @@
                     <div class="project-desc">heuristic analysis</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a id="w-node-f058bc83-c393-34b7-847d-ff802e2d9c2b-d15ab3a3" href="/work/engineering-week-logo" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                id="w-node-f058bc83-c393-34b7-847d-ff802e2d9c2b-d15ab3a3"
+                href="/work/engineering-week-logo"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image work__engg-week"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Engineering Week @ UMBC<br /></div>
+                  <div class="project-name-link">
+                    Engineering Week @ UMBC<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">logo design</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a id="w-node-bb36805f-fd18-f434-0967-6b3affd98ddf-d15ab3a3" href="/work/tourism-brand-logo" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                id="w-node-bb36805f-fd18-f434-0967-6b3affd98ddf-d15ab3a3"
+                href="/work/tourism-brand-logo"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image work__htt-logo"></div>
                 <div class="work-description">
                   <div class="project-name-link">Tourism Brand Logo<br /></div>
@@ -300,13 +533,23 @@
                   </div>
                 </div>
                 <div class="work-depthbar"></div>
-              </a></div>
+              </a>
+            </div>
           </div>
-          <div data-w-tab="Tab 2" class="tab-pane-tab-2 w-tab-pane w--tab-active">
-            <div class="w-layout-grid works-grid"><a href="/work/hyderabad-travel-tourism" class="work-item w-inline-block">
+          <div
+            data-w-tab="Tab 2"
+            class="tab-pane-tab-2 w-tab-pane w--tab-active"
+          >
+            <div class="w-layout-grid works-grid">
+              <a
+                href="/work/hyderabad-travel-tourism"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image cc-work-1"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Hyderabad Travel &amp; Tourism<br /></div>
+                  <div class="project-name-link">
+                    Hyderabad Travel &amp; Tourism<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">UI DESIGN</div>
                     <div class="divider-dot">.</div>
@@ -315,8 +558,11 @@
                     <div class="project-desc">visual identity</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a href="/work/blackboard-learn" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                href="/work/blackboard-learn"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image cc-work-2"></div>
                 <div class="work-description">
                   <div class="project-name-link">Blackboard Learn<br /></div>
@@ -328,28 +574,38 @@
                     <div class="project-desc">prototyping</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a href="/work/visualizing-a-virus-outbreak" class="work-item work-hidden w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                href="/work/visualizing-a-virus-outbreak"
+                class="work-item work-hidden w-inline-block"
+              >
                 <div class="work-image work__virus-outbreak"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Visualizing a Virus Outbreak<br /></div>
+                  <div class="project-name-link">
+                    Visualizing a Virus Outbreak<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">Data visualization</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a href="/work/improving-the-tactility-of-touch-interfaces" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                href="/work/improving-the-tactility-of-touch-interfaces"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image work__tactile-interfaces"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Improving the Tactility of Touch Interfaces<br /></div>
+                  <div class="project-name-link">
+                    Improving the Tactility of Touch Interfaces<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">research paper</div>
                     <div class="divider-dot">.</div>
                     <div class="project-desc">human-computer Interaction</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a href="/work/beagle" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a href="/work/beagle" class="work-item w-inline-block">
                 <div class="work-image cc-work-3"></div>
                 <div class="work-description">
                   <div class="project-name-link">Beagle<br /></div>
@@ -358,40 +614,64 @@
                   </div>
                 </div>
                 <div class="work-depthbar"></div>
-              </a></div>
+              </a>
+            </div>
           </div>
           <div data-w-tab="Tab 5" class="tab-pane-tab-5 w-tab-pane">
-            <div class="w-layout-grid works-grid"><a id="w-node-bb55b923-7185-f074-98e0-e9a1a4fa93fe-d15ab3a3" href="/work/coffee-quality-analysis" class="work-item w-inline-block">
+            <div class="w-layout-grid works-grid">
+              <a
+                id="w-node-bb55b923-7185-f074-98e0-e9a1a4fa93fe-d15ab3a3"
+                href="/work/coffee-quality-analysis"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image work__coffeequality"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Coffee Quality Analysis<br /></div>
+                  <div class="project-name-link">
+                    Coffee Quality Analysis<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">data visualization</div>
                   </div>
                 </div>
                 <div class="work-depthbar"></div>
-              </a></div>
+              </a>
+            </div>
           </div>
           <div data-w-tab="Tab 4" class="tab-pane-tab-4 w-tab-pane">
-            <div class="w-layout-grid works-grid"><a id="w-node-_7cc23e29-ccee-d181-614f-7095b00e2e5b-d15ab3a3" href="/work/project-d-posters" class="work-item w-inline-block">
+            <div class="w-layout-grid works-grid">
+              <a
+                id="w-node-_7cc23e29-ccee-d181-614f-7095b00e2e5b-d15ab3a3"
+                href="/work/project-d-posters"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image work__project-d"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Project-D Digital Posters<br /></div>
+                  <div class="project-name-link">
+                    Project-D Digital Posters<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">graphic design</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a href="/work/engineering-week-logo" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                href="/work/engineering-week-logo"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image work__engg-week"></div>
                 <div class="work-description">
-                  <div class="project-name-link">Engineering Week @ UMBC<br /></div>
+                  <div class="project-name-link">
+                    Engineering Week @ UMBC<br />
+                  </div>
                   <div class="w-layout-hflex flex-block-10">
                     <div class="project-desc">logo design</div>
                   </div>
                 </div>
-                <div class="work-depthbar"></div>
-              </a><a href="/work/tourism-brand-logo" class="work-item w-inline-block">
+                <div class="work-depthbar"></div> </a
+              ><a
+                href="/work/tourism-brand-logo"
+                class="work-item w-inline-block"
+              >
                 <div class="work-image work__htt-logo"></div>
                 <div class="work-description">
                   <div class="project-name-link">Tourism Brand Logo<br /></div>
@@ -400,7 +680,8 @@
                   </div>
                 </div>
                 <div class="work-depthbar"></div>
-              </a></div>
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -410,26 +691,54 @@
         <div class="footer-text">design and built by</div>
         <div class="footer-text footer-name">Sahith Reddy</div>
         <div class="div-block-6">
-          <div class="footer-text footer-contact">Torrance, CA</div><a href="mailto:sahithreddy.a@gmail.com?subject=Hello%20Sahith!" class="w-inline-block">
-            <div class="footer-text footer-contact">sahithreddy.a@gmail.com</div>
-          </a><a href="tel:+14436318332" class="w-inline-block">
+          <div class="footer-text footer-contact">New Jersey</div>
+          <a
+            href="mailto:sahithreddy.a@gmail.com?subject=Hello%20Sahith!"
+            class="w-inline-block"
+          >
+            <div class="footer-text footer-contact">
+              sahithreddy.a@gmail.com
+            </div> </a
+          ><a href="tel:+14436318332" class="w-inline-block">
             <div class="footer-text footer-contact">+1 (443) 631-8332</div>
           </a>
         </div>
-        <div class="div-block-4"><a href="https://github.com/sahithreddya" target="_blank" class="social-link w-inline-block">
+        <div class="div-block-4">
+          <a
+            href="https://github.com/sahithreddya"
+            target="_blank"
+            class="social-link w-inline-block"
+          >
             <div class="social">github</div>
           </a>
-          <div class="social social-divider">/</div><a href="https://www.linkedin.com/in/sahithreddya/" target="_blank" class="social-link w-inline-block">
+          <div class="social social-divider">/</div>
+          <a
+            href="https://www.linkedin.com/in/sahithreddya/"
+            target="_blank"
+            class="social-link w-inline-block"
+          >
             <div class="social">LinKEDIN</div>
           </a>
-          <div class="social social-divider">/</div><a href="https://behance.com/sahithreddya" target="_blank" class="social-link w-inline-block">
+          <div class="social social-divider">/</div>
+          <a
+            href="https://behance.com/sahithreddya"
+            target="_blank"
+            class="social-link w-inline-block"
+          >
             <div class="social">BEHANCE</div>
           </a>
         </div>
       </div>
     </div>
-    <div style="display:block" class="loading-overlay"><img src="images/sr-logo.svg" loading="lazy" alt="Sahith Reddy website logo" class="image-21" /></div>
-    <script src="js/jquery.js" type="text/javascript"  ></script>
+    <div style="display: block" class="loading-overlay">
+      <img
+        src="images/sr-logo.svg"
+        loading="lazy"
+        alt="Sahith Reddy website logo"
+        class="image-21"
+      />
+    </div>
+    <script src="js/jquery.js" type="text/javascript"></script>
     <script src="js/webflow-script.js" type="text/javascript"></script>
     <script>
       // The function actually applying the offset
@@ -440,10 +749,10 @@
       }
 
       // Captures click events of all <a> elements with href starting with #
-      $(document).on('click', 'a[href^="#"]', function(e) {
+      $(document).on("click", 'a[href^="#"]', function (e) {
         // Click events are captured before hashchanges. Timeout
         // causes offsetAnchor to be called after the page jump.
-        window.setTimeout(function() {
+        window.setTimeout(function () {
           offsetAnchor(e);
         }, 10);
       });
